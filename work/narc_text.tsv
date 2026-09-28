@@ -1,0 +1,426 @@
+archive	member	line	px	wrap_px	context	japanese	english
+info/subgraphics/madu_equip.narc	4	1	57	232			None
+info/subgraphics/madu_jump.narc	7	1	125	232			's island. Traveling there.
+info/subgraphics/madu_jump.narc	7	3	181	232			Travel to a spot near a friend.
+info/subgraphics/madu_jump.narc	7	5	173	232			Really return to the island?
+info/subgraphics/madu_jump.narc	7	7	173	232			Whose side will you travel to?
+info/subgraphics/madu_jump.narc	7	9	187	232			You're out cold and cannot move.
+info/subgraphics/madu_jump.narc	7	11	158	232			You can't Jump right now.
+info/subgraphics/madu_map.narc	29	1	54	232			Ore Vein
+info/subgraphics/madu_map.narc	29	3	52	232			Plants
+info/subgraphics/madu_map.narc	29	5	34	232			Fishing
+info/subgraphics/madu_map.narc	29	7	46	232			Exchange
+info/subgraphics/madu_map.narc	29	9	70	232			Spin Slash
+info/subgraphics/madu_map.narc	29	11	67	232			Jump Slash
+info/subgraphics/madu_map.narc	29	13	64	232			Vacuum Slash
+info/subgraphics/madu_map.narc	29	15	43	232			Shield
+info/subgraphics/madu_map.narc	29	16	63	232			   Bash
+info/subgraphics/madu_map.narc	29	18	47	232			Charge
+info/subgraphics/madu_map.narc	29	20	46	232			Spirit
+info/subgraphics/madu_map.narc	29	21	54	232			   Flame
+info/subgraphics/madu_map.narc	29	23	47	232			Cheer
+info/subgraphics/madu_map.narc	29	25	48	232			War Cry
+info/subgraphics/madu_map.narc	29	27	56	232			Swordplay
+info/subgraphics/madu_map.narc	29	29	31	232			Guard
+info/subgraphics/madu_map.narc	29	31	45	232			Combo
+info/subgraphics/madu_map.narc	29	32	64	232			   Attack
+info/subgraphics/madu_map.narc	29	34	47	232			Finishing
+info/subgraphics/madu_map.narc	29	35	65	232			   Blow
+info/subgraphics/madu_map.narc	29	37	45	232			Damage
+info/subgraphics/madu_map.narc	29	38	61	232			   Counter
+info/subgraphics/madu_map.narc	29	40	68	232			Power Up
+info/subgraphics/madu_map.narc	29	42	48	232			Gulp
+info/subgraphics/madu_map.narc	29	44	45	232			Plunder
+info/subgraphics/madu_map.narc	29	46	48	232			Fireball
+info/subgraphics/madu_map.narc	29	48	69	232			Inferno
+info/subgraphics/madu_map.narc	29	50	55	232			Deep Freeze
+info/subgraphics/madu_map.narc	29	52	55	232			Ice Lance
+info/subgraphics/madu_map.narc	29	54	43	232			Poison Sting
+info/subgraphics/madu_map.narc	29	56	47	232			Sleep
+info/subgraphics/madu_map.narc	29	58	34	232			Stasis
+info/subgraphics/madu_map.narc	29	60	46	232			Ultimate
+info/subgraphics/madu_map.narc	29	61	49	232			<blank>
+info/subgraphics/madu_map.narc	29	63	64	232			Synchrod
+info/subgraphics/madu_map.narc	29	65	45	232			Mana
+info/subgraphics/madu_map.narc	29	66	51	232			   Power
+info/subgraphics/madu_map.narc	29	68	45	232			Magic
+info/subgraphics/madu_map.narc	29	69	52	232			   Barrier
+info/subgraphics/madu_map.narc	29	71	40	232			Magic
+info/subgraphics/madu_map.narc	29	72	52	232			   Up
+info/subgraphics/madu_map.narc	29	74	47	232			Meditate
+info/subgraphics/madu_map.narc	29	76	58	232			Mana Up
+info/subgraphics/madu_map.narc	29	78	48	232			Eager
+info/subgraphics/madu_map.narc	29	79	51	232			   Mind
+info/subgraphics/madu_map.narc	29	81	65	232			Herbalism
+info/subgraphics/madu_map.narc	29	83	42	232			Blade
+info/subgraphics/madu_map.narc	29	84	61	232			   Storm
+info/subgraphics/madu_map.narc	29	86	36	232			Double
+info/subgraphics/madu_map.narc	29	87	74	232			   Slash
+info/subgraphics/madu_map.narc	29	89	45	232			Dash
+info/subgraphics/madu_map.narc	29	90	62	232			   Thrust
+info/subgraphics/madu_map.narc	29	92	46	232			Paralyze
+info/subgraphics/madu_map.narc	29	93	60	232			   Shot
+info/subgraphics/madu_map.narc	29	95	46	232			Poison
+info/subgraphics/madu_map.narc	29	96	60	232			   Shot
+info/subgraphics/madu_map.narc	29	98	56	232			Hand Bomb
+info/subgraphics/madu_map.narc	29	100	58	232			Time Bomb
+info/subgraphics/madu_map.narc	29	102	43	232			Quick
+info/subgraphics/madu_map.narc	29	103	62	232			   Charge
+info/subgraphics/madu_map.narc	29	105	64	232			Dual Wield
+info/subgraphics/madu_map.narc	29	107	46	232			Slip Past
+info/subgraphics/madu_map.narc	29	109	57	232			Parry
+info/subgraphics/madu_map.narc	29	111	51	232			Treasure
+info/subgraphics/madu_map.narc	29	112	56	232			    Hunt
+info/subgraphics/madu_map.narc	29	114	43	232			Gold
+info/subgraphics/madu_map.narc	29	115	50	232			   Hunt
+info/subgraphics/madu_map.narc	29	117	24	232			Del
+info/subgraphics/madu_map.narc	29	118	72	232			 Critical
+info/subgraphics/madu_map.narc	29	120	46	232			Swift Foot
+info/subgraphics/madu_map.narc	29	122	54	232			Recharge
+info/subgraphics/madu_map.narc	29	123	58	232			    Up
+info/subgraphics/madu_map.narc	29	125	43	232			Healas
+info/subgraphics/madu_map.narc	29	127	58	232			Curas
+info/subgraphics/madu_map.narc	29	129	57	232			Knock Away
+info/subgraphics/madu_map.narc	29	131	60	232			Wide Swing
+info/subgraphics/madu_map.narc	29	133	55	232			Lightning
+info/subgraphics/madu_map.narc	29	135	35	232			Thunderclap
+info/subgraphics/madu_map.narc	29	136	51	232			<blank>
+info/subgraphics/madu_map.narc	29	138	36	232			Love Pulse
+info/subgraphics/madu_map.narc	29	140	34	232			Love Beam
+info/subgraphics/madu_map.narc	29	141	51	232			<blank>
+info/subgraphics/madu_map.narc	29	143	45	232			Hammer
+info/subgraphics/madu_map.narc	29	144	50	232			   Arts
+info/subgraphics/madu_map.narc	29	146	44	232			Defense
+info/subgraphics/madu_map.narc	29	147	50	232			   Arts
+info/subgraphics/madu_map.narc	29	149	46	232			Stamp
+info/subgraphics/madu_map.narc	29	150	60	232			   Speed
+info/subgraphics/madu_map.narc	29	152	46	232			Stamp
+info/subgraphics/madu_map.narc	29	153	51	232			   Power
+info/subgraphics/madu_map.narc	29	155	46	232			Angel's
+info/subgraphics/madu_map.narc	29	156	52	232			   Guard
+info/subgraphics/madu_map.narc	29	158	47	232			Serenity
+info/subgraphics/madu_map.narc	29	160	67	232			Life Up
+info/subgraphics/madu_map.narc	29	162	65	232			Life Link
+info/subgraphics/madu_map.narc	29	164	55	232			Soldier
+info/subgraphics/madu_map.narc	29	166	30	232			Sword
+info/subgraphics/madu_map.narc	29	167	63	232			   Master
+info/subgraphics/madu_map.narc	29	169	67	232			Guardian
+info/subgraphics/madu_map.narc	29	171	33	232			Battle
+info/subgraphics/madu_map.narc	29	172	62	232			   Order
+info/subgraphics/madu_map.narc	29	174	67	232			Barbarian
+info/subgraphics/madu_map.narc	29	176	45	232			Gladi
+info/subgraphics/madu_map.narc	29	177	62	232			   ator
+info/subgraphics/madu_map.narc	29	179	64	232			Servant
+info/subgraphics/madu_map.narc	29	181	54	232			Sorcerer
+info/subgraphics/madu_map.narc	29	183	51	232			Wizard
+info/subgraphics/madu_map.narc	29	185	68	232			Alchemist
+info/subgraphics/madu_map.narc	29	187	44	232			Chronos
+info/subgraphics/madu_map.narc	29	189	45	232			Magic
+info/subgraphics/madu_map.narc	29	190	62	232			   User
+info/subgraphics/madu_map.narc	29	192	53	232			Ranger
+info/subgraphics/madu_map.narc	29	194	47	232			Assassin
+info/subgraphics/madu_map.narc	29	196	51	232			Treasure
+info/subgraphics/madu_map.narc	29	197	62	232			   Hunter
+info/subgraphics/madu_map.narc	29	199	42	232			Speed
+info/subgraphics/madu_map.narc	29	200	63	232			   Master
+info/subgraphics/madu_map.narc	29	202	40	232			Trick
+info/subgraphics/madu_map.narc	29	203	51	232			   ster
+info/subgraphics/madu_map.narc	29	205	42	232			Scout
+info/subgraphics/madu_map.narc	29	207	54	232			Acolyte
+info/subgraphics/madu_map.narc	29	209	56	232			Paladin
+info/subgraphics/madu_map.narc	29	211	41	232			Healer
+info/subgraphics/madu_map.narc	29	213	52	232			Cleric
+info/subgraphics/madu_map.narc	29	215	35	232			Sage
+info/subgraphics/madu_map.narc	29	217	53	232			Bishop
+info/subgraphics/madu_map.narc	29	219	46	232			Lavender
+info/subgraphics/madu_map.narc	29	221	34	232			Parsley
+info/subgraphics/madu_map.narc	29	223	31	232			Mint
+info/subgraphics/madu_map.narc	29	225	34	232			Mugwort
+info/subgraphics/madu_map.narc	29	227	45	232			Saffron
+info/subgraphics/madu_map.narc	29	229	55	232			Yakutanon
+info/subgraphics/madu_map.narc	29	231	59	232			Red Box
+info/subgraphics/madu_map.narc	29	233	59	232			Blue Box
+info/subgraphics/madu_map.narc	29	235	70	232			Yellow Box
+info/subgraphics/madu_map.narc	29	237	69	232			Green Box
+info/subgraphics/madu_map.narc	29	239	24	232			Miso
+info/subgraphics/madu_map.narc	29	241	22	232			Salt
+info/subgraphics/madu_map.narc	29	243	42	232			Soy Sauce
+info/subgraphics/madu_map.narc	29	245	46	232			Tonkotsu
+info/subgraphics/madu_map.narc	29	247	56	232			Charumera
+info/subgraphics/madu_map.narc	29	248	54	232			    Miso
+info/subgraphics/madu_map.narc	29	250	56	232			Charumera
+info/subgraphics/madu_map.narc	29	251	52	232			    Salt
+info/subgraphics/madu_map.narc	29	253	56	232			Charumera
+info/subgraphics/madu_map.narc	29	254	54	232			  Soy Sauce
+info/subgraphics/madu_map.narc	29	256	56	232			Charumera
+info/subgraphics/madu_map.narc	29	257	58	232			  Tonkotsu
+info/subgraphics/madu_map.narc	29	259	58	232			Healing Sp.
+info/subgraphics/madu_map.narc	29	261	57	232			Spirit Sp.
+info/subgraphics/madu_map.narc	29	263	59	232			Golden Sp.
+info/subgraphics/madu_map.narc	29	265	60	232			Verdant Sp.
+info/subgraphics/madu_map.narc	29	267	44	232			Super
+info/subgraphics/madu_map.narc	29	268	70	232			  Healing Sp.
+info/subgraphics/madu_map.narc	29	270	44	232			Super
+info/subgraphics/madu_map.narc	29	271	69	232			  Spirit Sp.
+info/subgraphics/madu_map.narc	29	273	44	232			Super
+info/subgraphics/madu_map.narc	29	274	71	232			  Golden Sp.
+info/subgraphics/madu_map.narc	29	276	44	232			Super
+info/subgraphics/madu_map.narc	29	277	72	232			  Verdant Sp.
+info/subgraphics/madu_map.narc	29	279	48	232			Pickles
+info/subgraphics/madu_map.narc	29	281	46	232			Tailor
+info/subgraphics/madu_map.narc	29	283	42	232			Shop
+info/subgraphics/madu_medal.narc	20	2	75	232			Maximum HP
+info/subgraphics/madu_medal.narc	20	3	62	232			increases.
+info/subgraphics/madu_medal.narc	20	6	77	232			Maximum MP
+info/subgraphics/madu_medal.narc	20	7	62	232			increases.
+info/subgraphics/madu_medal.narc	20	10	48	232			The MP you need
+info/subgraphics/madu_medal.narc	20	11	69	232			when using
+info/subgraphics/madu_medal.narc	20	12	88	232			skills
+info/subgraphics/madu_medal.narc	20	13	70	232			is reduced.
+info/subgraphics/madu_medal.narc	20	16	48	232			Items in
+info/subgraphics/madu_medal.narc	20	17	59	232			shops
+info/subgraphics/madu_medal.narc	20	18	68	232			become
+info/subgraphics/madu_medal.narc	20	19	61	232			cheaper.
+info/subgraphics/madu_medal.narc	20	22	36	232			Fewer items
+info/subgraphics/madu_medal.narc	20	23	66	232			are needed
+info/subgraphics/madu_medal.narc	20	24	58	232			when
+info/subgraphics/madu_medal.narc	20	25	59	232			crafting
+info/subgraphics/madu_medal.narc	20	26	70	232			weapons.
+info/subgraphics/madu_medal.narc	20	29	46	232			Fewer items
+info/subgraphics/madu_medal.narc	20	30	66	232			are needed
+info/subgraphics/madu_medal.narc	20	31	58	232			when
+info/subgraphics/madu_medal.narc	20	32	59	232			crafting
+info/subgraphics/madu_medal.narc	20	33	70	232			armor.
+info/subgraphics/madu_medal.narc	20	36	69	232			Fewer items
+info/subgraphics/madu_medal.narc	20	37	66	232			are needed
+info/subgraphics/madu_medal.narc	20	38	58	232			when making
+info/subgraphics/madu_medal.narc	20	39	59	232			accessories.
+info/subgraphics/madu_medal.narc	20	40	70	232			<blank>
+info/subgraphics/madu_medal.narc	20	43	52	232			Fewer items
+info/subgraphics/madu_medal.narc	20	44	66	232			are needed
+info/subgraphics/madu_medal.narc	20	45	58	232			when
+info/subgraphics/madu_medal.narc	20	46	59	232			cooking
+info/subgraphics/madu_medal.narc	20	47	70	232			dishes.
+info/subgraphics/madu_medal.narc	20	50	52	232			Nutrition
+info/subgraphics/madu_medal.narc	20	51	70	232			gained from
+info/subgraphics/madu_medal.narc	20	52	46	232			eating
+info/subgraphics/madu_medal.narc	20	53	58	232			food
+info/subgraphics/madu_medal.narc	20	54	62	232			increases.
+info/subgraphics/madu_medal.narc	20	57	63	232			Recovery from
+info/subgraphics/madu_medal.narc	20	58	85	232			poison, dizzy,
+info/subgraphics/madu_medal.narc	20	59	58	232			sleep, paralysis
+info/subgraphics/madu_medal.narc	20	60	54	232			becomes
+info/subgraphics/madu_medal.narc	20	61	62	232			faster.
+info/subgraphics/madu_medal.narc	20	64	54	232			The number of
+info/subgraphics/madu_medal.narc	20	65	52	232			harvests from
+info/subgraphics/madu_medal.narc	20	66	63	232			veins, plants
+info/subgraphics/madu_medal.narc	20	67	93	232			and fishing
+info/subgraphics/madu_medal.narc	20	68	62	232			increases.
+info/subgraphics/madu_medal.narc	21	1	23	232			 ppl
+info/subgraphics/madu_medal.narc	21	3	12	232			LV
+info/subgraphics/madu_medal.narc	21	5	43	232			 kinds
+info/subgraphics/madu_medal.narc	21	7	24	232			 foes
+info/subgraphics/madu_medal.narc	21	9	45	232			 Damage
+info/subgraphics/madu_medal.narc	21	11	61	232			 kinds 
+info/subgraphics/madu_medal.narc	21	12	36	232			cleared!
+info/subgraphics/madu_medal.narc	21	14	33	232			1P
+info/subgraphics/madu_medal.narc	21	16	34	232			2P
+info/subgraphics/madu_medal.narc	21	18	46	232			3P
+info/subgraphics/madu_medal.narc	21	20	34	232			4P
+info/subgraphics/madu_medal.narc	21	22	35	232			5P
+info/subgraphics/madu_medal.narc	21	24	43	232			6P
+info/subgraphics/madu_medal.narc	21	26	47	232			7P
+info/subgraphics/madu_medal.narc	21	28	46	232			8P
+info/subgraphics/madu_present.narc	19	1	18	232			 will be traded for 
+info/subgraphics/madu_present.narc	19	2	102	232			.
+info/subgraphics/madu_quest.narc	17	2	136	232			Collecting gemstones -
+info/subgraphics/madu_quest.narc	17	3	167	232			a curvy rose sorceress
+info/subgraphics/madu_quest.narc	17	6	184	232			Seeking materials for inventions -
+info/subgraphics/madu_quest.narc	17	7	174	232			a researcher of magic engineering
+info/subgraphics/madu_quest.narc	17	10	194	232			A magical girl seeking happiness -
+info/subgraphics/madu_quest.narc	17	11	157	232			she loves cute(?) things
+info/subgraphics/madu_quest.narc	17	14	196	232			A samurai aiming to be a chef -
+info/subgraphics/madu_quest.narc	17	15	140	232			seeking ingredients
+info/subgraphics/madu_quest.narc	17	18	167	232			An apothecary who brews potions -
+info/subgraphics/madu_quest.narc	17	19	188	232			collecting medicine ingredients
+info/subgraphics/madu_quest.narc	17	22	121	232			To save the galaxy -
+info/subgraphics/madu_quest.narc	17	23	161	232			a warrior of love fighting evil
+info/subgraphics/madu_quest.narc	17	26	216	232			
+info/subgraphics/madu_quest.narc	17	27	216	232			
+info/subgraphics/madu_quest.narc	17	30	216	232			
+info/subgraphics/madu_quest.narc	17	31	216	232			
+info/subgraphics/madu_quest.narc	17	34	99	232			You have no quests
+info/subgraphics/madu_quest.narc	17	35	120	232			that have been requested.
+info/subgraphics/madu_ship.narc	14	1	162	232			Travel by ship.
+info/subgraphics/madu_ship.narc	14	2	157	232			Trade gifts.
+info/subgraphics/madu_ship.narc	14	3	119	232			Play together with everyone.
+info/subgraphics/madu_ship.narc	14	4	139	232			Disband the group.
+info/subgraphics/madu_ship.narc	14	6	184	232			Go to the castle where the king is.
+info/subgraphics/madu_ship.narc	14	7	200	232			Go to a Crossed friend's island.
+info/subgraphics/madu_ship.narc	14	8	207	232			Go to an island of strong monsters
+info/subgraphics/madu_ship.narc	14	9	159	232			(tmp) Go to the secret island
+info/subgraphics/madu_ship.narc	14	10	33	232			?  ?  ?
+info/subgraphics/madu_shop.narc	18	1	18	232			 will be traded for 
+info/subgraphics/madu_shop.narc	18	2	102	232			.
+info/subgraphics/madu_skill_magic.narc	29	2	177	232			Fire a magic orb from your staff -
+info/subgraphics/madu_skill_magic.narc	29	3	134	232			the Mage's basic attack
+info/subgraphics/madu_skill_magic.narc	29	6	126	232			Hit the enemy with your staff
+info/subgraphics/madu_skill_magic.narc	29	7	123	232			to absorb MP
+info/subgraphics/madu_skill_magic.narc	29	10	149	232			Create a ball of flame and
+info/subgraphics/madu_skill_magic.narc	29	11	161	232			launch it at the enemy
+info/subgraphics/madu_skill_magic.narc	29	14	129	232			Burn every enemy around you
+info/subgraphics/madu_skill_magic.narc	29	15	187	232			with a pillar of searing fire
+info/subgraphics/madu_skill_magic.narc	29	18	141	232			Create a chill and hurl it
+info/subgraphics/madu_skill_magic.narc	29	19	153	232			to freeze the enemy
+info/subgraphics/madu_skill_magic.narc	29	22	168	232			Create a giant icicle and
+info/subgraphics/madu_skill_magic.narc	29	23	184	232			skewer enemies all at once
+info/subgraphics/madu_skill_magic.narc	29	26	166	232			Create a corrosive poison and
+info/subgraphics/madu_skill_magic.narc	29	27	157	232			leave the enemy poisoned
+info/subgraphics/madu_skill_magic.narc	29	30	159	232			Release a sleep-inducing gas
+info/subgraphics/madu_skill_magic.narc	29	31	175	232			to put enemies to sleep
+info/subgraphics/madu_skill_magic.narc	29	34	146	232			Harden the space around the foe
+info/subgraphics/madu_skill_magic.narc	29	35	191	232			to disable them for a time
+info/subgraphics/madu_skill_magic.narc	29	38	185	232			Ultimate magic: gather cosmic
+info/subgraphics/madu_skill_magic.narc	29	39	185	232			energy and detonate it
+info/subgraphics/madu_skill_magic.narc	29	42	185	232			Synchronize staff and spirit to
+info/subgraphics/madu_skill_magic.narc	29	43	163	232			strengthen your Attack
+info/subgraphics/madu_skill_magic.narc	29	46	131	232			The amount of MP you can drain
+info/subgraphics/madu_skill_magic.narc	29	47	135	232			with Mana Tool rises
+info/subgraphics/madu_skill_magic.narc	29	50	190	232			A magic barrier reduces fire,
+info/subgraphics/madu_skill_magic.narc	29	51	170	232			ice and thunder damage
+info/subgraphics/madu_skill_magic.narc	29	54	99	232			Raise the Magic of
+info/subgraphics/madu_skill_magic.narc	29	55	126	232			yourself and your allies
+info/subgraphics/madu_skill_magic.narc	29	58	188	232			Gain the power to recover MP
+info/subgraphics/madu_skill_magic.narc	29	59	179	232			when you or an ally beats a foe
+info/subgraphics/madu_skill_magic.narc	29	62	99	232			Raise the maximum MP of
+info/subgraphics/madu_skill_magic.narc	29	63	151	232			yourself and your allies
+info/subgraphics/madu_skill_magic.narc	29	66	151	232			Raise the experience
+info/subgraphics/madu_skill_magic.narc	29	67	145	232			you and your allies gain
+info/subgraphics/madu_skill_magic.narc	29	70	158	232			Raise how much your potions
+info/subgraphics/madu_skill_magic.narc	29	71	161	232			restore for you and your allies
+info/subgraphics/madu_skill_magic.narc	29	74	188	232			
+info/subgraphics/madu_skill_magic.narc	29	75	188	232			
+info/subgraphics/madu_skill_priest.narc	29	2	143	232			Batter nearby enemies
+info/subgraphics/madu_skill_priest.narc	29	3	68	232			with your hammer
+info/subgraphics/madu_skill_priest.narc	29	6	147	232			Gather your power and slam
+info/subgraphics/madu_skill_priest.narc	29	7	100	232			a single blow into the enemy
+info/subgraphics/madu_skill_priest.narc	29	10	173	232			Restore the HP of yourself
+info/subgraphics/madu_skill_priest.narc	29	11	113	232			and the allies around you
+info/subgraphics/madu_skill_priest.narc	29	14	173	232			Cure the status of yourself
+info/subgraphics/madu_skill_priest.narc	29	15	151	232			and the allies around you
+info/subgraphics/madu_skill_priest.narc	29	18	152	232			Unleash a fierce
+info/subgraphics/madu_skill_priest.narc	29	19	143	232			bludgeoning hammer attack
+info/subgraphics/madu_skill_priest.narc	29	22	141	232			Unleash a bludgeoning attack and
+info/subgraphics/madu_skill_priest.narc	29	23	162	232			scatter the enemies around you
+info/subgraphics/madu_skill_priest.narc	29	26	116	232			Fire a bolt of lightning to
+info/subgraphics/madu_skill_priest.narc	29	27	176	232			electrify the enemy it hits
+info/subgraphics/madu_skill_priest.narc	29	30	122	232			Smash the enemies around you
+info/subgraphics/madu_skill_priest.narc	29	31	140	232			with a colossal lightning bolt
+info/subgraphics/madu_skill_priest.narc	29	34	160	232			Purify the wickedness in the
+info/subgraphics/madu_skill_priest.narc	29	35	181	232			enemy's heart with love's power
+info/subgraphics/madu_skill_priest.narc	29	38	162	232			Purify all things with
+info/subgraphics/madu_skill_priest.narc	29	39	155	232			the ultimate beam of love
+info/subgraphics/madu_skill_priest.narc	29	42	177	232			Your hammer skill improves and
+info/subgraphics/madu_skill_priest.narc	29	43	163	232			your Attack grows stronger
+info/subgraphics/madu_skill_priest.narc	29	46	171	232			Your guarding improves, letting
+info/subgraphics/madu_skill_priest.narc	29	47	186	232			you block all kinds of attacks
+info/subgraphics/madu_skill_priest.narc	29	50	143	232			Power Stamp takes less
+info/subgraphics/madu_skill_priest.narc	29	51	153	232			time to charge
+info/subgraphics/madu_skill_priest.narc	29	54	179	232			The damage Power Stamp
+info/subgraphics/madu_skill_priest.narc	29	55	120	232			deals to enemies rises
+info/subgraphics/madu_skill_priest.narc	29	58	131	232			You resist poison, paralysis,
+info/subgraphics/madu_skill_priest.narc	29	59	145	232			sleep and dizziness
+info/subgraphics/madu_skill_priest.narc	29	62	188	232			Gain the power to recover HP
+info/subgraphics/madu_skill_priest.narc	29	63	177	232			when you or an ally beats a foe
+info/subgraphics/madu_skill_priest.narc	29	66	99	232			Raise the maximum HP of
+info/subgraphics/madu_skill_priest.narc	29	67	149	232			yourself and your allies
+info/subgraphics/madu_skill_priest.narc	29	70	173	232			Even when your HP would hit 0,
+info/subgraphics/madu_skill_priest.narc	29	71	167	232			sometimes you hold on at 1 HP
+info/subgraphics/madu_skill_priest.narc	29	74	188	232			
+info/subgraphics/madu_skill_priest.narc	29	75	188	232			
+info/subgraphics/madu_skill_soldier.narc	29	2	76	232			Swing your sword to attack
+info/subgraphics/madu_skill_soldier.narc	29	3	155	232			enemies nearby
+info/subgraphics/madu_skill_soldier.narc	29	6	145	232			Put your weight behind it and
+info/subgraphics/madu_skill_soldier.narc	29	7	95	232			cut the enemy hard
+info/subgraphics/madu_skill_soldier.narc	29	10	188	232			Spin as you sweep away all the
+info/subgraphics/madu_skill_soldier.narc	29	11	160	232			enemies around you at once
+info/subgraphics/madu_skill_soldier.narc	29	14	148	232			Jump and strike a distant
+info/subgraphics/madu_skill_soldier.narc	29	15	153	232			enemy from midair
+info/subgraphics/madu_skill_soldier.narc	29	18	174	232			Focus your spirit and loose a
+info/subgraphics/madu_skill_soldier.narc	29	19	168	232			shockwave that cuts through all
+info/subgraphics/madu_skill_soldier.narc	29	22	153	232			Batter the enemy with your shield
+info/subgraphics/madu_skill_soldier.narc	29	23	130	232			and knock them out
+info/subgraphics/madu_skill_soldier.narc	29	26	171	232			Brace your shield and charge the
+info/subgraphics/madu_skill_soldier.narc	29	27	183	232			enemy to knock them out
+info/subgraphics/madu_skill_soldier.narc	29	30	158	232			Cloak yourself in fighting flame
+info/subgraphics/madu_skill_soldier.narc	29	31	145	232			and burn the enemies around you
+info/subgraphics/madu_skill_soldier.narc	29	34	190	232			Raise a cheer to reduce the
+info/subgraphics/madu_skill_soldier.narc	29	35	168	232			damage your allies take
+info/subgraphics/madu_skill_soldier.narc	29	38	191	232			Raise a war cry to boost the
+info/subgraphics/madu_skill_soldier.narc	29	39	167	232			damage your allies deal
+info/subgraphics/madu_skill_soldier.narc	29	42	156	232			Your swordsmanship improves and
+info/subgraphics/madu_skill_soldier.narc	29	43	163	232			your Attack grows stronger
+info/subgraphics/madu_skill_soldier.narc	29	46	171	232			Your guarding improves, letting
+info/subgraphics/madu_skill_soldier.narc	29	47	186	232			you block all kinds of attacks
+info/subgraphics/madu_skill_soldier.narc	29	50	195	232			Damage rises while you are
+info/subgraphics/madu_skill_soldier.narc	29	51	120	232			attacking in a combo
+info/subgraphics/madu_skill_soldier.narc	29	54	187	232			Critical hit damage
+info/subgraphics/madu_skill_soldier.narc	29	55	122	232			rises sharply
+info/subgraphics/madu_skill_soldier.narc	29	58	167	232			Deal damage back to the enemy
+info/subgraphics/madu_skill_soldier.narc	29	59	169	232			when you take a physical hit
+info/subgraphics/madu_skill_soldier.narc	29	62	99	232			Raise the Power of
+info/subgraphics/madu_skill_soldier.narc	29	63	120	232			yourself and your allies
+info/subgraphics/madu_skill_soldier.narc	29	66	158	232			You and your allies drink
+info/subgraphics/madu_skill_soldier.narc	29	67	140	232			potions faster
+info/subgraphics/madu_skill_soldier.narc	29	70	188	232			When you or an ally beats a foe,
+info/subgraphics/madu_skill_soldier.narc	29	71	176	232			you can get plunder items
+info/subgraphics/madu_skill_soldier.narc	29	74	188	232			
+info/subgraphics/madu_skill_soldier.narc	29	75	188	232			
+info/subgraphics/madu_skill_thief.narc	29	2	76	232			Swing your sword to attack
+info/subgraphics/madu_skill_thief.narc	29	3	155	232			enemies nearby
+info/subgraphics/madu_skill_thief.narc	29	6	123	232			Dodge the enemy's attack
+info/subgraphics/madu_skill_thief.narc	29	7	159	232			with nimble footwork
+info/subgraphics/madu_skill_thief.narc	29	10	198	232			A great art: carve up foe after
+info/subgraphics/madu_skill_thief.narc	29	11	154	232			foe with a storm of blades
+info/subgraphics/madu_skill_thief.narc	29	14	163	232			Cut the enemy with both swords
+info/subgraphics/madu_skill_thief.narc	29	15	149	232			held in your hands at once
+info/subgraphics/madu_skill_thief.narc	29	18	167	232			Level your blade and dash through,
+info/subgraphics/madu_skill_thief.narc	29	19	198	232			cutting down every enemy ahead
+info/subgraphics/madu_skill_thief.narc	29	22	163	232			Throw a knife coated in paralytic
+info/subgraphics/madu_skill_thief.narc	29	23	152	232			medicine to paralyze the enemy
+info/subgraphics/madu_skill_thief.narc	29	26	172	232			Throw a poison-coated knife to
+info/subgraphics/madu_skill_thief.narc	29	27	156	232			leave the enemy poisoned
+info/subgraphics/madu_skill_thief.narc	29	30	124	232			Hurl a homemade bomb
+info/subgraphics/madu_skill_thief.narc	29	31	154	232			at the enemy
+info/subgraphics/madu_skill_thief.narc	29	34	170	232			Set a powerful dimension bomb
+info/subgraphics/madu_skill_thief.narc	29	35	116	232			at your feet
+info/subgraphics/madu_skill_thief.narc	29	38	153	232			Restore the recharge timers of
+info/subgraphics/madu_skill_thief.narc	29	39	184	232			your own and your allies' skills
+info/subgraphics/madu_skill_thief.narc	29	42	136	232			Your dual wielding improves and
+info/subgraphics/madu_skill_thief.narc	29	43	163	232			your Attack grows stronger
+info/subgraphics/madu_skill_thief.narc	29	46	187	232			Quick Act makes enemy attacks
+info/subgraphics/madu_skill_thief.narc	29	47	92	232			less likely to hit you
+info/subgraphics/madu_skill_thief.narc	29	50	157	232			Sometimes you can parry
+info/subgraphics/madu_skill_thief.narc	29	51	187	232			physical attacks from enemies
+info/subgraphics/madu_skill_thief.narc	29	54	152	232			Raise the item drop rate for
+info/subgraphics/madu_skill_thief.narc	29	55	160	232			yourself and your allies
+info/subgraphics/madu_skill_thief.narc	29	58	159	232			Raise the amount of gold
+info/subgraphics/madu_skill_thief.narc	29	59	160	232			you and your allies get
+info/subgraphics/madu_skill_thief.narc	29	62	171	232			You and your allies land
+info/subgraphics/madu_skill_thief.narc	29	63	132	232			critical hits more often
+info/subgraphics/madu_skill_thief.narc	29	66	99	232			Raise the movement speed of
+info/subgraphics/madu_skill_thief.narc	29	67	149	232			yourself and your allies
+info/subgraphics/madu_skill_thief.narc	29	70	153	232			Shorten the recharge timers of
+info/subgraphics/madu_skill_thief.narc	29	71	182	232			your own and your allies' skills
+info/subgraphics/madu_skill_thief.narc	29	74	188	232			
+info/subgraphics/madu_skill_thief.narc	29	75	188	232			
+info/subgraphics/madu_status.narc	35	1	163	232			No effect at present.
+info/subgraphics/madu_topmenu.narc	10	2	184	232			Check the dungeon map
+info/subgraphics/madu_topmenu.narc	10	4	197	232			Check the player's strength
+info/subgraphics/madu_topmenu.narc	10	6	191	232			Check your current equipment
+info/subgraphics/madu_topmenu.narc	10	8	180	232			Check the skills you've learned
+info/subgraphics/madu_topmenu.narc	10	10	200	232			Check the items you're carrying
+info/subgraphics/madu_topmenu.narc	10	12	204	232			Travel to an island or to a friend
+info/subgraphics/madu_topmenu.narc	10	14	200	232			Check medals and their effects
+info/subgraphics/madu_topmenu.narc	10	16	178	232			Check the memos you've obtained
+info/subgraphics/madu_topmenu.narc	10	18	198	232			Check the details of your quests

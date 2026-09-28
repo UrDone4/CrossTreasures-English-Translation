@@ -1,0 +1,13 @@
+# your own ROM and everything made from it -- never commit these
+*.nds
+*.sav
+extracted/
+work/redraw/
+work/redraw_done/
+work/bg_out/
+work/bg_work/
+work/gfx_out/
+work/gfx/
+__pycache__/
+*.pyc
+.DS_Store

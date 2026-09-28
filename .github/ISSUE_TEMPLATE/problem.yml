@@ -1,0 +1,39 @@
+name: Translation or display problem
+description: Untranslated text, text out of its box, a glitch, or a line that reads oddly
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for reporting! A screenshot makes it much easier to find and fix.
+  - type: input
+    id: version
+    attributes:
+      label: Patch version
+      description: e.g. v1.0, and whether it's the main or NoFriends patch
+      placeholder: v1.0 (main)
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What's wrong?
+      description: What you saw, and what you expected (if you know).
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where were you?
+      description: Floor / island / menu / scene, and what you did just before.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag an image in here.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Playing on
+      options: [Real hardware (flash cart), melonDS, DeSmuME, Other emulator]

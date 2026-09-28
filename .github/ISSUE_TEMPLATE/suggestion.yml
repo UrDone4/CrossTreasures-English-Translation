@@ -1,0 +1,17 @@
+name: Suggestion
+description: A better wording, a name, or an improvement
+labels: [suggestion]
+body:
+  - type: markdown
+    attributes:
+      value: Suggestions are welcome -- no promise every one can be done (screen space and the game's limits decide a lot), but each will be read.
+  - type: textarea
+    id: idea
+    attributes:
+      label: Suggestion
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where in the game does it apply?

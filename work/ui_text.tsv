@@ -1,0 +1,849 @@
+file	line	px	budget_px	context	japanese	english
+info/connect/connect_message00.txt	1	154				Invite a friend to
+info/connect/connect_message00.txt	2	88				your own world.
+info/connect/connect_message01.txt	1	131				Waiting for a friend...
+info/connect/connect_message02.txt	1	200				Visit a friend's world.
+info/connect/connect_message03.txt	1	130				Searching for a world
+info/connect/connect_message03.txt	2	81				you can visit...
+info/connect/connect_message04.txt	1	108				Connection error!
+info/connect/connect_message04.txt	3	142				Disconnecting.
+info/connect/connect_message05.txt	1	147				Found a friend!
+info/connect/connect_message05.txt	2	197				Whose world will you visit?
+info/connect/connect_message06.txt	1	84				 is getting ready.
+info/connect/connect_message06.txt	2	70				Please wait...
+info/connect/connect_message07.txt	1	113				Connection ready!
+info/connect/connect_message07.txt	2	64				<blank>
+info/connect/connect_message07.txt	4	168				Press A to travel to the island!
+info/connect/connect_message08.txt	1	197				Getting ready to start...
+info/connect/connect_message09.txt	1	197				Getting ready to start...
+info/connect/connect_message10.txt	1	116				Connection ready!
+info/connect/connect_message10.txt	2	64				<blank>
+info/connect/connect_message10.txt	3	109				Multiplayer begins
+info/connect/connect_message10.txt	4	109				on the signal from the
+info/connect/connect_message10.txt	5	136				friend who invited you!
+info/connect/connect_message11.txt	1	131				Waiting for a friend...
+info/connect/merge_message00.txt	1	200				Cross with a friend as the leader.
+info/connect/merge_message01.txt	1	207				Start with just you and a friend.
+info/connect/merge_message02.txt	1	202				Cross with a friend as a member.
+info/connect/merge_message03.txt	1	130				Searching for a friend
+info/connect/merge_message03.txt	2	81				to Cross with...
+info/connect/merge_message04.txt	1	108				Connection error!
+info/connect/merge_message04.txt	3	142				Disconnecting.
+info/connect/merge_message05.txt	1	141				Found a friend!
+info/connect/merge_message05.txt	2	128				Who will you Cross with?
+info/connect/merge_message06.txt	1	84				 is getting ready.
+info/connect/merge_message06.txt	2	70				Please wait...
+info/connect/merge_message07.txt	1	113				Ready to Cross!
+info/connect/merge_message07.txt	2	64				<blank>
+info/connect/merge_message07.txt	4	123				Press A to begin!
+info/connect/merge_message08.txt	1	171				Getting ready to Cross...
+info/connect/merge_message09.txt	1	171				Getting ready to Cross...
+info/connect/merge_message10.txt	1	116				Ready to Cross!
+info/connect/merge_message10.txt	2	64				<blank>
+info/connect/merge_message10.txt	3	109				World Cross begins
+info/connect/merge_message10.txt	4	109				on the signal from the
+info/connect/merge_message10.txt	5	143				friend who invited you!
+info/connect/merge_message11.txt	1	150				A friend has arrived!
+info/connect/present_message.txt	1	151				Invite a friend to
+info/connect/present_message.txt	2	88				your own world.
+info/connect/present_message.txt	5	128				Waiting for a friend...
+info/connect/present_message.txt	8	200				Visit a friend's world.
+info/connect/present_message.txt	11	127				Searching for a world
+info/connect/present_message.txt	12	81				you can visit...
+info/connect/present_message.txt	15	107				Connection error.
+info/connect/present_message.txt	16	119				Disconnecting and
+info/connect/present_message.txt	17	117				returning to the title.
+info/connect/present_message.txt	20	138				Found a friend!
+info/connect/present_message.txt	21	194				Whose world will you visit?
+info/connect/present_message.txt	24	81				 is getting ready.
+info/connect/present_message.txt	25	70				Please wait...
+info/connect/present_message.txt	28	159				The connection is
+info/connect/present_message.txt	29	34				ready.
+info/connect/present_message.txt	30	103				Travelling to the island.
+info/connect/present_message.txt	33	205				Getting ready to start the game...
+info/connect/present_message.txt	36	205				Getting ready to start the game...
+info/connect/present_message00.txt	1	154				Invite a friend to
+info/connect/present_message00.txt	2	88				your own world.
+info/connect/present_message01.txt	1	207				Start with just you and a friend.
+info/connect/present_message02.txt	1	200				Visit a friend's world.
+info/connect/present_message03.txt	1	130				Searching for a world
+info/connect/present_message03.txt	2	81				you can visit...
+info/connect/present_message04.txt	1	108				Connection error!
+info/connect/present_message04.txt	3	130				Disconnecting and
+info/connect/present_message04.txt	4	140				returning to your island.
+info/connect/present_message05.txt	1	147				Found a friend!
+info/connect/present_message05.txt	2	194				Who will you trade gifts with?
+info/connect/present_message06.txt	1	84				 is getting ready.
+info/connect/present_message06.txt	2	70				Please wait...
+info/connect/present_message07.txt	1	116				Connection ready!
+info/connect/present_message07.txt	2	64				<blank>
+info/connect/present_message07.txt	4	123				Press A to begin!
+info/connect/present_message08.txt	1	180				Preparing the gift...
+info/connect/present_message09.txt	1	180				Preparing the gift...
+info/connect/present_message10.txt	1	125				The gift is ready!
+info/connect/present_message10.txt	2	64				<blank>
+info/connect/present_message10.txt	3	109				Gift trading begins
+info/connect/present_message10.txt	4	109				on the signal from the
+info/connect/present_message10.txt	5	167				friend who invited you!
+info/connect/present_message11.txt	1	147				A friend has arrived!
+info/connect/quest_message00.txt	1	126				Gathering your friend's
+info/connect/quest_message00.txt	2	84				information...
+info/connect/quest_message00.txt	4	124				Please wait a moment.
+info/connect/quest_message01.txt	1	90				A connection error
+info/connect/quest_message01.txt	2	96				has occurred!
+info/connect/quest_message01.txt	4	171				Press A to return to the title.
+info/connect/quest_message02.txt	1	115				The quest is
+info/connect/quest_message02.txt	2	64				ready!
+info/connect/quest_message02.txt	4	167				Press A to begin the quest!
+info/cook/cook_text.txt	2	72				 will be made.
+info/cook/cook_text.txt	3	180				The game will save. Is that OK?
+info/cook/cook_text.txt	6	72				 will be made.
+info/cook/cook_text.txt	7	87				Is that OK?
+info/ending/special_thanks.txt	0	147				Congratulations to everyone
+info/ending/special_thanks.txt	1	133				adopted into Project V!
+info/ending/special_thanks.txt	3	165				       Ice              Akkira
+info/ending/special_thanks.txt	4	189				 Takuma Ishikura      Daichi Ito
+info/ending/special_thanks.txt	5	137				Guy Hooked on Inu Mayu
+info/ending/special_thanks.txt	6	183				       Wing         Akiharu Umezu
+info/ending/special_thanks.txt	7	175				  Masashi Okada         Karan
+info/ending/special_thanks.txt	8	195				   Asami Kasai     Ryoji Katagishi
+info/ending/special_thanks.txt	9	193				   Kazuma Kato        Kyoka Kato
+info/ending/special_thanks.txt	10	173				  Daichi Karaki         Kalbi
+info/ending/special_thanks.txt	11	178				  Kazuki Kubota         Kenken
+info/ending/special_thanks.txt	12	189				    Kento Goto       Taichi Goto
+info/ending/special_thanks.txt	13	183				      Goblin         Kazuma Saito
+info/ending/special_thanks.txt	14	197				  Toshiya Saito     Hiroyuki Sato
+info/ending/special_thanks.txt	15	105				Cyborg No. 3110
+info/ending/special_thanks.txt	16	166				     Monkey★★         Shiggetchi
+info/ending/special_thanks.txt	17	163				      Johnny            Silver
+info/ending/special_thanks.txt	18	207				   Mayu Sugiura     Slime (Aichi)
+info/ending/special_thanks.txt	19	193				   Slime (Gifu)        Slamaru
+info/ending/special_thanks.txt	20	161				       Sei           Hibiki Sena
+info/ending/special_thanks.txt	21	175				      Celes          Shota Soneda
+info/ending/special_thanks.txt	22	147				Sota, Envoy of the Genie
+info/ending/special_thanks.txt	23	200				Kazutaka Takahashi  Miwa Takahashi
+info/ending/special_thanks.txt	24	187				 Taro Takayanagi       Tatsutto
+info/ending/special_thanks.txt	25	198				 Ryota Chikamune     Tutankhamen
+info/ending/special_thanks.txt	26	204				  Taiga Teshima       Duel Lover
+info/ending/special_thanks.txt	27	188				    Takaki Doi      Reiji Tokumaru
+info/ending/special_thanks.txt	28	180				     Tojitoji        Dragon Rider
+info/ending/special_thanks.txt	29	178				      Knight        Keigo Nakamura
+info/ending/special_thanks.txt	30	179				     Bakabon        Kihei Hayashi
+info/ending/special_thanks.txt	31	105				Picorincchi No. 503
+info/ending/special_thanks.txt	32	202				 Taichi Hiramatsu     Fire Ring
+info/ending/special_thanks.txt	33	176				  Morito Fukami        Fukushi
+info/ending/special_thanks.txt	34	204				  Tatsuya Fujino    Black Magician
+info/ending/special_thanks.txt	35	163				     Fruuuits           Flute
+info/ending/special_thanks.txt	36	186				      Fulpon          Fly Agaric
+info/ending/special_thanks.txt	37	166				      Penpen           Mamocchi
+info/ending/special_thanks.txt	38	165				      Marian            Marion
+info/ending/special_thanks.txt	39	175				      Moomin          Monja Man
+info/ending/special_thanks.txt	40	200				   Shunya Yagi    Toshikazu Yamanaka
+info/ending/special_thanks.txt	41	186				      Yuitan        Yuippe No. 23
+info/ending/special_thanks.txt	42	163				       Yuki             Hero X
+info/ending/special_thanks.txt	43	159				      Yusuke            Yokke
+info/ending/special_thanks.txt	44	170				      Raioki            Lucky
+info/ending/special_thanks.txt	45	147				       Ryu               Luna
+info/ending/special_thanks.txt	46	168				       Resa          Ko Watanabe
+info/ending/special_thanks.txt	47	167				 Ai Anime Otaku V       AZUMA
+info/ending/special_thanks.txt	48	136				       DAI               LMA
+info/ending/special_thanks.txt	49	149				     MR. H&K           MR. NEET
+info/ending/special_thanks.txt	50	151				       TAI              X Fire
+info/ending/special_thanks.txt	53	166				So close to being adopted --
+info/ending/special_thanks.txt	54	152				our Honorable Mentions!
+info/ending/special_thanks.txt	56	182				      Ai-kun          Ice Slalon
+info/ending/special_thanks.txt	57	199				  Kota the Devil      Yutaro Abe
+info/ending/special_thanks.txt	58	190				     Amadeus        Masahiko Arai
+info/ending/special_thanks.txt	59	197				 Tomoki Arishima    Yuki Arishima
+info/ending/special_thanks.txt	60	177				     Ika-kun         Squid Sushi
+info/ending/special_thanks.txt	61	168				   Naoki Ishida          Ichi
+info/ending/special_thanks.txt	62	194				 Ryusei Ichikawa      Ichi-Mama
+info/ending/special_thanks.txt	63	187				   Country Cat       Tomoki Inada
+info/ending/special_thanks.txt	64	170				     Werewolf           Emilio
+info/ending/special_thanks.txt	65	190				      Ohashi      Tsubasa Ogasawara
+info/ending/special_thanks.txt	66	193				   Kaede Ogura       Kensuke Ono
+info/ending/special_thanks.txt	67	157				      Omega             Kaito
+info/ending/special_thanks.txt	68	177				      Kaiba         Mayu Kageyama
+info/ending/special_thanks.txt	69	168				  Naoya Kashima          Kaz
+info/ending/special_thanks.txt	70	158				      Garou            Kawahisa
+info/ending/special_thanks.txt	71	162				       Kan             Gigandes
+info/ending/special_thanks.txt	72	189				       Kine        Reversal Phoenix
+info/ending/special_thanks.txt	73	199				Morihide Kusakabe   Rotting Corpse
+info/ending/special_thanks.txt	74	159				     Kunishi            Clear
+info/ending/special_thanks.txt	75	173				     Krishna            Clover
+info/ending/special_thanks.txt	76	109				Black Bean Bros. x3
+info/ending/special_thanks.txt	77	170				    God of War         Keishiro
+info/ending/special_thanks.txt	78	225				 Gamer Rider Man   Game-Loving Man
+info/ending/special_thanks.txt	79	168				     Game Man           Genta
+info/ending/special_thanks.txt	80	192				 Hellfire Phoenix       Gosto
+info/ending/special_thanks.txt	81	162				     Gocchan             God
+info/ending/special_thanks.txt	82	158				      Kodra            Gorless
+info/ending/special_thanks.txt	83	192				   Gon the 10th      Kana Saikai
+info/ending/special_thanks.txt	84	199				    Yuta Saito     Shinpachi Sakata
+info/ending/special_thanks.txt	85	189				  Daichi Sasaki       Ayaka Sato
+info/ending/special_thanks.txt	86	164				    Fuji Sato           Shark
+info/ending/special_thanks.txt	87	164				    Salaryman            Sun
+info/ending/special_thanks.txt	88	168				    Clam Soup            Gale
+info/ending/special_thanks.txt	89	175				    Shibu-chan        Jimmy-kun
+info/ending/special_thanks.txt	90	193				 Kazuhi Shimoyama     Jaguar God
+info/ending/special_thanks.txt	91	178				   Jagariko Man          Jack
+info/ending/special_thanks.txt	92	196				   Shadow Gamer         No. 18
+info/ending/special_thanks.txt	93	192				      George        Neo Demon King
+info/ending/special_thanks.txt	94	198				     Snutaro       Atsuyan Sunohara
+info/ending/special_thanks.txt	95	161				      Slalin            Seiya
+info/ending/special_thanks.txt	96	157				      Sekizo             Sen
+info/ending/special_thanks.txt	97	164				      Sword          Dark Knight
+info/ending/special_thanks.txt	98	166				   Takuma Blue          Tatsu
+info/ending/special_thanks.txt	99	191				Tatsuma (Big Bro) Tatsuma (Lil Bro)
+info/ending/special_thanks.txt	100	172				   Double Zero          Tamuso
+info/ending/special_thanks.txt	101	171				      Dante           Chun-chan
+info/ending/special_thanks.txt	102	180				    Chomocchi        Naoki Tsuda
+info/ending/special_thanks.txt	103	205				  Kohei Tsuchida   Junpei Tsuchida
+info/ending/special_thanks.txt	104	160				     Tsuttsu           Tsurugi
+info/ending/special_thanks.txt	105	156				      Demon             Teshi
+info/ending/special_thanks.txt	106	198				  Teru Teru Bozu     Lord Airhead
+info/ending/special_thanks.txt	107	164				       Thor          Dokutamicha
+info/ending/special_thanks.txt	108	179				      Tocchi         Issei Tomita
+info/ending/special_thanks.txt	109	176				   Dragon 2009         Dragon V
+info/ending/special_thanks.txt	110	182				     Dragon X       Dragon Master
+info/ending/special_thanks.txt	111	191				    Dream Boy        Akina Namiki
+info/ending/special_thanks.txt	112	161				       Noah           Throat Bug
+info/ending/special_thanks.txt	113	184				     Heigh-Ho      Banana Minister
+info/ending/special_thanks.txt	114	170				    Babunores          Balloon
+info/ending/special_thanks.txt	115	174				   Victory King         Hikka
+info/ending/special_thanks.txt	116	166				     Pipipi☆          Sunflower
+info/ending/special_thanks.txt	117	187				   Hyuo Ryuzaki       Ice Blade
+info/ending/special_thanks.txt	118	177				 Takuya Hirosawa       Armorer
+info/ending/special_thanks.txt	119	185				    War God V       Broccoli Yuto
+info/ending/special_thanks.txt	120	158				      Brave             Perry
+info/ending/special_thanks.txt	121	168				     Penguin            Jewel
+info/ending/special_thanks.txt	122	165				     Honotan            Poyama
+info/ending/special_thanks.txt	123	184				      Portan         White Tiger
+info/ending/special_thanks.txt	124	173				     Ponkikki          Maichin
+info/ending/special_thanks.txt	125	188				    Ryo Maeda      Netherworld King
+info/ending/special_thanks.txt	126	156				      Masaya           Majin N
+info/ending/special_thanks.txt	127	190				  Naoki Miyoshi       Yuto Mukai
+info/ending/special_thanks.txt	128	178				     Momocchi       Tomoya Morita
+info/ending/special_thanks.txt	129	205				  Monster Lover     Emperor Yasuo
+info/ending/special_thanks.txt	130	180				     Yassu 01        Yo Yamaguchi
+info/ending/special_thanks.txt	131	192				Takayuki Yamamoto      Yamaryo
+info/ending/special_thanks.txt	132	172				   Dark Emperor         Yuuki
+info/ending/special_thanks.txt	133	171				      Yu-ki            Hero Ai
+info/ending/special_thanks.txt	134	194				 Shunji Yokobori     Ryo Yoshioka
+info/ending/special_thanks.txt	135	167				      Liger           Ratatosta
+info/ending/special_thanks.txt	136	155				       Larc             Ryuto
+info/ending/special_thanks.txt	137	157				      Ryuhei             Ryo
+info/ending/special_thanks.txt	138	160				     Ririkota           Lunart
+info/ending/special_thanks.txt	139	159				       Ree           Roronoa Zoro
+info/ending/special_thanks.txt	140	159				     Wadaneko           BLADE
+info/ending/special_thanks.txt	141	150				    C. Deka P           D-Pon
+info/ending/special_thanks.txt	142	164				      Mr. ET           GAME Man
+info/ending/special_thanks.txt	143	149				      HIKAN             HONOKA
+info/ending/special_thanks.txt	144	136				      KEIGO               KG
+info/ending/special_thanks.txt	145	147				       KIRA            KNUCKLE
+info/ending/special_thanks.txt	146	134				      KOUTI             Mr. S
+info/ending/special_thanks.txt	147	133				      Mr. T             Reffy
+info/ending/special_thanks.txt	148	129				       Rio               Ryo
+info/ending/special_thanks.txt	149	155				     SASAGAWA             SN
+info/ending/special_thanks.txt	150	138				        SP             Spike-Y
+info/ending/special_thanks.txt	151	151				       TAA              TAIYO~
+info/ending/special_thanks.txt	152	48				TOSHIKI
+info/ending/special_thanks.txt	154	112				<Quality Assurance>
+info/ending/special_thanks.txt	156	19				QA
+info/ending/special_thanks.txt	157	197				 Naoki Shinagawa    Takashi Yamada
+info/ending/special_thanks.txt	158	74				Mai Kuramitsu
+info/ending/special_thanks.txt	160	70				Technical QA
+info/ending/special_thanks.txt	161	214				Toshimitsu Umezawa Akihiko Nagayama
+info/ending/special_thanks.txt	162	207				 Shinya Tsukioka  Masakazu Kawanishi
+info/ending/special_thanks.txt	163	201				 Tadahiro Kaneko  Tatsuya Nishimura
+info/ending/special_thanks.txt	164	72				Shun Ashida
+info/ending/special_thanks.txt	166	45				Testers
+info/ending/special_thanks.txt	167	193				    Keigo Kono    Sachiko Shigihara
+info/ending/special_thanks.txt	168	208				 Masaomi Hiiragi     Yohei Sakata
+info/ending/special_thanks.txt	169	220				Daisuke Komatsugi  Yutaro Nagatomo
+info/ending/special_thanks.txt	170	192				  Yuya Takahashi    Satoshi Miura
+info/ending/special_thanks.txt	171	208				Masahiro Muramatsu Yoshinori Kosaka
+info/ending/special_thanks.txt	172	197				    Seiko Kano      Hiromi Aratake
+info/ending/special_thanks.txt	173	205				 Norihisa Yuisasa Makoto Yakushijin
+info/ending/special_thanks.txt	174	98				Michihiro Odashima
+info/ending/special_thanks.txt	176	33				Chief
+info/ending/special_thanks.txt	177	84				Yuchi Kikumoto
+info/ending/special_thanks.txt	179	66				Manager
+info/ending/special_thanks.txt	180	88				Hideyuki Kato
+info/ending/special_thanks.txt	182	102				Senior Manager
+info/ending/special_thanks.txt	183	87				Yukihiro Shibuya
+info/ending/special_thanks.txt	185	123				General Manager
+info/ending/special_thanks.txt	186	84				Koji Yamashita
+info/ending/special_thanks.txt	188	139				<Ratings Section>
+info/ending/special_thanks.txt	190	131				Ratings Advisor
+info/ending/special_thanks.txt	191	87				Reiko Kondo
+info/ending/special_thanks.txt	193	66				Manager
+info/ending/special_thanks.txt	194	86				Masashi Hiramatsu
+info/ending/special_thanks.txt	196	80				<Publicity>
+info/ending/special_thanks.txt	198	137				Senior Vice President
+info/ending/special_thanks.txt	199	72				Koji Taguchi
+info/ending/special_thanks.txt	201	146				Publicity Producer
+info/ending/special_thanks.txt	202	105				Shuuichi Kobayashi
+info/ending/special_thanks.txt	204	159				Media Publicity Group
+info/ending/special_thanks.txt	205	210				 Hideki Yamamoto    Munehiro Osawa
+info/ending/special_thanks.txt	206	74				Yuko Kono
+info/ending/special_thanks.txt	208	112				Publicity Staff
+info/ending/special_thanks.txt	209	197				 Toshiyuki Inoue    Kumiko Ishida
+info/ending/special_thanks.txt	210	195				  Ayako Kawamoto      Emiko Sato
+info/ending/special_thanks.txt	212	63				Artwork
+info/ending/special_thanks.txt	213	202				   Naoki Ooishi    Takashi Kamimura
+info/ending/special_thanks.txt	215	104				Web Coordinator
+info/ending/special_thanks.txt	216	87				Chiaki Yamauchi
+info/ending/special_thanks.txt	218	88				<Sales>
+info/ending/special_thanks.txt	220	137				Senior Vice President
+info/ending/special_thanks.txt	221	83				Shinji Hashimoto
+info/ending/special_thanks.txt	223	123				General Manager
+info/ending/special_thanks.txt	224	97				Tomoyoshi Osaki
+info/ending/special_thanks.txt	226	102				Senior Manager
+info/ending/special_thanks.txt	227	96				Satoshi Kashiwazaki
+info/ending/special_thanks.txt	229	66				Manager
+info/ending/special_thanks.txt	230	157				  Tsutomu Yamada     Koji Takada
+info/ending/special_thanks.txt	231	64				Makoto Tsuda
+info/ending/special_thanks.txt	233	44				Staff
+info/ending/special_thanks.txt	234	198				   Aki Yamamoto    Atsuo Takahashi
+info/ending/special_thanks.txt	235	200				  Hiroshi Ogane     Kazuo Kusakawa
+info/ending/special_thanks.txt	236	214				Keisuke Takahashi Masahiro Matsumoto
+info/ending/special_thanks.txt	237	183				   Masaki Yano      Minoru Kikuchi
+info/ending/special_thanks.txt	238	189				   Ryoma Tajima      Saori Habara
+info/ending/special_thanks.txt	239	208				 Shinya Nakamura  Shunichi Hashimoto
+info/ending/special_thanks.txt	240	201				Tatsuhiko Tsubota   Tomomi Iwakura
+info/ending/special_thanks.txt	241	193				 Toshihide Nomura   Toshio Harada
+info/ending/special_thanks.txt	242	200				Yoshiyuki Takahashi    Yuken Furo
+info/ending/special_thanks.txt	243	186				    Nami Ikeda      Yoshiki Yamada
+info/ending/special_thanks.txt	244	89				Hiroyuki Suzuki
+info/ending/special_thanks.txt	246	149				<Legal & Intellectual Property>
+info/ending/special_thanks.txt	248	201				 Toshiaki Tarumi   Makiko Kitamura
+info/ending/special_thanks.txt	250	152				<Community & Services>
+info/ending/special_thanks.txt	252	152				Back-end Support Staff
+info/ending/special_thanks.txt	253	77				Natsuyo Takada
+info/ending/special_thanks.txt	255	71				NOC Staff
+info/ending/special_thanks.txt	256	86				Satoshi Yasukawa
+info/ending/special_thanks.txt	258	98				<Game Development>
+info/ending/special_thanks.txt	260	158				Sinsophia Co., Ltd.
+info/ending/special_thanks.txt	262	80				<Sound Effects>
+info/ending/special_thanks.txt	264	62				JOEDOWN
+info/ending/special_thanks.txt	265	194				   Shoji Tomii      Arisa Nakamura
+info/ending/special_thanks.txt	267	95				<Project V>
+info/ending/special_thanks.txt	269	144				Shueisha V Jump
+info/ending/special_thanks.txt	270	74				Akio Iyoku
+info/ending/special_thanks.txt	272	83				Caramel Mama
+info/ending/special_thanks.txt	274	128				<Publicity Support>
+info/ending/special_thanks.txt	276	74				Baka the Bakka
+info/ending/special_thanks.txt	277	200				 Mitsuyo Ishihara   Daisuke Kochi
+info/ending/special_thanks.txt	279	34				Osse
+info/ending/special_thanks.txt	280	181				   Akira Ishii       Masashi Mori
+info/ending/special_thanks.txt	282	26				CNS
+info/ending/special_thanks.txt	283	186				   Wataru Kato       Rie Ishiwari
+info/ending/special_thanks.txt	285	85				A-1 Pictures
+info/ending/special_thanks.txt	286	203				Tomonori Ochikoshi Kenichi Hayashi
+info/ending/special_thanks.txt	288	121				<The Charumera Man>
+info/ending/special_thanks.txt	290	114				Myojo Foods
+info/ending/special_thanks.txt	291	91				Co., Ltd.
+info/ending/special_thanks.txt	292	117				
+info/ending/special_thanks.txt	294	124				<Special Thanks>
+info/ending/special_thanks.txt	296	198				 Toshiro Tsuchida    Hiroyuki Ito
+info/ending/special_thanks.txt	297	197				  Takashi Tokita    Nobuyuki Ueda
+info/ending/special_thanks.txt	298	201				   Chikako Sato   Yasuhiro Takamatsu
+info/ending/special_thanks.txt	299	68				Nyao-chan
+info/ending/special_thanks.txt	301	178				<Production Executives>
+info/ending/special_thanks.txt	303	75				Youichi Wada
+info/ending/special_thanks.txt	304	76				Keiji Honda
+info/error/error_msg.txt	2	173				The connection was lost.
+info/error/error_msg.txt	3	145				Please press the A Button.
+info/error/error_msg.txt	4	160				Returning to single player.
+info/error/error_msg.txt	7	173				The connection was lost.
+info/error/error_msg.txt	8	111				Powering off.
+info/error/error_msg.txt	9	139				Please press the A Button.
+info/error/error_msg.txt	12	135				The Game Card was not found.
+info/error/error_msg.txt	13	171				Please turn the power off.
+info/error/error_msg.txt	16	171				The save data is corrupted!
+info/error/error_msg.txt	17	143				The data has been reset.
+info/error/error_msg.txt	18	171				Please turn the power off.
+info/error/error_msg.txt	21	149				The data could not be read.
+info/error/error_msg.txt	22	157				Turn the power off and
+info/error/error_msg.txt	23	164				reinsert the Game Card.
+info/error/error_msg.txt	26	173				The data could not be written.
+info/error/error_msg.txt	27	157				Turn the power off and
+info/error/error_msg.txt	28	164				reinsert the Game Card.
+info/error/error_msg.txt	31	108				Ending DS Download
+info/error/error_msg.txt	32	100				Play.
+info/error/error_msg.txt	33	111				Powering off.
+info/error/error_msg.txt	34	139				Please press the A Button.
+info/error/error_msg.txt	37	101				Saving...
+info/error/error_msg.txt	40	97				Loading...
+info/error/error_msg.txt	43	105				A Button: Title
+info/error/error_msg.txt	46	79				Disconnecting for
+info/error/error_msg.txt	47	144				an event.
+info/error/error_msg.txt	48	145				Please press the A Button.
+info/error/error_msg.txt	49	160				Returning to single player.
+info/error/error_msg.txt	52	173				The connection was lost.
+info/error/error_msg.txt	53	95				Now saving.
+info/error/error_msg.txt	54	174				Please do not turn off the power.
+info/error/error_msg.txt	57	173				The connection was lost.
+info/error/error_msg.txt	58	155				Saving is complete.
+info/error/error_msg.txt	59	145				Please press the A Button.
+info/error/error_msg.txt	60	160				Returning to single player.
+info/error/error_msg.txt	63	166				No save data was found.
+info/error/error_msg.txt	64	157				Turn the power off and
+info/error/error_msg.txt	65	164				reinsert the Game Card.
+info/error/error_msg.txt	68	173				The connection was lost.
+info/error/error_msg.txt	69	178				Loading save data.
+info/merge/merge_message01.txt	1	196				Choose the dungeon you want.
+info/merge/merge_message02.txt	1	173				Crossing will overwrite your
+info/merge/merge_message02.txt	2	180				original dungeon. Is that OK?
+info/merge/merge_message03.txt	1	139				There are no empty islands.
+info/merge/merge_message03.txt	2	161				Choose an island to erase and
+info/merge/merge_message03.txt	3	200				overwrite it with the new one?
+info/merge/merge_message04.txt	1	110				Cancel the Cross and
+info/merge/merge_message04.txt	2	131				return to the title?
+info/merge/merge_message05.txt	1	97				Now saving.
+info/merge/merge_message05.txt	2	168				Please do not turn off the power.
+info/merge/merge_message06.txt	1	177				Save and finish Crossing.
+info/merge/merge_message06.txt	2	87				Is that OK?
+info/merge/merge_message07.txt	1	149				Saving is complete.
+info/merge/merge_message07.txt	2	117				Returning to the title.
+info/merge/merge_message08.txt	1	206				Choose an island to overwrite.
+info/merge/merge_message09.txt	1	200				Overwriting cannot be undone.
+info/merge/merge_message09.txt	2	149				Are you sure?
+info/merge/treasuer_name.txt	1	54	72			Ore Vein
+info/merge/treasuer_name.txt	3	52	72			Plants
+info/merge/treasuer_name.txt	5	34	72			Fishing
+info/merge/treasuer_name.txt	7	46	72			Exchange
+info/merge/treasuer_name.txt	9	70	72			Spin Slash
+info/merge/treasuer_name.txt	11	67	72			Jump Slash
+info/merge/treasuer_name.txt	13	64	72			Vacuum Slash
+info/merge/treasuer_name.txt	15	43	72			Shield
+info/merge/treasuer_name.txt	16	63	72			   Bash
+info/merge/treasuer_name.txt	18	47	72			Charge
+info/merge/treasuer_name.txt	20	46	72			Spirit
+info/merge/treasuer_name.txt	21	54	72			   Flame
+info/merge/treasuer_name.txt	23	47	72			Cheer
+info/merge/treasuer_name.txt	25	48	72			War Cry
+info/merge/treasuer_name.txt	27	56	72			Swordplay
+info/merge/treasuer_name.txt	29	31	72			Guard
+info/merge/treasuer_name.txt	31	45	72			Combo
+info/merge/treasuer_name.txt	32	64	72			   Attack
+info/merge/treasuer_name.txt	34	47	72			Finishing
+info/merge/treasuer_name.txt	35	65	72			   Blow
+info/merge/treasuer_name.txt	37	45	72			Damage
+info/merge/treasuer_name.txt	38	61	72			   Counter
+info/merge/treasuer_name.txt	40	68	72			Power Up
+info/merge/treasuer_name.txt	42	48	72			Gulp
+info/merge/treasuer_name.txt	44	45	72			Plunder
+info/merge/treasuer_name.txt	46	48	72			Fireball
+info/merge/treasuer_name.txt	48	69	72			Inferno
+info/merge/treasuer_name.txt	50	55	72			Deep Freeze
+info/merge/treasuer_name.txt	52	55	72			Ice Lance
+info/merge/treasuer_name.txt	54	43	72			Poison Sting
+info/merge/treasuer_name.txt	56	47	72			Sleep
+info/merge/treasuer_name.txt	58	34	72			Stasis
+info/merge/treasuer_name.txt	60	46	72			Ultimate
+info/merge/treasuer_name.txt	61	49	72			<blank>
+info/merge/treasuer_name.txt	63	64	72			Synchrod
+info/merge/treasuer_name.txt	65	45	72			Mana
+info/merge/treasuer_name.txt	66	51	72			   Power
+info/merge/treasuer_name.txt	68	45	72			Magic
+info/merge/treasuer_name.txt	69	52	72			   Barrier
+info/merge/treasuer_name.txt	71	40	72			Magic
+info/merge/treasuer_name.txt	72	52	72			   Up
+info/merge/treasuer_name.txt	74	47	72			Meditate
+info/merge/treasuer_name.txt	76	58	72			Mana Up
+info/merge/treasuer_name.txt	78	48	72			Eager
+info/merge/treasuer_name.txt	79	51	72			   Mind
+info/merge/treasuer_name.txt	81	65	72			Herbalism
+info/merge/treasuer_name.txt	83	42	72			Blade
+info/merge/treasuer_name.txt	84	61	72			   Storm
+info/merge/treasuer_name.txt	86	36	72			Double
+info/merge/treasuer_name.txt	87	74	72			   Slash
+info/merge/treasuer_name.txt	89	45	72			Dash
+info/merge/treasuer_name.txt	90	62	72			   Thrust
+info/merge/treasuer_name.txt	92	46	72			Paralyze
+info/merge/treasuer_name.txt	93	60	72			   Shot
+info/merge/treasuer_name.txt	95	46	72			Poison
+info/merge/treasuer_name.txt	96	60	72			   Shot
+info/merge/treasuer_name.txt	98	56	72			Hand Bomb
+info/merge/treasuer_name.txt	100	58	72			Time Bomb
+info/merge/treasuer_name.txt	102	43	72			Quick
+info/merge/treasuer_name.txt	103	62	72			   Charge
+info/merge/treasuer_name.txt	105	64	72			Dual Wield
+info/merge/treasuer_name.txt	107	46	72			Slip Past
+info/merge/treasuer_name.txt	109	57	72			Parry
+info/merge/treasuer_name.txt	111	51	72			Treasure
+info/merge/treasuer_name.txt	112	56	72			    Hunt
+info/merge/treasuer_name.txt	114	43	72			Gold
+info/merge/treasuer_name.txt	115	50	72			   Hunt
+info/merge/treasuer_name.txt	117	24	72			Del
+info/merge/treasuer_name.txt	118	72	72			 Critical
+info/merge/treasuer_name.txt	120	46	72			Swift Foot
+info/merge/treasuer_name.txt	122	54	72			Recharge
+info/merge/treasuer_name.txt	123	58	72			    Up
+info/merge/treasuer_name.txt	125	43	72			Healas
+info/merge/treasuer_name.txt	127	58	72			Curas
+info/merge/treasuer_name.txt	129	57	72			Knock Away
+info/merge/treasuer_name.txt	131	60	72			Wide Swing
+info/merge/treasuer_name.txt	133	55	72			Lightning
+info/merge/treasuer_name.txt	135	35	72			Thunderclap
+info/merge/treasuer_name.txt	136	51	72			<blank>
+info/merge/treasuer_name.txt	138	36	72			Love Pulse
+info/merge/treasuer_name.txt	140	34	72			Love Beam
+info/merge/treasuer_name.txt	141	51	72			<blank>
+info/merge/treasuer_name.txt	143	45	72			Hammer
+info/merge/treasuer_name.txt	144	50	72			   Arts
+info/merge/treasuer_name.txt	146	44	72			Defense
+info/merge/treasuer_name.txt	147	50	72			   Arts
+info/merge/treasuer_name.txt	149	46	72			Stamp
+info/merge/treasuer_name.txt	150	60	72			   Speed
+info/merge/treasuer_name.txt	152	46	72			Stamp
+info/merge/treasuer_name.txt	153	51	72			   Power
+info/merge/treasuer_name.txt	155	46	72			Angel's
+info/merge/treasuer_name.txt	156	52	72			   Guard
+info/merge/treasuer_name.txt	158	47	72			Serenity
+info/merge/treasuer_name.txt	160	67	72			Life Up
+info/merge/treasuer_name.txt	162	65	72			Life Link
+info/merge/treasuer_name.txt	164	55	72			Soldier
+info/merge/treasuer_name.txt	166	30	72			Sword
+info/merge/treasuer_name.txt	167	63	72			   Master
+info/merge/treasuer_name.txt	169	67	72			Guardian
+info/merge/treasuer_name.txt	171	33	72			Battle
+info/merge/treasuer_name.txt	172	62	72			   Order
+info/merge/treasuer_name.txt	174	67	72			Barbarian
+info/merge/treasuer_name.txt	176	45	72			Gladi
+info/merge/treasuer_name.txt	177	62	72			   ator
+info/merge/treasuer_name.txt	179	64	72			Servant
+info/merge/treasuer_name.txt	181	54	72			Sorcerer
+info/merge/treasuer_name.txt	183	51	72			Wizard
+info/merge/treasuer_name.txt	185	68	72			Alchemist
+info/merge/treasuer_name.txt	187	44	72			Chronos
+info/merge/treasuer_name.txt	189	45	72			Magic
+info/merge/treasuer_name.txt	190	62	72			   User
+info/merge/treasuer_name.txt	192	53	72			Ranger
+info/merge/treasuer_name.txt	194	47	72			Assassin
+info/merge/treasuer_name.txt	196	51	72			Treasure
+info/merge/treasuer_name.txt	197	62	72			   Hunter
+info/merge/treasuer_name.txt	199	42	72			Speed
+info/merge/treasuer_name.txt	200	63	72			   Master
+info/merge/treasuer_name.txt	202	40	72			Trick
+info/merge/treasuer_name.txt	203	51	72			   ster
+info/merge/treasuer_name.txt	205	42	72			Scout
+info/merge/treasuer_name.txt	207	54	72			Acolyte
+info/merge/treasuer_name.txt	209	56	72			Paladin
+info/merge/treasuer_name.txt	211	41	72			Healer
+info/merge/treasuer_name.txt	213	52	72			Cleric
+info/merge/treasuer_name.txt	215	35	72			Sage
+info/merge/treasuer_name.txt	217	53	72			Bishop
+info/merge/treasuer_name.txt	219	46	72			Lavender
+info/merge/treasuer_name.txt	221	34	72			Parsley
+info/merge/treasuer_name.txt	223	31	72			Mint
+info/merge/treasuer_name.txt	225	34	72			Mugwort
+info/merge/treasuer_name.txt	227	45	72			Saffron
+info/merge/treasuer_name.txt	229	55	72			Yakutanon
+info/merge/treasuer_name.txt	231	59	72			Red Box
+info/merge/treasuer_name.txt	233	59	72			Blue Box
+info/merge/treasuer_name.txt	235	70	72			Yellow Box
+info/merge/treasuer_name.txt	237	69	72			Green Box
+info/merge/treasuer_name.txt	239	24	72			Miso
+info/merge/treasuer_name.txt	241	22	72			Salt
+info/merge/treasuer_name.txt	243	42	72			Soy Sauce
+info/merge/treasuer_name.txt	245	46	72			Tonkotsu
+info/merge/treasuer_name.txt	247	56	72			Charumera
+info/merge/treasuer_name.txt	248	54	72			    Miso
+info/merge/treasuer_name.txt	250	56	72			Charumera
+info/merge/treasuer_name.txt	251	52	72			    Salt
+info/merge/treasuer_name.txt	253	56	72			Charumera
+info/merge/treasuer_name.txt	254	54	72			  Soy Sauce
+info/merge/treasuer_name.txt	256	56	72			Charumera
+info/merge/treasuer_name.txt	257	58	72			  Tonkotsu
+info/merge/treasuer_name.txt	259	58	72			Healing Sp.
+info/merge/treasuer_name.txt	261	57	72			Spirit Sp.
+info/merge/treasuer_name.txt	263	59	72			Golden Sp.
+info/merge/treasuer_name.txt	265	60	72			Verdant Sp.
+info/merge/treasuer_name.txt	267	44	72			Super
+info/merge/treasuer_name.txt	268	70	72			  Healing Sp.
+info/merge/treasuer_name.txt	270	44	72			Super
+info/merge/treasuer_name.txt	271	69	72			  Spirit Sp.
+info/merge/treasuer_name.txt	273	44	72			Super
+info/merge/treasuer_name.txt	274	71	72			  Golden Sp.
+info/merge/treasuer_name.txt	276	44	72			Super
+info/merge/treasuer_name.txt	277	72	72			  Verdant Sp.
+info/merge/treasuer_name.txt	279	48	72			Pickles
+info/merge/treasuer_name.txt	281	46	72			Tailor
+info/merge/treasuer_name.txt	283	42	72			Shop
+info/present/present_text.txt	3	90				Choosing a gift for
+info/present/present_text.txt	4	92				...
+info/present/present_text.txt	7	168				Is this gift OK?
+info/present/present_text.txt	10	159				Handing over the gift.
+info/present/present_text.txt	13	169				Receiving the gift.
+info/present/present_text.txt	16	149				Gift delivered!
+info/present/present_text.txt	19	150				Gift received!
+info/present/present_text.txt	22	146				Give another gift?
+info/present/present_text.txt	25	130				Your friend is choosing
+info/present/present_text.txt	26	88				a gift.
+info/present/present_text.txt	27	132				Please wait a moment.
+info/present/present_text.txt	30	81				Saving...
+info/present/present_text.txt	31	125				Do not remove the Game Card
+info/present/present_text.txt	32	174				or turn off the power.
+info/present/present_text.txt	35	103				Waiting for your friend
+info/present/present_text.txt	36	87				to choose.
+info/present/present_text.txt	39	101				Trade complete!
+info/present/present_text.txt	40	154				The connection was closed.
+info/present/present_text.txt	41	158				Press A to return to the island.
+info/present/present_text.txt	44	146				An error has occurred.
+info/present/present_text.txt	45	174				Press A to end gift trading.
+info/present/present_text.txt	46	63				<blank>
+info/present/present_text.txt	49	146				An error has occurred.
+info/present/present_text.txt	50	148				Restoring the save data.
+info/present/present_text.txt	51	81				Saving...
+info/present/present_text.txt	52	125				Do not remove the Game Card
+info/present/present_text.txt	53	174				or turn off the power.
+info/present/present_text.txt	56	146				Save data restoration
+info/present/present_text.txt	57	110				is complete.
+info/present/present_text.txt	58	174				Press A to end gift trading.
+info/present/present_text.txt	59	63				<blank>
+info/present/present_text.txt	63	155				Give an item as a gift.
+info/present/present_text.txt	66	167				Give equipment as a gift.
+info/present/present_text.txt	69	152				Give another gift?
+info/present/present_text.txt	72	200				Their items are full.
+info/present/present_text.txt	75	206				Their equipment is full.
+info/present/present_text.txt	78	152				You have no items.
+info/quest/quest_message00.txt	1	134				Waiting for a friend...
+info/quest/quest_message01.txt	1	185				Press A to close recruitment.
+info/quest/quest_message02.txt	1	90				A connection error
+info/quest/quest_message02.txt	2	96				has occurred!
+info/quest/quest_message02.txt	3	56				Press A to return
+info/quest/quest_message02.txt	4	136				to the quest selection
+info/quest/quest_message02.txt	5	58				screen.
+info/quest/quest_message03.txt	1	177				Sending the quest data...
+info/save/save_msg.txt	2	157				Your cleared data will be saved.
+info/save/save_msg.txt	3	93				Is that OK?
+info/save/save_msg.txt	6	95				Now saving.
+info/save/save_msg.txt	7	125				Do not remove the Game Card
+info/save/save_msg.txt	8	174				or turn off the power.
+info/save/save_msg.txt	11	108				Your game has been saved.
+info/save/save_msg.txt	12	56				Press A to return
+info/save/save_msg.txt	13	159				to the title screen.
+info/save/save_msg.txt	16	80				Return to the title screen
+info/save/save_msg.txt	17	166				without saving?
+info/save/save_msg.txt	18	111				Is that OK?
+info/save/save_msg.txt	21	178				Your save data will be overwritten.
+info/save/save_msg.txt	22	93				Is that OK?
+info/save/save_msg.txt	25	114				Returning to the game.
+info/tailor/tailor_text.txt	2	167				It will look like this.
+info/tailor/tailor_text.txt	3	111				Is that OK?
+info/title/quest_01.txt	1	119				Defeat Tiamat!
+info/title/quest_01.txt	3	82	216			Defeat Tiamat within
+info/title/quest_01.txt	4	125	216			three minutes!
+info/title/quest_01.txt	6	188	216			Clear it to earn a secret password
+info/title/quest_01.txt	7	168	216			and the Proof of Unity!
+info/title/quest_02.txt	1	118				Defend as a Mage!
+info/title/quest_02.txt	3	82	216			Wipe out the enemies
+info/title/quest_02.txt	4	119	216			within three minutes and
+info/title/quest_02.txt	5	137	216			protect the treasure chest!
+info/title/quest_02.txt	7	188	216			Clear it to earn a secret password
+info/title/quest_02.txt	8	169	216			and a Friendship Ticket!
+info/title/quest_03.txt	1	117				Defend as a Thief!
+info/title/quest_03.txt	3	82	216			Wipe out the enemies
+info/title/quest_03.txt	4	119	216			within three minutes and
+info/title/quest_03.txt	5	137	216			protect the treasure chest!
+info/title/quest_03.txt	7	188	216			Clear it to earn a secret password
+info/title/quest_03.txt	8	170	216			and a Friend Ticket!
+info/title/quest_04.txt	1	128				Defeat Drill Marlin!
+info/title/quest_04.txt	3	82	216			Defeat Drill Marlin
+info/title/quest_04.txt	4	131	216			within three minutes!
+info/title/quest_04.txt	6	188	216			Clear it to earn a secret password
+info/title/quest_04.txt	7	171	216			and an Expert Ticket!
+info/title/title_chrmake_exp.txt	2	189				A steel warrior with sword and shield
+info/title/title_chrmake_exp.txt	4	192				A wise mage who commands magic
+info/title/title_chrmake_exp.txt	6	173				A nimble thief who wields two blades
+info/title/title_chrmake_exp.txt	8	172				A loving priest who heals allies
+info/title/title_continue_menu.txt	2	173	216			Explore the dungeon alone!
+info/title/title_continue_menu.txt	4	176	216			Explore the dungeon together!
+info/title/title_continue_menu.txt	6	173	216			Swap dungeons with a friend!
+info/title/title_continue_menu.txt	8	204	216			Play with friends without the game
+info/title/title_erasesave.txt	2	201				Erased data cannot be restored.
+info/title/title_erasesave.txt	3	116				Erase it anyway?
+info/title/title_erasesave.txt	5	184				Are you really sure?
+info/title/title_erasesave.txt	7	177				Completely erasing the data.
+info/title/title_erasesave.txt	8	121				Please wait a moment.
+info/title/title_erasesave.txt	10	110				The data has been erased!
+info/title/title_inputname.txt	1	174				Please enter a name.
+info/title/title_inputname.txt	2	173				You can't use that name!!
+info/title/title_merge_selectrole.txt	0	136				Host a Cross Plaza
+info/title/title_merge_selectrole.txt	3	198				Go to a plaza and look for friends
+info/title/title_multi_home.txt	2	203	216			Gather friends on your own island.
+info/title/title_multi_home.txt	3	175	216			Explore the dungeon
+info/title/title_multi_home.txt	4	81	216			together with friends.
+info/title/title_multi_home.txt	6	179	216			Travel to a friend's island.
+info/title/title_multi_home.txt	7	175	216			Explore the dungeon
+info/title/title_multi_home.txt	8	81	216			together with friends.
+info/title/title_multi_selectrole.txt	0	146				Invite a friend
+info/title/title_multi_selectrole.txt	3	200				Visit a friend's world
+info/title/title_option.txt	1	180				Change the message speed
+info/title/title_option.txt	2	177				Change the BGM volume
+info/title/title_option.txt	3	166				Change the SE volume
+info/title/title_option.txt	4	173				Change the voice volume
+info/title/title_optionmenu.txt	2	184	216			Change the game settings
+info/title/title_optionmenu.txt	4	158	216			The people who made this game
+info/title/title_optionmenu.txt	6	125	216			Erase your save data
+info/title/title_optionmenu.txt	7	125	216			Erase your save data
+info/title/title_present_selectrole.txt	1	181	216			Invite friends to Gift Island
+info/title/title_present_selectrole.txt	4	175	216			Travel to Gift Island
+info/title/title_quest_selectrole.txt	1	185				Begin the Fighter's quest
+info/title/title_quest_selectrole.txt	2	166				Begin the Mage's quest
+info/title/title_quest_selectrole.txt	3	165				Begin the Thief's quest
+info/title/title_quest_selectrole.txt	4	185				Begin the Priest's quest
+text/badstatus_name.txt	0	21				Toxic
+text/badstatus_name.txt	1	24				Para
+text/badstatus_name.txt	2	36				Dizzy
+text/badstatus_name.txt	3	34				Sleep
+text/balloon_text.txt	1	36				Talk
+text/balloon_text.txt	2	23				Dig
+text/balloon_text.txt	3	22				Take
+text/balloon_text.txt	4	23				Fish
+text/balloon_text.txt	5	35				Open
+text/balloon_text.txt	6	36				Opened
+text/balloon_text.txt	7	35				Wake
+text/balloon_text.txt	8	35				Equip
+text/balloon_text.txt	9	45				Craft
+text/balloon_text.txt	10	34				Save
+text/balloon_text.txt	11	44				Examine
+text/balloon_text.txt	12	46				Class
+text/balloon_text.txt	13	40				Cook
+text/balloon_text.txt	14	35				Sit
+text/balloon_text.txt	15	24				Boat
+text/balloon_text.txt	16	33				Post
+text/balloon_text.txt	17	23				Read
+text/balloon_text.txt	18	33				Peek
+text/balloon_text.txt	19	35				Shout
+text/balloon_text.txt	20	47				Gaze
+text/balloon_text.txt	21	54				Introduce
+text/balloon_text.txt	22	36				Almanac
+text/craft_name.txt	1	47				Apprentice
+text/craft_name.txt	2	69				Weapon Master
+text/craft_name.txt	3	79				Armor Master
+text/craft_name.txt	4	80				Accessory Master
+text/craft_name.txt	5	66				Cook Level
+text/damagetype_name.txt	0	56				Slash
+text/damagetype_name.txt	1	29				Hit
+text/damagetype_name.txt	2	45				Magic
+text/damagetype_name.txt	3	36				Fire
+text/damagetype_name.txt	4	33				Ice
+text/damagetype_name.txt	5	46				Thunder
+text/damagetype_name.txt	6	24				Love
+text/equip_name.txt	1	24				Sword
+text/equip_name.txt	2	24				Staff
+text/equip_name.txt	3	45				Hammer
+text/equip_name.txt	4	24				Shield
+text/equip_name.txt	5	36				Head
+text/equip_name.txt	6	34				Armor
+text/equip_name.txt	7	21				Boots
+text/equip_name.txt	8	56				Earring
+text/equip_name.txt	9	55				Necklace
+text/equip_name.txt	10	36				Ring
+text/equip_name.txt	12	24				Weapon
+text/equip_name.txt	13	34				Armor
+text/equip_name.txt	14	57				Accessory
+text/equip_name.txt	15	36				Right Hand
+text/equip_name.txt	16	46				Left Hand
+text/job_name.txt	0	53				Fighter
+text/job_name.txt	1	34				Mage
+text/job_name.txt	2	33				Thief
+text/job_name.txt	3	53				Priest
+text/jobclass_name.txt	0	55				Soldier
+text/jobclass_name.txt	1	75				Sword Master
+text/jobclass_name.txt	2	67				Guardian
+text/jobclass_name.txt	3	77				Battle Order
+text/jobclass_name.txt	4	67				Barbarian
+text/jobclass_name.txt	5	89				Gladiator
+text/jobclass_name.txt	6	64				Servant
+text/jobclass_name.txt	7	54				Sorcerer
+text/jobclass_name.txt	8	51				Wizard
+text/jobclass_name.txt	9	68				Alchemist
+text/jobclass_name.txt	10	44				Chronos
+text/jobclass_name.txt	11	89				Magic User
+text/jobclass_name.txt	12	53				Ranger
+text/jobclass_name.txt	13	47				Assassin
+text/jobclass_name.txt	14	95				Treasure Hunter
+text/jobclass_name.txt	15	87				Speed Master
+text/jobclass_name.txt	16	73				Trickster
+text/jobclass_name.txt	17	42				Scout
+text/jobclass_name.txt	18	54				Acolyte
+text/jobclass_name.txt	19	56				Paladin
+text/jobclass_name.txt	20	41				Healer
+text/jobclass_name.txt	21	52				Cleric
+text/jobclass_name.txt	22	35				Sage
+text/jobclass_name.txt	23	53				Bishop
+text/revision.txt	0	148				
+text/skill_name.txt	1	70				Spin Slash
+text/skill_name.txt	2	67				Jump Slash
+text/skill_name.txt	3	64				Vacuum Slash
+text/skill_name.txt	4	88				Shield Bash
+text/skill_name.txt	5	47				Charge
+text/skill_name.txt	6	82				Spirit Flame
+text/skill_name.txt	7	47				Cheer
+text/skill_name.txt	8	48				War Cry
+text/skill_name.txt	9	56				Swordplay
+text/skill_name.txt	10	31				Guard
+text/skill_name.txt	11	91				Combo Attack
+text/skill_name.txt	12	94				Finishing Blow
+text/skill_name.txt	13	88				Damage Counter
+text/skill_name.txt	14	68				Power Up
+text/skill_name.txt	15	48				Gulp
+text/skill_name.txt	16	45				Plunder
+text/skill_name.txt	18	48				Fireball
+text/skill_name.txt	19	69				Inferno
+text/skill_name.txt	20	55				Deep Freeze
+text/skill_name.txt	21	55				Ice Lance
+text/skill_name.txt	22	43				Poison Sting
+text/skill_name.txt	23	47				Sleep
+text/skill_name.txt	24	34				Stasis
+text/skill_name.txt	25	77				Ultimate
+text/skill_name.txt	26	64				Synchrod
+text/skill_name.txt	27	78				Mana Power
+text/skill_name.txt	28	79				Magic Barrier
+text/skill_name.txt	29	74				Magic Up
+text/skill_name.txt	30	47				Meditate
+text/skill_name.txt	31	58				Mana Up
+text/skill_name.txt	32	81				Eager Mind
+text/skill_name.txt	33	65				Herbalism
+text/skill_name.txt	35	85				Blade Storm
+text/skill_name.txt	36	92				Double Slash
+text/skill_name.txt	37	89				Dash Thrust
+text/skill_name.txt	38	88				Paralyze Shot
+text/skill_name.txt	39	88				Poison Shot
+text/skill_name.txt	40	56				Hand Bomb
+text/skill_name.txt	41	58				Time Bomb
+text/skill_name.txt	42	87				Quick Charge
+text/skill_name.txt	43	64				Dual Wield
+text/skill_name.txt	44	46				Slip Past
+text/skill_name.txt	45	57				Parry
+text/skill_name.txt	46	83				Treasure Hunt
+text/skill_name.txt	47	75				Gold Hunt
+text/skill_name.txt	48	90				Critical Up
+text/skill_name.txt	49	46				Swift Foot
+text/skill_name.txt	50	88				Recharge Up
+text/skill_name.txt	52	43				Healas
+text/skill_name.txt	53	58				Curas
+text/skill_name.txt	54	57				Knock Away
+text/skill_name.txt	55	60				Wide Swing
+text/skill_name.txt	56	55				Lightning
+text/skill_name.txt	57	68				Thunderclap
+text/skill_name.txt	58	36				Love Pulse
+text/skill_name.txt	59	67				Love Beam
+text/skill_name.txt	60	77				Hammer Arts
+text/skill_name.txt	61	76				Defense Arts
+text/skill_name.txt	62	88				Stamp Speed
+text/skill_name.txt	63	79				Stamp Power
+text/skill_name.txt	64	80				Angel's Guard
+text/skill_name.txt	65	47				Serenity
+text/skill_name.txt	66	67				Life Up
+text/skill_name.txt	67	65				Life Link
+data_general/cook_type_name.txt	0	20				Meat
+data_general/cook_type_name.txt	1	35				Fish
+data_general/cook_type_name.txt	2	35				Salad
+data_general/cook_type_name.txt	3	35				Pasta
+data_general/cook_type_name.txt	4	45				Sweets
