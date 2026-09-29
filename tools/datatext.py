@@ -80,6 +80,10 @@ SCHEMA = [
     ("data_general/staff_roll_text.dat",    "realname",  96, 48),
     ("data_general/staff_roll_text.dat",    "msg1",     144, 48),
     ("data_general/staff_roll_text.dat",    "msg2",     192, 48),
+    # the Quest menu's list: 6 companions x 8 steps, 0x5C-byte records (id,
+    # step, EXP, wanted item / count, reward item / count, then the title).
+    # The title is the record's last field, so its capacity runs to the end.
+    ("data_treasure/quest_data.dat",        "title",   28, 64),
 ]
 
 

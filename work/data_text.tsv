@@ -63,7 +63,7 @@ data_item/item_param.dat	60	name	16	12		Red Brick
 data_item/item_param.dat	61	name	16	16		Mooton Gem
 data_item/item_param.dat	62	name	16	14		Mage Gem
 data_item/item_param.dat	63	name	16	14		Rockn Gem
-data_item/item_param.dat	64	name	16	14		Booton Gem
+data_item/item_param.dat	64	name	16	14		Oinkton Gem
 data_item/item_param.dat	65	name	16	16		Element Gem
 data_item/item_param.dat	66	name	16	14		Cyclops Gem
 data_item/item_param.dat	67	name	16	14		Summon Stone
@@ -575,7 +575,7 @@ data_item/item_param.dat	60	desc	76	65		A red brick of handy size.\nLighter than
 data_item/item_param.dat	61	desc	76	57		A big red gem that holds\nthe power of a Mooton.
 data_item/item_param.dat	62	desc	76	67		A gem that shines purple, holding\nthe power of a Mooton Mage.
 data_item/item_param.dat	63	desc	76	51		A gray gem taken from\na Rockn's body.
-data_item/item_param.dat	64	desc	76	63		A cute milky-white stone holding\nthe power of a Booton.
+data_item/item_param.dat	64	desc	76	63		A cute milky-white stone holding\nthe power of a Oinkton.
 data_item/item_param.dat	65	desc	76	57		Strangely shaped. A stone\nholding the power of nature.
 data_item/item_param.dat	66	desc	76	65		A stone of linked beads, holding\nthe power of a Cyclops.
 data_item/item_param.dat	67	desc	76	63		A flame gem. Wish hard and it\nsummons a mighty monster.
@@ -3155,18 +3155,18 @@ data_monster/monster_param.dat	32	name	16	14		God Tauros
 data_monster/monster_param.dat	33	name	16	14		Chill Tauros
 data_monster/monster_param.dat	34	name	16	14		Cool Tauros
 data_monster/monster_param.dat	35	name	16	14		Tall Tauros
-data_monster/monster_param.dat	36	name	16	12		Mini Booton
-data_monster/monster_param.dat	37	name	16	8		Booton
-data_monster/monster_param.dat	38	name	16	12		Big Booton
+data_monster/monster_param.dat	36	name	16	12		Mini Oinkton
+data_monster/monster_param.dat	37	name	16	8		Oinkton
+data_monster/monster_param.dat	38	name	16	12		Big Oinkton
 data_monster/monster_param.dat	39	name	16	16		Iberico Pig
 data_monster/monster_param.dat	40	name	16	12		Mr. Black Pig
 data_monster/monster_param.dat	41	name	16	12		Black Pig X
-data_monster/monster_param.dat	42	name	16	14		Light Booton
-data_monster/monster_param.dat	43	name	16	16		Thunder Booton
-data_monster/monster_param.dat	44	name	16	16		Bolt Booton
-data_monster/monster_param.dat	45	name	16	16		Miracle Booton
-data_monster/monster_param.dat	46	name	16	16		Magical Booton
-data_monster/monster_param.dat	47	name	16	16		Radical Booton
+data_monster/monster_param.dat	42	name	16	14		Light Oinkton
+data_monster/monster_param.dat	43	name	16	16		Thunder Oinkton
+data_monster/monster_param.dat	44	name	16	16		Bolt Oinkton
+data_monster/monster_param.dat	45	name	16	16		Miracle Oinkton
+data_monster/monster_param.dat	46	name	16	16		Magical Oinkton
+data_monster/monster_param.dat	47	name	16	16		Radical Oinkton
 data_monster/monster_param.dat	48	name	16	16		Mooton Sage
 data_monster/monster_param.dat	49	name	16	16		Mooton Mage
 data_monster/monster_param.dat	50	name	16	16		Mooton Wise
@@ -4056,8 +4056,8 @@ data_general/medalion.dat	26	cond	63	25		Gold Medal\nGet!!
 data_general/medalion.dat	27	cond	63	38		Eat #insnumber# kinds\nof ramen
 data_general/medalion.dat	28	cond	63	38		Eat #insnumber# kinds\nof ramen
 data_general/medalion.dat	29	cond	63	25		Gold Medal\nGet!!
-data_general/medalion.dat	30	cond	63	38		Bathe in #insnumber#\nkinds of hot springs
-data_general/medalion.dat	31	cond	63	38		Bathe in #insnumber#\nkinds of hot springs
+data_general/medalion.dat	30	cond	63	38		Visit #insnumber# kinds\nof hot springs
+data_general/medalion.dat	31	cond	63	38		Visit #insnumber# kinds\nof hot springs
 data_general/medalion.dat	32	cond	63	25		Gold Medal\nGet!!
 data_general/medalion.dat	33	cond	63	36		Pickle #insnumber#\nkinds of items
 data_general/medalion.dat	34	cond	63	36		Pickle #insnumber#\nkinds of items
@@ -4068,8 +4068,8 @@ data_general/medalion.dat	38	cond	63	25		Gold Medal\nGet!!
 data_general/medalion.dat	39	cond	63	34		Defeat #insnumber#\nkinds of enemies
 data_general/medalion.dat	40	cond	63	34		Defeat #insnumber#\nkinds of enemies
 data_general/medalion.dat	41	cond	63	25		Gold Medal\nGet!!
-data_general/medalion.dat	42	cond	63	38		Deal #insnumber#\ndamage in one hit
-data_general/medalion.dat	43	cond	63	38		Deal #insnumber#\ndamage in one hit
+data_general/medalion.dat	42	cond	63	38		Deal #insnumber# damage\nin a single hit
+data_general/medalion.dat	43	cond	63	38		Deal #insnumber# damage\nin a single hit
 data_general/medalion.dat	44	cond	63	25		Gold Medal\nGet!!
 data_general/medalion.dat	45	cond	63	34		Make #insnumber# kinds\nof weapons
 data_general/medalion.dat	46	cond	63	34		Make #insnumber# kinds\nof weapons
@@ -4080,26 +4080,26 @@ data_general/medalion.dat	50	cond	63	25		Gold Medal\nGet!!
 data_general/medalion.dat	51	cond	63	36		Make #insnumber# kinds\nof armor
 data_general/medalion.dat	52	cond	63	36		Make #insnumber# kinds\nof armor
 data_general/medalion.dat	53	cond	63	25		Gold Medal\nGet!!
-data_general/medalion.dat	54	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
-data_general/medalion.dat	55	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
+data_general/medalion.dat	54	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
+data_general/medalion.dat	55	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
 data_general/medalion.dat	56	cond	63	25		Gold Medal\nGet!!
-data_general/medalion.dat	57	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
-data_general/medalion.dat	58	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
+data_general/medalion.dat	57	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
+data_general/medalion.dat	58	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
 data_general/medalion.dat	59	cond	63	25		Gold Medal\nGet!!
-data_general/medalion.dat	60	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
-data_general/medalion.dat	61	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
+data_general/medalion.dat	60	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
+data_general/medalion.dat	61	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
 data_general/medalion.dat	62	cond	63	25		Gold Medal\nGet!!
-data_general/medalion.dat	63	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
-data_general/medalion.dat	64	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
+data_general/medalion.dat	63	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
+data_general/medalion.dat	64	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
 data_general/medalion.dat	65	cond	63	25		Gold Medal\nGet!!
-data_general/medalion.dat	66	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
-data_general/medalion.dat	67	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
+data_general/medalion.dat	66	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
+data_general/medalion.dat	67	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
 data_general/medalion.dat	68	cond	63	25		Gold Medal\nGet!!
-data_general/medalion.dat	69	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
-data_general/medalion.dat	70	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
+data_general/medalion.dat	69	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
+data_general/medalion.dat	70	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
 data_general/medalion.dat	71	cond	63	25		Gold Medal\nGet!!
-data_general/medalion.dat	72	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
-data_general/medalion.dat	73	cond	63	44		Beat #insnumber# boss\ntypes in 2 minutes
+data_general/medalion.dat	72	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
+data_general/medalion.dat	73	cond	63	44		Beat #insnumber# kinds of\nbosses in 2 min
 data_general/medalion.dat	74	cond	63	25		Gold Medal\nGet!!
 data_general/master_power.dat	0	name	23	16		HP Up Power
 data_general/master_power.dat	1	name	23	16		HP Up Power
@@ -4403,7 +4403,7 @@ data_general/island_art.dat	23	name	31	14		King Punion
 data_general/island_art.dat	23	desc	127	66		An onion king with a splendid\nbeard, full of\ndignity.
 data_general/island_art.dat	24	name	31	10		Mooton
 data_general/island_art.dat	24	desc	127	70		A cow carpenter with a fine\ncoat. Lives a relaxed life\non the island.
-data_general/island_art.dat	25	name	31	8		Booton
+data_general/island_art.dat	25	name	31	8		Oinkton
 data_general/island_art.dat	25	desc	127	90		A big pig chef who always\ncarries a ladle, particular\nabout cooking.
 data_general/island_art.dat	26	name	31	16		Mooton Mage
 data_general/island_art.dat	26	desc	127	70		A book-loving cow mage who\ncan cast all sorts of\ncow magic.
@@ -4447,7 +4447,7 @@ data_general/island_art.dat	45	name	31	14		Birdhouse
 data_general/island_art.dat	45	desc	127	56		A refined Japanese-style\nmailbox where little birds\nhave taken up residence.
 data_general/cook_param.dat	0	name	23	10		Kalbi Rice Bowl
 data_general/cook_param.dat	0	desc	127	52		A rice bowl piled high with\njuicy kalbi meat.
-data_general/cook_param.dat	1	name	23	14		Tonkatsu Sandwich
+data_general/cook_param.dat	1	name	23	14		Katsu Sandwich
 data_general/cook_param.dat	1	desc	127	62		Crispy fried thick-cut loin\ntucked into a soft bun.
 data_general/cook_param.dat	2	name	23	16		Garlic Chicken
 data_general/cook_param.dat	2	desc	127	68		Sauteed chicken with the\nrich flavor of garlic and juices.
@@ -4477,7 +4477,7 @@ data_general/cook_param.dat	14	name	23	16		Ginger Pork
 data_general/cook_param.dat	14	desc	127	66		Premium loin sauteed in\nginger sauce -- the finest set meal.
 data_general/cook_param.dat	15	name	23	12		Shabu-Shabu
 data_general/cook_param.dat	15	desc	127	70		A luxurious hot pot of marbled\nbeef quickly swished and eaten.
-data_general/cook_param.dat	16	name	23	14		Grilled Sweetfish
+data_general/cook_param.dat	16	name	23	14		Salted Sweetfish
 data_general/cook_param.dat	16	desc	127	56		A simple dish of delicious\nayu, grilled and salted.
 data_general/cook_param.dat	17	name	23	14		Salmon Sandwich
 data_general/cook_param.dat	17	desc	127	64		Salmon fried crisp in oil,\ntucked into a soft bun.
@@ -4507,7 +4507,7 @@ data_general/cook_param.dat	29	name	23	10		Chirashi Sushi
 data_general/cook_param.dat	29	desc	127	64		Sushi with salmon and shiitake,\nfull of springtime color.
 data_general/cook_param.dat	30	name	23	12		Seafood Hot Pot
 data_general/cook_param.dat	30	desc	127	70		A rich hot pot of many fish\nsimmered in miso soup.
-data_general/cook_param.dat	31	name	23	8		Pufferfish Hot Pot
+data_general/cook_param.dat	31	name	23	8		Fugu Hot Pot
 data_general/cook_param.dat	31	desc	127	68		The finest pufferfish's white\nflesh, savored in a hot pot.
 data_general/cook_param.dat	32	name	23	14		Sauteed Onion
 data_general/cook_param.dat	32	desc	127	62		Simply sauteed sliced onion\nin a light sauce.
@@ -4517,7 +4517,7 @@ data_general/cook_param.dat	34	name	23	10		Tuna Salad
 data_general/cook_param.dat	34	desc	127	66		Crisp lettuce paired\nperfectly with savory tuna.
 data_general/cook_param.dat	35	name	23	14		French Fries
 data_general/cook_param.dat	35	desc	127	62		Fried potatoes with a\nlight sprinkle of salt.
-data_general/cook_param.dat	36	name	23	14		Fried Onion Rings
+data_general/cook_param.dat	36	name	23	14		Onion Rings
 data_general/cook_param.dat	36	desc	127	56		Onions fried to bring out\ntheir natural sweetness.
 data_general/cook_param.dat	37	name	23	12		Seaweed Salad
 data_general/cook_param.dat	37	desc	127	70		Seaweed dressed in soy sauce\nand oil for a healthy flavor.
@@ -4527,7 +4527,7 @@ data_general/cook_param.dat	39	name	23	12		Vegetable Curry
 data_general/cook_param.dat	39	desc	127	68		A healthy curry of many\nvegetables simmered in spice.
 data_general/cook_param.dat	40	name	23	16		Cream Stew
 data_general/cook_param.dat	40	desc	127	70		Chicken thigh and vegetables\nsimmered in creamy sauce.
-data_general/cook_param.dat	41	name	23	16		Buttered Mushrooms
+data_general/cook_param.dat	41	name	23	16		Butter Mushrooms
 data_general/cook_param.dat	41	desc	127	66		Tender mushrooms sauteed\nin the finest butter.
 data_general/cook_param.dat	42	name	23	14		Seafood Salad
 data_general/cook_param.dat	42	desc	127	64		A luxurious salad loaded\nwith toro, scallop, and more.
@@ -4537,7 +4537,7 @@ data_general/cook_param.dat	44	name	23	16		Special Salad
 data_general/cook_param.dat	44	desc	127	68		A salad of many things --\nlooks odd, tastes superb.
 data_general/cook_param.dat	45	name	23	12		Mushroom Salad
 data_general/cook_param.dat	45	desc	127	58		A salad to fully savor\nthe flavor of many mushrooms.
-data_general/cook_param.dat	46	name	23	14		Vegetable Dumplings
+data_general/cook_param.dat	46	name	23	14		Veggie Dumplings
 data_general/cook_param.dat	46	desc	127	66		Healthy steamed dumplings\nfilled with minced vegetables.
 data_general/cook_param.dat	47	name	23	14		Matsutake Rice
 data_general/cook_param.dat	47	desc	127	60		A luxurious dish you can\nsavor for its fine aroma.
@@ -4579,7 +4579,7 @@ data_general/cook_param.dat	65	name	23	16		Coffee Cookie
 data_general/cook_param.dat	65	desc	127	64		A bitter cookie where coffee\nflavor highlights the sweetness.
 data_general/cook_param.dat	66	name	23	12		Chocolate Cake
 data_general/cook_param.dat	66	desc	127	64		Rich chocolate sweetness\nmelted into the cream.
-data_general/cook_param.dat	67	name	23	14		Strawberry Shortcake
+data_general/cook_param.dat	67	name	23	14		Strawberry Cake
 data_general/cook_param.dat	67	desc	127	64		Sweet strawberries and fresh\ncream in perfect harmony.
 data_general/cook_param.dat	68	name	23	12		Cream Bun
 data_general/cook_param.dat	68	desc	127	60		Fresh-baked bread with tasty\ncream wrapped in fluffy dough.
@@ -4595,11 +4595,11 @@ data_general/cook_param.dat	73	name	23	12		Melon Jelly
 data_general/cook_param.dat	73	desc	127	58		Luxurious jelly capturing\nthe refined sweetness of melon.
 data_general/cook_param.dat	74	name	23	12		Pancakes
 data_general/cook_param.dat	74	desc	127	62		Fluffy cake with melting\nbutter and delicious honey.
-data_general/cook_param.dat	75	name	23	14		Strawberry Mousse
+data_general/cook_param.dat	75	name	23	14		Berry Mousse
 data_general/cook_param.dat	75	desc	127	58		Strawberry sweetness melted\nsoftly into the cream.
-data_general/cook_param.dat	76	name	23	12		Pineapple Sherbet
-data_general/cook_param.dat	76	desc	127	62		Fresh pineapple's mild sweetness\nfrozen into a sherbet.
-data_general/cook_param.dat	77	name	23	12		Vanilla Ice Cream
+data_general/cook_param.dat	76	name	23	12		Pineapple Sorbet
+data_general/cook_param.dat	76	desc	127	62		Fresh pineapple's mild sweetness\nfrozen into a sorbet.
+data_general/cook_param.dat	77	name	23	12		Vanilla Gelato
 data_general/cook_param.dat	77	desc	127	62		Luxurious ice cream to fully\nsavor fresh milk's richness.
 data_general/cook_param.dat	78	name	23	14		Matcha Pudding
 data_general/cook_param.dat	78	desc	127	66		Pudding with the exquisite\nharmony of egg and matcha.
@@ -4868,7 +4868,7 @@ data_general/staff_roll_text.dat	29	msg2	47	6		love you.
 data_general/staff_roll_text.dat	30	msg2	47	14		I'll be very happy.
 data_general/staff_roll_text.dat	31	msg2	47	32		designed to numb your brain.
 data_general/staff_roll_text.dat	32	msg2	47	20		hard work playing!
-data_general/staff_roll_text.dat	33	msg2	47	14		Booton.
+data_general/staff_roll_text.dat	33	msg2	47	14		Oinkton.
 data_general/staff_roll_text.dat	34	msg2	47	34		See you again in the game.
 data_general/staff_roll_text.dat	35	msg2	47	36		but right differs for everyone.
 data_general/staff_roll_text.dat	36	msg2	47	32		See you in the next game.
@@ -4892,3 +4892,51 @@ data_general/staff_roll_text.dat	54	msg2	47	16		a ○★~~♪
 data_general/staff_roll_text.dat	55	msg2	47	24		All black... can't see me?
 data_general/staff_roll_text.dat	56	msg2	47	32		Thanks to everyone♪
 data_general/staff_roll_text.dat	57	msg2	47	32		Can't wait for the next one, bear!
+data_treasure/quest_data.dat	0	title	63	18		Lavender's Job
+data_treasure/quest_data.dat	1	title	63	18		Lavender's Radiance
+data_treasure/quest_data.dat	2	title	63	16		Lavender's Feelings
+data_treasure/quest_data.dat	3	title	63	18		Lavender's Guidance
+data_treasure/quest_data.dat	4	title	63	16		Lavender's Bond
+data_treasure/quest_data.dat	5	title	63	18		Lavender's Kindness
+data_treasure/quest_data.dat	6	title	63	16		Lavender's Devotion
+data_treasure/quest_data.dat	7	title	63	16		Lavender's Wish
+data_treasure/quest_data.dat	8	title	63	24		First Great Invention
+data_treasure/quest_data.dat	9	title	63	24		Humanity's First Invention
+data_treasure/quest_data.dat	10	title	63	24		Payback Invention
+data_treasure/quest_data.dat	11	title	63	24		Invention for Humanity
+data_treasure/quest_data.dat	12	title	63	24		Invention Born of Frustration
+data_treasure/quest_data.dat	13	title	63	18		Not Enough Parts...
+data_treasure/quest_data.dat	14	title	63	18		Not Enough Data...
+data_treasure/quest_data.dat	15	title	63	26		Dream-Fulfilling Invention
+data_treasure/quest_data.dat	16	title	63	22		It's Mint!
+data_treasure/quest_data.dat	17	title	63	24		She Likes Wriggly Things!
+data_treasure/quest_data.dat	18	title	63	22		She Wants to Pet It!
+data_treasure/quest_data.dat	19	title	63	22		She Wants to Cuddle It!
+data_treasure/quest_data.dat	20	title	63	22		She Wants a Heart!
+data_treasure/quest_data.dat	21	title	63	18		She's So Bored!
+data_treasure/quest_data.dat	22	title	63	18		Blow Blow!
+data_treasure/quest_data.dat	23	title	63	24		She Wants a Memory!
+data_treasure/quest_data.dat	24	title	63	26		Aspiring Chef
+data_treasure/quest_data.dat	25	title	63	22		Sushi Apprentice
+data_treasure/quest_data.dat	26	title	63	22		Western Cuisine
+data_treasure/quest_data.dat	27	title	63	24		Sauce Decides All
+data_treasure/quest_data.dat	28	title	63	26		Aspiring Patissier
+data_treasure/quest_data.dat	29	title	63	26		Tiramisu Trial
+data_treasure/quest_data.dat	30	title	63	26		Believe in Yourself
+data_treasure/quest_data.dat	31	title	63	26		One Last Dish
+data_treasure/quest_data.dat	32	title	63	26		Love Potion Together
+data_treasure/quest_data.dat	33	title	63	26		Potion-Making Fun
+data_treasure/quest_data.dat	34	title	63	26		Who's It For?
+data_treasure/quest_data.dat	35	title	63	26		Working Together
+data_treasure/quest_data.dat	36	title	63	26		Almost Ready
+data_treasure/quest_data.dat	37	title	63	26		About to Explode!
+data_treasure/quest_data.dat	38	title	63	26		At Last, It's Done!
+data_treasure/quest_data.dat	39	title	63	26		A Phantom Potion
+data_treasure/quest_data.dat	40	title	63	22		Save Our Galaxy
+data_treasure/quest_data.dat	41	title	63	24		Defeat the Clone Fiends
+data_treasure/quest_data.dat	42	title	63	20		My Weakness Is Tears
+data_treasure/quest_data.dat	43	title	63	24		Save the Planet Lilia
+data_treasure/quest_data.dat	44	title	63	20		Secret of the Battle Suit
+data_treasure/quest_data.dat	45	title	63	26		Revive the Yakutanon Beam
+data_treasure/quest_data.dat	46	title	63	22		Rescue Eriyu
+data_treasure/quest_data.dat	47	title	63	16		The Final Battle

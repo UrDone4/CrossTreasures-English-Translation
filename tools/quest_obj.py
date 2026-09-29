@@ -33,7 +33,9 @@ STAMP_FONT = {
     "R": ("###.", "#..#", "#..#", "###.", "#.#.", "#..#", "#..#"),
     "!": ("#", "#", "#", "#", "#", ".", "#"),
 }
-STAMP = {"cell": 5, "clear": (2, 1, 29, 10), "bg": 3, "ink": 11,
+# clear from x 1: the Japanese ク reached it (stray pixels left of the C,
+# user 2026-09-28); x 0 is the red rim, the same colour as the face
+STAMP = {"cell": 5, "clear": (1, 1, 29, 10), "bg": 3, "ink": 11,
          "word": "CLEAR!", "at": (3, 2)}
 
 

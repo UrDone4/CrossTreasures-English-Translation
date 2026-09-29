@@ -2,6 +2,10 @@
 """Make a patch for the "2CH" dump of Cross Treasures (Japan).
 
     patch_2ch.py <clean.nds> <2ch.nds> <translated.nds> <out.xdelta>
+    patch_2ch.py <clean.nds> -       <translated.nds> <out.xdelta>
+
+With "-" for the 2CH dump, it is recreated from the clean one (see
+make_2ch_dump) -- no copy of it needs to be kept.
 
 The 2CH dump (SHA-1 87282a19f8e382b86b5a71714dc9d8dbc7a1126c, the one the
 earlier partial translation patched) is the same game as the verified dump
@@ -25,6 +29,19 @@ import tempfile
 CLEAN_SHA1 = "4048b18f3e589e70e58391927c82ca87117d1337"
 TWO_CH_SHA1 = "87282a19f8e382b86b5a71714dc9d8dbc7a1126c"
 HEADER_END = 0x1000     # every difference must lie in the ROM header
+# the header bytes the 2CH dump has blanked (RSA signature, two hash fields)
+BLANKED = ((0x33C, 0x350), (0x378, 0x3A0), (0xF80, 0x1000))
+
+
+def make_2ch_dump(clean):
+    """The 2CH dump, from the clean one: the same bytes with BLANKED zeroed
+    (checked: gives SHA-1 87282a19..., user's dump, 2026-09-28)."""
+    data = bytearray(clean)
+    for s, e in BLANKED:
+        data[s:e] = bytes(e - s)
+    if hashlib.sha1(data).hexdigest() != TWO_CH_SHA1:
+        raise SystemExit("recreated 2CH dump does not match its SHA-1")
+    return bytes(data)
 
 
 def runs(a, b):
@@ -45,8 +62,17 @@ def main(argv):
     if len(argv) != 5:
         print(__doc__)
         return 1
-    clean, two_ch, built = (open(p, "rb").read() for p in argv[1:4])
+    clean = open(argv[1], "rb").read()
+    built = open(argv[3], "rb").read()
     out = argv[4]
+    src_2ch = argv[2]
+    if src_2ch == "-":
+        two_ch = make_2ch_dump(clean)
+        src_2ch = os.path.join(tempfile.mkdtemp(), "2ch.nds")
+        with open(src_2ch, "wb") as fh:
+            fh.write(two_ch)
+    else:
+        two_ch = open(src_2ch, "rb").read()
     for name, data, want in (("clean", clean, CLEAN_SHA1), ("2CH", two_ch, TWO_CH_SHA1)):
         got = hashlib.sha1(data).hexdigest()
         if got != want:
@@ -61,9 +87,9 @@ def main(argv):
     tgt = os.path.join(tmp, "target.nds")
     with open(tgt, "wb") as fh:
         fh.write(target)
-    subprocess.run(["xdelta3", "-e", "-9", "-S", "djw", "-f", "-s", argv[2], tgt, out], check=True)
+    subprocess.run(["xdelta3", "-e", "-9", "-S", "djw", "-f", "-s", src_2ch, tgt, out], check=True)
     back = os.path.join(tmp, "back.nds")
-    subprocess.run(["xdelta3", "-d", "-f", "-s", argv[2], out, back], check=True)
+    subprocess.run(["xdelta3", "-d", "-f", "-s", src_2ch, out, back], check=True)
     if open(back, "rb").read() != bytes(target):
         raise SystemExit("round trip failed")
     import zlib

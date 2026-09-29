@@ -34,12 +34,15 @@ FRIENDS = [
     # Hair: Brown = Marron, Dark Brown = Choco, Black = Dark, Blonde = Gold;
     # Straight = Silky (さらさら), Short = Neat (さっぱり; the Creator has no
     # balding option), Curly = Curly.
+    # Faces, hairstyles and voices are per gender (user, 2026-09-28: Hannah had
+    # a beard -- 'Gentle' is a male face): see MALE / FEMALE below. The women
+    # have no "curly" or "straight": curly -> Fluffy, straight -> Bangs.
     dict(name="Hannah", birthday=(2, 8), cls="Priest",
-         look=('Female', 'Gentle', 'Curly', 'Marron', 'Beauty')),
+         look=('Female', 'Beauty', 'Fluffy', 'Marron', 'Beauty')),
     dict(name="Jess",   birthday=(6, 2), cls="Thief",
-         look=('Female', 'Cool', 'Silky', 'Dark', 'Cute')),
+         look=('Female', 'Smiling', 'Bangs', 'Dark', 'Cute')),
     dict(name="Jon",    birthday=(10, 29), cls="Mage",
-         look=('Male', 'Smiling', 'Neat', 'Marron', 'Wild')),
+         look=('Male', 'Fresh', 'Neat', 'Marron', 'Wild')),
     dict(name="Grant",  birthday=(11, 21), cls="Fighter",
          look=('Male', 'Fresh', 'Silky', 'Choco', 'Cool')),
     dict(name="Tyson",  birthday=(4, 4), cls="Mage",
@@ -49,7 +52,7 @@ FRIENDS = [
     dict(name="Jason",  birthday=(7, 19), cls="Priest",
          look=('Male', 'Gentle', 'Silky', 'Marron', 'Wild')),
     dict(name="Tab",    birthday=(7, 20), cls="Fighter",
-         look=('Female', 'Cute', 'Curly', 'Gold', 'Cute')),
+         look=('Female', 'Cute', 'Fluffy', 'Gold', 'Cute')),
 ]
 # your own best floor at which friend 1..8 joins (Cross Medal: 1 / 4 / 8)
 JOIN_FLOORS = [0, 5, 10, 15, 20, 25, 30, 35]
@@ -68,6 +71,12 @@ HAIR_COLOURS = ("Dark", "Choco", "Marron", "Gold", "Lemon", "Orange", "Apple",
                 "Olive", "Silver")
 VOICES = ("Cool", "Wild", "Cute", "Beauty")
 LOOK_LISTS = (GENDERS, FACES, HAIRSTYLES, HAIR_COLOURS, VOICES)
+# the Character Creator offers each gender only its half of these lists
+# (a male face on a woman gives her a beard)
+BY_GENDER = {
+    "Male": {"face": FACES[:4], "hairstyle": HAIRSTYLES[:4], "voice": VOICES[:2]},
+    "Female": {"face": FACES[4:], "hairstyle": HAIRSTYLES[4:], "voice": VOICES[2:]},
+}
 
 
 def look_bytes(f):
@@ -93,6 +102,12 @@ def check():
         if lk is not None and (len(lk) != 5 or any(v not in lst for lst, v in zip(LOOK_LISTS, lk))):
             out.append("%s: look is (gender, face, hairstyle, hair colour, voice) "
                        "from GENDERS / FACES / HAIRSTYLES / HAIR_COLOURS / VOICES" % n)
+        if lk is not None and len(lk) == 5 and lk[0] in BY_GENDER:
+            allowed = BY_GENDER[lk[0]]
+            for field, value in (("face", lk[1]), ("hairstyle", lk[2]), ("voice", lk[4])):
+                if value not in allowed[field]:
+                    out.append("%s: %s %r is not a %s option (%s)"
+                               % (n, field, value, lk[0], ", ".join(allowed[field])))
         if f["cls"] is not None and f["cls"] not in CLASSES:
             out.append("%s: class must be one of %s" % (n, ", ".join(CLASSES)))
     if len(JOIN_FLOORS) != 8 or any(not 0 <= j <= 50 for j in JOIN_FLOORS):

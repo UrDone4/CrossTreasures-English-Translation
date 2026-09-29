@@ -635,8 +635,8 @@ SEEDS = {
     ("madu_quest", 14): [
         ((132, 29, 192, 37), "'s Quest", "left"),
         ((40, 137, 108, 143), "Quest Item"),
-        ((146, 137, 188, 143), "Owned", "center", {"box": (143, 136, 192, 146)}),
-        ((200, 137, 244, 143), "Needed", "center", {"box": (196, 136, 247, 146)}),
+        ((146, 137, 188, 143), "Owned", "center", {"box": (142, 136, 193, 146)}),
+        ((200, 137, 244, 143), "Needed", "center", {"box": (194, 136, 247, 146)}),
     ],
 
     # Jump menu: three screens over NCCG 8 -- the main list (NCSC 19: the two active

@@ -44,8 +44,8 @@ script/text/ev100000.txt	71	*10021	24	232		Yes
 script/text/ev100000.txt	72	*10021	36	232		No
 script/text/ev100000.txt	75	*10100	24	232		Yes
 script/text/ev100000.txt	76	*10100	36	232		No
-script/text/ev100000.txt	78	*10101	36	232		Right hand
-script/text/ev100000.txt	79	*10101	46	232		Left hand
+script/text/ev100000.txt	78	*10101	36	232		Right
+script/text/ev100000.txt	79	*10101	46	232		Left
 script/text/ev100001.txt	1	*30	124	232		Save your adventure
 script/text/ev100001.txt	2	*30	88	232		so far?
 script/text/ev100001.txt	4	*31	95	232		Saving...
@@ -930,8 +930,8 @@ script/text/ev100007.txt	206	*700	183	232		<c6<Monster Pets</c<<c4<!</c<
 script/text/ev100007.txt	209	*710	146	232		<c2<Mooton Gem</c< <c4<gave you</c<
 script/text/ev100007.txt	210	*710	71	232		<c2<Mooton</c< <c4<for your</c<
 script/text/ev100007.txt	211	*710	157	232		<c6<Monster Pets</c<<c4<!</c<
-script/text/ev100007.txt	214	*720	132	232		<c2<Booton Gem</c< <c4<gave you</c<
-script/text/ev100007.txt	215	*720	71	232		<c2<Booton</c< <c4<for your</c<
+script/text/ev100007.txt	214	*720	132	232		<c2<Oinkton Gem</c< <c4<gave you</c<
+script/text/ev100007.txt	215	*720	71	232		<c2<Oinkton</c< <c4<for your</c<
 script/text/ev100007.txt	216	*720	143	232		<c6<Monster Pets</c<<c4<!</c<
 script/text/ev100007.txt	219	*730	134	232		<c2<Mage Gem</c< <c4<gave you</c<
 script/text/ev100007.txt	220	*730	71	232		<c2<Mooton Mage</c< <c4<for your</c<
@@ -1376,25 +1376,25 @@ script/text/ev100202.txt	42	*252	74	232		<c4<Mooton gave</c<
 script/text/ev100202.txt	43	*252	141	232		<c2<Twisty Horn</c<<c4<!</c<<c4<!</c<
 script/text/ev100202.txt	48	*10000	24	232		Yes
 script/text/ev100202.txt	49	*10000	36	232		No
-script/text/ev100203.txt	1	*301	64	232		Buoon!
-script/text/ev100203.txt	4	*302	60	232		<c4<Booton seems to want</c<
+script/text/ev100203.txt	1	*301	64	232		Oink!
+script/text/ev100203.txt	4	*302	60	232		<c4<Oinkton seems to want</c<
 script/text/ev100203.txt	5	*302	98	232		<c4<a</c< <c2<Soft Mushroom</c<<c4<...</c<
 script/text/ev100203.txt	6	*302	124	232		<blank>
 script/text/ev100203.txt	9	*303	127	232		<c4<Will you give it one?</c<
 script/text/ev100203.txt	13	*310	76	232		<c4<But >pn> doesn't</c<
 script/text/ev100203.txt	14	*310	98	232		<c4<have a</c< <c2<Soft Mushroom</c<<c4<...</c<
 script/text/ev100203.txt	15	*310	108	232		<blank>
-script/text/ev100203.txt	18	*311	71	232		Buooon...
-script/text/ev100203.txt	21	*312	60	232		<c4<Booton</c<
+script/text/ev100203.txt	18	*311	71	232		Oink...
+script/text/ev100203.txt	21	*312	60	232		<c4<Oinkton</c<
 script/text/ev100203.txt	22	*312	99	232		<c4<looks disappointed...</c<
-script/text/ev100203.txt	26	*320	73	232		Buuoon!
-script/text/ev100203.txt	29	*321	60	232		<c4<Booton</c<
+script/text/ev100203.txt	26	*320	73	232		Oiiiiink!
+script/text/ev100203.txt	29	*321	60	232		<c4<Oinkton</c<
 script/text/ev100203.txt	30	*321	137	232		<c4<is absolutely delighted...</c<
-script/text/ev100203.txt	34	*350	60	232		<c4<Booton gave</c<
+script/text/ev100203.txt	34	*350	60	232		<c4<Oinkton gave</c<
 script/text/ev100203.txt	35	*350	142	232		<c2<Bright Tomato</c<<c4<!</c<<c4<!</c<
-script/text/ev100203.txt	38	*351	60	232		<c4<Booton gave</c<
+script/text/ev100203.txt	38	*351	60	232		<c4<Oinkton gave</c<
 script/text/ev100203.txt	39	*351	114	232		<c2<Green Onion</c<<c4<!</c<<c4<!</c<
-script/text/ev100203.txt	42	*352	60	232		<c4<Booton gave</c<
+script/text/ev100203.txt	42	*352	60	232		<c4<Oinkton gave</c<
 script/text/ev100203.txt	43	*352	150	232		<c2<Prime Butter</c<<c4<!</c<<c4<!</c<
 script/text/ev100203.txt	53	*10000	24	232		Yes
 script/text/ev100203.txt	54	*10000	36	232		No
@@ -1890,7 +1890,7 @@ script/text/ev20000.txt	3	*1001	40	232		Hiii!
 script/text/ev20000.txt	6	*1002	47	232		I'm
 script/text/ev20000.txt	7	*1002	137	232		Lavender, the Rose Sorceress.
 script/text/ev20000.txt	11	*1003	54	232		And you?
-script/text/ev20000.txt	14	*10000	35	232		Introduce yourself
+script/text/ev20000.txt	14	*10000	35	232		Give name
 script/text/ev20000.txt	15	*10000	59	232		Don't
 script/text/ev20000.txt	24	*1004	89	232		My, aren't you
 script/text/ev20000.txt	25	*1004	125	232		quite the cautious one.
@@ -1899,7 +1899,7 @@ script/text/ev20000.txt	31	*1006	56	232		Farewell,
 script/text/ev20000.txt	32	*1006	147	232		mysterious adventurer.
 script/text/ev20000.txt	35	*1007	99	232		If fate wills it,
 script/text/ev20000.txt	36	*1007	95	232		we'll meet again.
-script/text/ev20000.txt	42	*1011	37	232		Ufufu.
+script/text/ev20000.txt	42	*1011	37	232		Teehee.
 script/text/ev20000.txt	45	*1012	141	232		So you're >pn>, then.
 script/text/ev20000.txt	48	*1013	98	232		That's a rather
 script/text/ev20000.txt	49	*1013	92	232		cute name.
@@ -1911,7 +1911,7 @@ script/text/ev20000.txt	60	*1016	172	232		if you don't mind, could you
 script/text/ev20000.txt	61	*1016	166	232		do a little job for me?
 script/text/ev20000.txt	66	*10001	24	232		Yes
 script/text/ev20000.txt	67	*10001	36	232		No
-script/text/ev20000.txt	71	*1017	37	232		Ufufu.
+script/text/ev20000.txt	71	*1017	37	232		Teehee.
 script/text/ev20000.txt	74	*1018	50	232		Thanks.
 script/text/ev20000.txt	77	*1019	81	232		Then let's get
 script/text/ev20000.txt	78	*1019	100	232		right to it.
@@ -1944,13 +1944,13 @@ script/text/ev20000.txt	144	*1101	141	232		you've decided to take the job?
 script/text/ev20000.txt	148	*1040	32	232		<c4<>pn> accepted</c<
 script/text/ev20000.txt	149	*1040	121	232		<c4<Lavender's</c< <c8<Job</c<
 script/text/ev20000.txt	150	*1040	127	232		<c4<quest!</c<
-script/text/ev20000.txt	153	*1041	37	232		Ufufu.
+script/text/ev20000.txt	153	*1041	37	232		Teehee.
 script/text/ev20000.txt	156	*1042	114	232		Then it's a deal.
 script/text/ev20000.txt	159	*1043	105	232		The first gem
 script/text/ev20000.txt	160	*1043	157	232		I want you to bring me
 script/text/ev20000.txt	161	*1043	90	232		is one <c2<Ruby</c<.
 script/text/ev20000.txt	164	*1044	113	232		Make sure you remember that.
-script/text/ev20000.txt	167	*1045	37	232		Ufufu.
+script/text/ev20000.txt	167	*1045	37	232		Teehee.
 script/text/ev20000.txt	170	*1046	145	232		Well then, I'll be looking forward
 script/text/ev20000.txt	171	*1046	137	232		to your return.
 script/text/ev20000.txt	175	*1050	46	232		The gem
@@ -1967,7 +1967,7 @@ script/text/ev20000.txt	198	*1070	73	232		>pn>, I've
 script/text/ev20000.txt	199	*1070	75	232		been waiting for you.
 script/text/ev20000.txt	202	*1071	166	232		Did you bring me
 script/text/ev20000.txt	203	*1071	137	232		something to make me shine?
-script/text/ev20000.txt	207	*10003	36	232		Hand it over
+script/text/ev20000.txt	207	*10003	36	232		Give
 script/text/ev20000.txt	208	*10003	59	232		Don't
 script/text/ev20000.txt	214	*1072	157	232		Oh, too bad -- that's not it.
 script/text/ev20000.txt	217	*1073	83	232		Well, I suppose
@@ -1978,7 +1978,7 @@ script/text/ev20000.txt	224	*1080	139	232		<c4<quest!!</c<
 script/text/ev20000.txt	227	*1081	32	232		<c4<>pn> gained</c<
 script/text/ev20000.txt	228	*1081	113	232		<c3<200 experience</c<
 script/text/ev20000.txt	229	*1081	68	232		<c4<points!!</c<
-script/text/ev20000.txt	232	*1082	37	232		Ufufu.
+script/text/ev20000.txt	232	*1082	37	232		Teehee.
 script/text/ev20000.txt	235	*1083	45	232		Yes, indeed --
 script/text/ev20000.txt	236	*1083	154	232		this is exactly what I asked for.
 script/text/ev20000.txt	239	*1084	131	232		Then, as promised...
@@ -2020,7 +2020,7 @@ script/text/ev20001.txt	43	*1101	141	232		you've decided to take the job?
 script/text/ev20001.txt	47	*1040	32	232		<c4<>pn> accepted</c<
 script/text/ev20001.txt	48	*1040	124	232		<c4<Lavender's</c< <c8<Radiance</c<
 script/text/ev20001.txt	49	*1040	127	232		<c4<quest!</c<
-script/text/ev20001.txt	52	*1041	37	232		Ufufu.
+script/text/ev20001.txt	52	*1041	37	232		Teehee.
 script/text/ev20001.txt	55	*1042	114	232		Then it's a deal.
 script/text/ev20001.txt	58	*1043	87	232		This time, the gem
 script/text/ev20001.txt	59	*1043	157	232		I want you to bring me
@@ -2041,7 +2041,7 @@ script/text/ev20001.txt	93	*1070	73	232		>pn>, I've
 script/text/ev20001.txt	94	*1070	75	232		been waiting for you.
 script/text/ev20001.txt	97	*1071	166	232		Did you bring me
 script/text/ev20001.txt	98	*1071	137	232		something to make me shine?
-script/text/ev20001.txt	102	*10003	36	232		Hand it over
+script/text/ev20001.txt	102	*10003	36	232		Give
 script/text/ev20001.txt	103	*10003	59	232		Don't
 script/text/ev20001.txt	109	*1072	157	232		Oh, too bad -- that's not it.
 script/text/ev20001.txt	112	*1073	83	232		Well, I suppose
@@ -2052,7 +2052,7 @@ script/text/ev20001.txt	119	*1080	139	232		<c4<quest!!</c<
 script/text/ev20001.txt	122	*1081	32	232		<c4<>pn> gained</c<
 script/text/ev20001.txt	123	*1081	114	232		<c3<400 experience</c<
 script/text/ev20001.txt	124	*1081	68	232		<c4<points!!</c<
-script/text/ev20001.txt	127	*1082	37	232		Ufufu.
+script/text/ev20001.txt	127	*1082	37	232		Teehee.
 script/text/ev20001.txt	130	*1084	104	232		Here, this is my thanks...
 script/text/ev20001.txt	133	*1085	32	232		<c4<>pn> got</c<
 script/text/ev20001.txt	134	*1085	122	232		<c2<Magma Flower x3</c<<c4<!</c<<c4<!</c<
@@ -2072,8 +2072,8 @@ script/text/ev20002.txt	2	*1001	65	232		Ah... >pn>...
 script/text/ev20002.txt	5	*1002	38	232		Hey...
 script/text/ev20002.txt	8	*1003	99	232		What do you
 script/text/ev20002.txt	9	*1003	162	232		think of your own father...?
-script/text/ev20002.txt	12	*10001	24	232		I like him
-script/text/ev20002.txt	13	*10001	35	232		I dislike him
+script/text/ev20002.txt	12	*10001	24	232		Like him
+script/text/ev20002.txt	13	*10001	35	232		Dislike
 script/text/ev20002.txt	17	*1004	39	232		I see...
 script/text/ev20002.txt	18	*1004	141	232		Well, I suppose that's normal...
 script/text/ev20002.txt	22	*1005	39	232		I see...
@@ -2097,7 +2097,7 @@ script/text/ev20002.txt	65	*1101	141	232		you've decided to take the job?
 script/text/ev20002.txt	69	*1040	32	232		<c4<>pn> accepted</c<
 script/text/ev20002.txt	70	*1040	111	232		<c4<Lavender's</c< <c8<Feelings</c<
 script/text/ev20002.txt	71	*1040	127	232		<c4<quest!</c<
-script/text/ev20002.txt	74	*1041	37	232		Ufufu.
+script/text/ev20002.txt	74	*1041	37	232		Teehee.
 script/text/ev20002.txt	77	*1042	114	232		Then it's a deal.
 script/text/ev20002.txt	80	*1043	87	232		This time, the gem
 script/text/ev20002.txt	81	*1043	157	232		I want you to bring me
@@ -2118,7 +2118,7 @@ script/text/ev20002.txt	115	*1070	73	232		>pn>, I've
 script/text/ev20002.txt	116	*1070	75	232		been waiting for you.
 script/text/ev20002.txt	119	*1071	166	232		Did you bring me
 script/text/ev20002.txt	120	*1071	137	232		something to make me shine?
-script/text/ev20002.txt	124	*10003	36	232		Hand it over
+script/text/ev20002.txt	124	*10003	36	232		Give
 script/text/ev20002.txt	125	*10003	59	232		Don't
 script/text/ev20002.txt	131	*1072	157	232		Oh, too bad -- that's not it.
 script/text/ev20002.txt	134	*1073	83	232		Well, I suppose
@@ -2129,7 +2129,7 @@ script/text/ev20002.txt	141	*1080	139	232		<c4<quest!!</c<
 script/text/ev20002.txt	144	*1081	32	232		<c4<>pn> gained</c<
 script/text/ev20002.txt	145	*1081	113	232		<c3<600 experience</c<
 script/text/ev20002.txt	146	*1081	68	232		<c4<points!!</c<
-script/text/ev20002.txt	149	*1082	37	232		Ufufu.
+script/text/ev20002.txt	149	*1082	37	232		Teehee.
 script/text/ev20002.txt	152	*1084	86	232		Well then, this time
 script/text/ev20002.txt	153	*1084	99	232		I'll give you this.
 script/text/ev20002.txt	156	*1085	32	232		<c4<>pn> got</c<
@@ -2182,7 +2182,7 @@ script/text/ev20003.txt	77	*1101	141	232		you've decided to take the job?
 script/text/ev20003.txt	81	*1040	32	232		<c4<>pn> accepted</c<
 script/text/ev20003.txt	82	*1040	123	232		<c4<Lavender's</c< <c8<Guidance</c<
 script/text/ev20003.txt	83	*1040	127	232		<c4<quest!</c<
-script/text/ev20003.txt	86	*1041	37	232		Ufufu.
+script/text/ev20003.txt	86	*1041	37	232		Teehee.
 script/text/ev20003.txt	89	*1042	114	232		Then it's a deal.
 script/text/ev20003.txt	92	*1043	87	232		This time, the gem
 script/text/ev20003.txt	93	*1043	157	232		I want you to bring me
@@ -2203,7 +2203,7 @@ script/text/ev20003.txt	127	*1070	73	232		>pn>, I've
 script/text/ev20003.txt	128	*1070	75	232		been waiting for you.
 script/text/ev20003.txt	131	*1071	166	232		Did you bring me
 script/text/ev20003.txt	132	*1071	137	232		something to make me shine?
-script/text/ev20003.txt	136	*10003	36	232		Hand it over
+script/text/ev20003.txt	136	*10003	36	232		Give
 script/text/ev20003.txt	137	*10003	59	232		Don't
 script/text/ev20003.txt	143	*1072	157	232		Oh, too bad -- that's not it.
 script/text/ev20003.txt	146	*1073	83	232		Well, I suppose
@@ -2214,7 +2214,7 @@ script/text/ev20003.txt	153	*1080	139	232		<c4<quest!!</c<
 script/text/ev20003.txt	156	*1081	32	232		<c4<>pn> gained</c<
 script/text/ev20003.txt	157	*1081	113	232		<c3<800 experience</c<
 script/text/ev20003.txt	158	*1081	68	232		<c4<points!!</c<
-script/text/ev20003.txt	161	*1082	37	232		Ufufu.
+script/text/ev20003.txt	161	*1082	37	232		Teehee.
 script/text/ev20003.txt	164	*1084	86	232		Well then, this time
 script/text/ev20003.txt	165	*1084	99	232		I'll give you this.
 script/text/ev20003.txt	168	*1085	32	232		<c4<>pn> got</c<
@@ -2238,7 +2238,7 @@ script/text/ev20004.txt	10	*1003	145	232		have you met
 script/text/ev20004.txt	11	*1003	103	232		my little sisters yet?
 script/text/ev20004.txt	15	*10001	24	232		Yes
 script/text/ev20004.txt	16	*10001	36	232		No
-script/text/ev20004.txt	20	*1005	90	232		Ufufu, I see.
+script/text/ev20004.txt	20	*1005	90	232		Teehee, I see.
 script/text/ev20004.txt	26	*1006	133	232		Parsley and Mint --
 script/text/ev20004.txt	27	*1006	76	232		they're both
 script/text/ev20004.txt	28	*1006	173	232		rather peculiar sorceresses.
@@ -2272,7 +2272,7 @@ script/text/ev20004.txt	92	*1101	141	232		you've decided to take the job?
 script/text/ev20004.txt	96	*1040	32	232		<c4<>pn> accepted</c<
 script/text/ev20004.txt	97	*1040	112	232		<c4<Lavender's</c< <c8<Bond</c<
 script/text/ev20004.txt	98	*1040	127	232		<c4<quest!</c<
-script/text/ev20004.txt	101	*1041	37	232		Ufufu.
+script/text/ev20004.txt	101	*1041	37	232		Teehee.
 script/text/ev20004.txt	104	*1042	114	232		Then it's a deal.
 script/text/ev20004.txt	107	*1043	46	232		The gem
 script/text/ev20004.txt	108	*1043	157	232		I want you to bring me
@@ -2293,7 +2293,7 @@ script/text/ev20004.txt	142	*1070	73	232		>pn>, I've
 script/text/ev20004.txt	143	*1070	75	232		been waiting for you.
 script/text/ev20004.txt	146	*1071	165	232		Did you bring me
 script/text/ev20004.txt	147	*1071	149	232		the thing I asked for?
-script/text/ev20004.txt	151	*10003	36	232		Hand it over
+script/text/ev20004.txt	151	*10003	36	232		Give
 script/text/ev20004.txt	152	*10003	59	232		Don't
 script/text/ev20004.txt	158	*1072	157	232		Oh, too bad -- that's not it.
 script/text/ev20004.txt	161	*1073	83	232		Well, I suppose
@@ -2304,7 +2304,7 @@ script/text/ev20004.txt	168	*1080	139	232		<c4<quest!!</c<
 script/text/ev20004.txt	171	*1081	32	232		<c4<>pn> gained</c<
 script/text/ev20004.txt	172	*1081	118	232		<c3<1000 experience</c<
 script/text/ev20004.txt	173	*1081	68	232		<c4<points!!</c<
-script/text/ev20004.txt	176	*1082	37	232		Ufufu.
+script/text/ev20004.txt	176	*1082	37	232		Teehee.
 script/text/ev20004.txt	179	*1084	115	232		Well then, as promised,
 script/text/ev20004.txt	180	*1084	99	232		here, I'll give you this.
 script/text/ev20004.txt	183	*1085	32	232		<c4<>pn> got</c<
@@ -2357,7 +2357,7 @@ script/text/ev20005.txt	62	*1014	106	232		saying something like that...
 script/text/ev20005.txt	65	*10001	24	232		Yes
 script/text/ev20005.txt	66	*10001	36	232		No
 script/text/ev20005.txt	71	*1015	99	232		I'm sorry...
-script/text/ev20005.txt	75	*1016	99	232		Ufufu, thank you...
+script/text/ev20005.txt	75	*1016	99	232		Teehee, thank you...
 script/text/ev20005.txt	81	*1017	93	232		.................
 script/text/ev20005.txt	84	*1018	114	232		Hey, if you don't mind,
 script/text/ev20005.txt	85	*1018	77	232		could you do
@@ -2374,7 +2374,7 @@ script/text/ev20005.txt	114	*1201	141	232		you've decided to take the job?
 script/text/ev20005.txt	118	*1040	32	232		<c4<>pn> accepted</c<
 script/text/ev20005.txt	119	*1040	120	232		<c4<Lavender's</c< <c8<Kindness</c<
 script/text/ev20005.txt	120	*1040	127	232		<c4<quest!</c<
-script/text/ev20005.txt	123	*1041	37	232		Ufufu.
+script/text/ev20005.txt	123	*1041	37	232		Teehee.
 script/text/ev20005.txt	126	*1042	114	232		Then it's a deal.
 script/text/ev20005.txt	129	*1043	87	232		This time, the gem
 script/text/ev20005.txt	130	*1043	157	232		I want you to bring me
@@ -2395,7 +2395,7 @@ script/text/ev20005.txt	164	*1070	73	232		>pn>, I've
 script/text/ev20005.txt	165	*1070	75	232		been waiting for you.
 script/text/ev20005.txt	168	*1071	165	232		Did you bring me
 script/text/ev20005.txt	169	*1071	149	232		the thing I asked for?
-script/text/ev20005.txt	173	*10003	36	232		Hand it over
+script/text/ev20005.txt	173	*10003	36	232		Give
 script/text/ev20005.txt	174	*10003	59	232		Don't
 script/text/ev20005.txt	180	*1072	157	232		Oh, too bad -- that's not it.
 script/text/ev20005.txt	183	*1073	83	232		Well, I suppose
@@ -2406,7 +2406,7 @@ script/text/ev20005.txt	190	*1080	139	232		<c4<quest!!</c<
 script/text/ev20005.txt	193	*1081	32	232		<c4<>pn> gained</c<
 script/text/ev20005.txt	194	*1081	118	232		<c3<1200 experience</c<
 script/text/ev20005.txt	195	*1081	68	232		<c4<points!!</c<
-script/text/ev20005.txt	198	*1082	37	232		Ufufu.
+script/text/ev20005.txt	198	*1082	37	232		Teehee.
 script/text/ev20005.txt	201	*1084	97	232		Well then, I'll give
 script/text/ev20005.txt	202	*1084	134	232		you this flower...
 script/text/ev20005.txt	205	*1085	32	232		<c4<>pn> got</c<
@@ -2503,7 +2503,7 @@ script/text/ev20006.txt	102	*1070	73	232		>pn>, I've
 script/text/ev20006.txt	103	*1070	75	232		been waiting for you.
 script/text/ev20006.txt	106	*1071	165	232		Did you bring me
 script/text/ev20006.txt	107	*1071	149	232		the thing I asked for?
-script/text/ev20006.txt	111	*10003	36	232		Hand it over
+script/text/ev20006.txt	111	*10003	36	232		Give
 script/text/ev20006.txt	112	*10003	59	232		Don't
 script/text/ev20006.txt	118	*1072	157	232		Oh, too bad -- that's not it.
 script/text/ev20006.txt	121	*1073	83	232		Well, I suppose
@@ -2648,7 +2648,7 @@ script/text/ev20007.txt	254	*1163	136	232		Could you give it to me
 script/text/ev20007.txt	255	*1163	130	232		where we met before?
 script/text/ev20007.txt	260	*1170	53	232		That's...!
 script/text/ev20007.txt	263	*1171	158	232		That's a <c2<Rose Letter</c<...!?
-script/text/ev20007.txt	267	*10004	36	232		Hand it over
+script/text/ev20007.txt	267	*10004	36	232		Give
 script/text/ev20007.txt	268	*10004	59	232		Don't
 script/text/ev20007.txt	274	*1172	64	232		Please.
 script/text/ev20007.txt	277	*1173	127	232		Quick, hand it
@@ -2846,7 +2846,7 @@ script/text/ev21000.txt	62	*31	111	232		I'm really bad
 script/text/ev21000.txt	63	*31	165	232		at remembering people's names...
 script/text/ev21000.txt	66	*32	46	232		Um...
 script/text/ev21000.txt	69	*33	148	232		Who were you again...?
-script/text/ev21000.txt	75	*10002	35	232		Introduce yourself
+script/text/ev21000.txt	75	*10002	35	232		Give name
 script/text/ev21000.txt	76	*10002	59	232		Don't
 script/text/ev21000.txt	82	*40	111	232		Ah! I'm sorry...
 script/text/ev21000.txt	85	*41	89	232		Oh, you must have
@@ -2928,7 +2928,7 @@ script/text/ev21000.txt	260	*122	136	232		Could you give it to me
 script/text/ev21000.txt	261	*122	133	232		where we met before...?
 script/text/ev21000.txt	267	*130	28	232		Ah!
 script/text/ev21000.txt	270	*131	152	232		You brought it, didn't you!?
-script/text/ev21000.txt	274	*10004	36	232		Hand it over
+script/text/ev21000.txt	274	*10004	36	232		Give
 script/text/ev21000.txt	275	*10004	59	232		Don't
 script/text/ev21000.txt	280	*140	75	232		I see...
 script/text/ev21000.txt	283	*141	140	232		That's not it, is it...
@@ -3002,7 +3002,7 @@ script/text/ev21001.txt	128	*122	136	232		Could you give it to me
 script/text/ev21001.txt	129	*122	133	232		where we met before...?
 script/text/ev21001.txt	135	*130	28	232		Ah!
 script/text/ev21001.txt	138	*131	152	232		You brought it, didn't you!?
-script/text/ev21001.txt	142	*10004	36	232		Hand it over
+script/text/ev21001.txt	142	*10004	36	232		Give
 script/text/ev21001.txt	143	*10004	59	232		Don't
 script/text/ev21001.txt	148	*140	75	232		I see...
 script/text/ev21001.txt	151	*141	140	232		That's not it, is it...
@@ -3038,7 +3038,7 @@ script/text/ev21001.txt	212	*168	115	232		it gently pets
 script/text/ev21001.txt	213	*168	140	232		that exact spot!
 script/text/ev21001.txt	216	*169	109	232		Isn't that amazing!?
 script/text/ev21001.txt	220	*10005	36	232		Amazing
-script/text/ev21001.txt	221	*10005	57	232		Not amazing
+script/text/ev21001.txt	221	*10005	57	232		Nope
 script/text/ev21001.txt	227	*180	63	232		Right!?
 script/text/ev21001.txt	230	*181	185	232		And what's more, since it's all
 script/text/ev21001.txt	231	*181	131	232		nanomachines, it's
@@ -3118,7 +3118,7 @@ script/text/ev21002.txt	139	*122	136	232		Could you give it to me
 script/text/ev21002.txt	140	*122	133	232		where we met before...?
 script/text/ev21002.txt	146	*130	28	232		Ah!
 script/text/ev21002.txt	149	*131	152	232		You brought it, didn't you!?
-script/text/ev21002.txt	153	*10004	36	232		Hand it over
+script/text/ev21002.txt	153	*10004	36	232		Give
 script/text/ev21002.txt	154	*10004	59	232		Don't
 script/text/ev21002.txt	159	*140	75	232		I see...
 script/text/ev21002.txt	162	*141	140	232		That's not it, is it...
@@ -3194,7 +3194,7 @@ script/text/ev21003.txt	129	*122	136	232		Could you give it to me
 script/text/ev21003.txt	130	*122	133	232		where we met before...?
 script/text/ev21003.txt	136	*130	28	232		Ah!
 script/text/ev21003.txt	139	*131	152	232		You brought it, didn't you!?
-script/text/ev21003.txt	143	*10004	36	232		Hand it over
+script/text/ev21003.txt	143	*10004	36	232		Give
 script/text/ev21003.txt	144	*10004	59	232		Don't
 script/text/ev21003.txt	149	*140	75	232		I see...
 script/text/ev21003.txt	152	*141	140	232		That's not it, is it...
@@ -3233,7 +3233,7 @@ script/text/ev21003.txt	218	*170	180	232		too big, what then!? --
 script/text/ev21003.txt	221	*171	186	232		you won't need to worry anymore!
 script/text/ev21003.txt	224	*172	109	232		Isn't that amazing!?
 script/text/ev21003.txt	228	*10005	36	232		Amazing
-script/text/ev21003.txt	229	*10005	57	232		Not amazing
+script/text/ev21003.txt	229	*10005	57	232		Nope
 script/text/ev21003.txt	235	*180	63	232		Right!?
 script/text/ev21003.txt	238	*181	123	232		Things Santa
 script/text/ev21003.txt	239	*181	145	232		could never fit before --
@@ -3306,7 +3306,7 @@ script/text/ev21004.txt	142	*122	136	232		Could you give it to me
 script/text/ev21004.txt	143	*122	133	232		where we met before...?
 script/text/ev21004.txt	149	*130	28	232		Ah!
 script/text/ev21004.txt	152	*131	152	232		You brought it, didn't you!?
-script/text/ev21004.txt	156	*10004	36	232		Hand it over
+script/text/ev21004.txt	156	*10004	36	232		Give
 script/text/ev21004.txt	157	*10004	59	232		Don't
 script/text/ev21004.txt	162	*140	75	232		I see...
 script/text/ev21004.txt	165	*141	140	232		That's not it, is it...
@@ -3371,7 +3371,7 @@ script/text/ev21005.txt	110	*122	136	232		Could you give it to me
 script/text/ev21005.txt	111	*122	133	232		where we met before...?
 script/text/ev21005.txt	117	*130	28	232		Ah!
 script/text/ev21005.txt	120	*131	152	232		You brought it, didn't you!?
-script/text/ev21005.txt	124	*10004	36	232		Hand it over
+script/text/ev21005.txt	124	*10004	36	232		Give
 script/text/ev21005.txt	125	*10004	59	232		Don't
 script/text/ev21005.txt	130	*140	75	232		I see...
 script/text/ev21005.txt	133	*141	140	232		That's not it, is it...
@@ -3442,7 +3442,7 @@ script/text/ev21006.txt	116	*122	136	232		Could you give it to me
 script/text/ev21006.txt	117	*122	133	232		where we met before...?
 script/text/ev21006.txt	123	*130	28	232		Ah!
 script/text/ev21006.txt	126	*131	152	232		You brought it, didn't you!?
-script/text/ev21006.txt	130	*10004	36	232		Hand it over
+script/text/ev21006.txt	130	*10004	36	232		Give
 script/text/ev21006.txt	131	*10004	59	232		Don't
 script/text/ev21006.txt	136	*140	75	232		I see...
 script/text/ev21006.txt	139	*141	140	232		That's not it, is it...
@@ -3520,7 +3520,7 @@ script/text/ev21007.txt	129	*122	136	232		Could you give it to me
 script/text/ev21007.txt	130	*122	133	232		where we met before...?
 script/text/ev21007.txt	136	*130	28	232		Ah!
 script/text/ev21007.txt	139	*131	152	232		You brought it, didn't you!?
-script/text/ev21007.txt	143	*10004	36	232		Hand it over
+script/text/ev21007.txt	143	*10004	36	232		Give
 script/text/ev21007.txt	144	*10004	59	232		Don't
 script/text/ev21007.txt	149	*140	75	232		I see...
 script/text/ev21007.txt	152	*141	140	232		That's not it, is it...
@@ -3567,7 +3567,7 @@ script/text/ev21007.txt	232	*172	154	232		I could even wish for
 script/text/ev21007.txt	233	*172	153	232		'Matcha Roll Cake!'
 script/text/ev21007.txt	236	*173	109	232		Isn't that amazing!?
 script/text/ev21007.txt	240	*10005	36	232		Amazing
-script/text/ev21007.txt	241	*10005	57	232		Not amazing
+script/text/ev21007.txt	241	*10005	57	232		Nope
 script/text/ev21007.txt	247	*180	63	232		Right!?
 script/text/ev21007.txt	250	*181	141	232		With this, most people
 script/text/ev21007.txt	251	*181	88	232		should be able to
@@ -3689,7 +3689,7 @@ script/text/ev21100.txt	6	*2	156	232		Please come back later!
 script/text/ev22000.txt	3	*1	28	232		Nyu?
 script/text/ev22000.txt	6	*2	146	232		I'm Mint.
 script/text/ev22000.txt	9	*3	125	232		Who are you?
-script/text/ev22000.txt	13	*10000	35	232		Introduce yourself
+script/text/ev22000.txt	13	*10000	35	232		Give name
 script/text/ev22000.txt	14	*10000	59	232		Don't
 script/text/ev22000.txt	19	*10	147	232		Mint
 script/text/ev22000.txt	20	*10	77	232		can't be friends
@@ -3754,7 +3754,7 @@ script/text/ev22000.txt	164	*122	138	232		where you met before...
 script/text/ev22000.txt	169	*130	92	232		Nyu!? Is that...!
 script/text/ev22000.txt	172	*131	115	232		Hurry up and
 script/text/ev22000.txt	173	*131	140	232		hand it over to Mint already!
-script/text/ev22000.txt	177	*10004	36	232		Hand it over
+script/text/ev22000.txt	177	*10004	36	232		Give
 script/text/ev22000.txt	178	*10004	59	232		Don't
 script/text/ev22000.txt	183	*140	76	232		Nyu nyu nyu!?
 script/text/ev22000.txt	186	*141	127	232		Why won't you
@@ -3831,7 +3831,7 @@ script/text/ev22001.txt	119	*122	138	232		where you met before...
 script/text/ev22001.txt	124	*130	92	232		Nyu!? Is that...!
 script/text/ev22001.txt	127	*131	115	232		Hurry up and
 script/text/ev22001.txt	128	*131	140	232		hand it over to Mint already!
-script/text/ev22001.txt	132	*10004	36	232		Hand it over
+script/text/ev22001.txt	132	*10004	36	232		Give
 script/text/ev22001.txt	133	*10004	59	232		Don't
 script/text/ev22001.txt	138	*140	76	232		Nyu nyu nyu!?
 script/text/ev22001.txt	141	*141	127	232		Why won't you
@@ -3906,7 +3906,7 @@ script/text/ev22002.txt	117	*122	138	232		where you met before...
 script/text/ev22002.txt	122	*130	92	232		Nyu!? Is that...!
 script/text/ev22002.txt	125	*131	115	232		Hurry up and
 script/text/ev22002.txt	126	*131	183	232		let Mint pet it already!
-script/text/ev22002.txt	130	*10004	36	232		Hand it over
+script/text/ev22002.txt	130	*10004	36	232		Give
 script/text/ev22002.txt	131	*10004	59	232		Don't
 script/text/ev22002.txt	136	*140	76	232		Nyu nyu nyu!?
 script/text/ev22002.txt	139	*141	127	232		Why won't you
@@ -3984,7 +3984,7 @@ script/text/ev22003.txt	119	*122	138	232		where you met before...
 script/text/ev22003.txt	124	*130	92	232		Nyu!? Is that...!
 script/text/ev22003.txt	127	*131	115	232		Hurry up and
 script/text/ev22003.txt	128	*131	166	232		let Mint cuddle it already!
-script/text/ev22003.txt	132	*10004	36	232		Hand it over
+script/text/ev22003.txt	132	*10004	36	232		Give
 script/text/ev22003.txt	133	*10004	59	232		Don't
 script/text/ev22003.txt	138	*140	76	232		Nyu nyu nyu!?
 script/text/ev22003.txt	141	*141	127	232		Why won't you
@@ -4066,7 +4066,7 @@ script/text/ev22004.txt	127	*122	138	232		where you met before...
 script/text/ev22004.txt	132	*130	92	232		Nyu!? Is that...!
 script/text/ev22004.txt	135	*131	115	232		Hurry up and
 script/text/ev22004.txt	136	*131	168	232		let Mint squish it already!
-script/text/ev22004.txt	140	*10004	36	232		Hand it over
+script/text/ev22004.txt	140	*10004	36	232		Give
 script/text/ev22004.txt	141	*10004	59	232		Don't
 script/text/ev22004.txt	146	*140	76	232		Nyu nyu nyu!?
 script/text/ev22004.txt	149	*141	127	232		Why won't you
@@ -4144,7 +4144,7 @@ script/text/ev22005.txt	116	*122	138	232		where you met before...
 script/text/ev22005.txt	121	*130	92	232		Nyu!? Is that...!
 script/text/ev22005.txt	124	*131	115	232		Hurry up and
 script/text/ev22005.txt	125	*131	168	232		let Mint play it already!
-script/text/ev22005.txt	129	*10004	36	232		Hand it over
+script/text/ev22005.txt	129	*10004	36	232		Give
 script/text/ev22005.txt	130	*10004	59	232		Don't
 script/text/ev22005.txt	135	*140	76	232		Nyu nyu nyu!?
 script/text/ev22005.txt	138	*141	127	232		Why won't you
@@ -4229,7 +4229,7 @@ script/text/ev22006.txt	130	*122	138	232		where you met before...
 script/text/ev22006.txt	135	*130	92	232		Nyu!? Is that...!
 script/text/ev22006.txt	138	*131	115	232		Hurry up and
 script/text/ev22006.txt	139	*131	169	232		let Mint blow on it already!
-script/text/ev22006.txt	143	*10004	36	232		Hand it over
+script/text/ev22006.txt	143	*10004	36	232		Give
 script/text/ev22006.txt	144	*10004	59	232		Don't
 script/text/ev22006.txt	149	*140	76	232		Nyu nyu nyu!?
 script/text/ev22006.txt	152	*141	127	232		Why won't you
@@ -4316,7 +4316,7 @@ script/text/ev22007.txt	140	*122	138	232		where you met before...
 script/text/ev22007.txt	145	*130	92	232		Nyu!? Is that...!
 script/text/ev22007.txt	148	*131	115	232		Hurry up and
 script/text/ev22007.txt	149	*131	169	232		let Mint play happily already!
-script/text/ev22007.txt	153	*10004	36	232		Hand it over
+script/text/ev22007.txt	153	*10004	36	232		Give
 script/text/ev22007.txt	154	*10004	59	232		Don't
 script/text/ev22007.txt	159	*140	76	232		Nyu nyu nyu!?
 script/text/ev22007.txt	162	*141	127	232		Why won't you
@@ -4454,7 +4454,7 @@ script/text/ev23000.txt	160	*122	88	232		Could you hand it to me
 script/text/ev23000.txt	161	*122	172	232		where we met before...?
 script/text/ev23000.txt	167	*130	30	232		Oh!
 script/text/ev23000.txt	171	*131	139	232		You brought it for me!
-script/text/ev23000.txt	175	*10004	36	232		Hand it over
+script/text/ev23000.txt	175	*10004	36	232		Give
 script/text/ev23000.txt	176	*10004	59	232		Don't
 script/text/ev23000.txt	181	*140	39	232		Hmm...
 script/text/ev23000.txt	184	*141	133	232		That isn't
@@ -4529,7 +4529,7 @@ script/text/ev23001.txt	127	*122	88	232		Could you hand it to me
 script/text/ev23001.txt	128	*122	172	232		where we met before...?
 script/text/ev23001.txt	134	*130	30	232		Oh!
 script/text/ev23001.txt	138	*131	139	232		You brought it for me!
-script/text/ev23001.txt	142	*10004	36	232		Hand it over
+script/text/ev23001.txt	142	*10004	36	232		Give
 script/text/ev23001.txt	143	*10004	59	232		Don't
 script/text/ev23001.txt	148	*140	39	232		Hmm...
 script/text/ev23001.txt	151	*141	133	232		That isn't
@@ -4627,7 +4627,7 @@ script/text/ev23002.txt	106	*122	88	232		Could you hand it to me
 script/text/ev23002.txt	107	*122	172	232		where we met before...?
 script/text/ev23002.txt	113	*130	30	232		Oh!
 script/text/ev23002.txt	117	*131	139	232		You brought it for me!
-script/text/ev23002.txt	121	*10004	36	232		Hand it over
+script/text/ev23002.txt	121	*10004	36	232		Give
 script/text/ev23002.txt	122	*10004	59	232		Don't
 script/text/ev23002.txt	127	*140	39	232		Hmm...
 script/text/ev23002.txt	130	*141	133	232		That isn't
@@ -4694,7 +4694,7 @@ script/text/ev23003.txt	104	*122	88	232		Could you hand it to me
 script/text/ev23003.txt	105	*122	172	232		where we met before...?
 script/text/ev23003.txt	111	*130	30	232		Oh!
 script/text/ev23003.txt	115	*131	139	232		You brought it for me!
-script/text/ev23003.txt	119	*10004	36	232		Hand it over
+script/text/ev23003.txt	119	*10004	36	232		Give
 script/text/ev23003.txt	120	*10004	59	232		Don't
 script/text/ev23003.txt	125	*140	39	232		Hmm...
 script/text/ev23003.txt	128	*141	133	232		That isn't
@@ -4797,7 +4797,7 @@ script/text/ev23004.txt	115	*122	88	232		Could you hand it to me
 script/text/ev23004.txt	116	*122	172	232		where we met before...?
 script/text/ev23004.txt	122	*130	30	232		Oh!
 script/text/ev23004.txt	126	*131	139	232		You brought it for me!
-script/text/ev23004.txt	130	*10004	36	232		Hand it over
+script/text/ev23004.txt	130	*10004	36	232		Give
 script/text/ev23004.txt	131	*10004	59	232		Don't
 script/text/ev23004.txt	136	*140	39	232		Hmm...
 script/text/ev23004.txt	139	*141	133	232		That isn't
@@ -4866,7 +4866,7 @@ script/text/ev23005.txt	107	*122	88	232		Could you hand it to me
 script/text/ev23005.txt	108	*122	172	232		where we met before...?
 script/text/ev23005.txt	114	*130	30	232		Oh!
 script/text/ev23005.txt	118	*131	139	232		You brought it for me!
-script/text/ev23005.txt	122	*10004	36	232		Hand it over
+script/text/ev23005.txt	122	*10004	36	232		Give
 script/text/ev23005.txt	123	*10004	59	232		Don't
 script/text/ev23005.txt	128	*140	39	232		Hmm...
 script/text/ev23005.txt	131	*141	133	232		That isn't
@@ -4961,7 +4961,7 @@ script/text/ev23006.txt	116	*122	88	232		Could you hand it to me
 script/text/ev23006.txt	117	*122	172	232		where we met before...?
 script/text/ev23006.txt	123	*130	30	232		Oh!
 script/text/ev23006.txt	127	*131	139	232		You brought it for me!
-script/text/ev23006.txt	131	*10004	36	232		Hand it over
+script/text/ev23006.txt	131	*10004	36	232		Give
 script/text/ev23006.txt	132	*10004	59	232		Don't
 script/text/ev23006.txt	137	*140	39	232		Hmm...
 script/text/ev23006.txt	140	*141	133	232		That isn't
@@ -5021,7 +5021,7 @@ script/text/ev23007.txt	97	*122	88	232		Could you hand it to me
 script/text/ev23007.txt	98	*122	172	232		where we met before...?
 script/text/ev23007.txt	104	*130	30	232		Oh!
 script/text/ev23007.txt	108	*131	139	232		You brought it for me!
-script/text/ev23007.txt	112	*10004	36	232		Hand it over
+script/text/ev23007.txt	112	*10004	36	232		Give
 script/text/ev23007.txt	113	*10004	59	232		Don't
 script/text/ev23007.txt	118	*140	39	232		Hmm...
 script/text/ev23007.txt	121	*141	133	232		That isn't
@@ -5164,8 +5164,8 @@ script/text/ev24000.txt	3	*1	28	232		Hey there!
 script/text/ev24000.txt	6	*2	88	232		I'm the genius
 script/text/ev24000.txt	7	*2	130	232		pharmacist, Saffron!
 script/text/ev24000.txt	10	*3	102	232		What's your name?
-script/text/ev24000.txt	14	*10000	35	232		Give your name
-script/text/ev24000.txt	15	*10000	59	232		Don't give it
+script/text/ev24000.txt	14	*10000	35	232		Give name
+script/text/ev24000.txt	15	*10000	59	232		Don't
 script/text/ev24000.txt	20	*10	60	232		Huh...?
 script/text/ev24000.txt	23	*11	67	232		Could it be
 script/text/ev24000.txt	24	*11	100	232		you don't remember
@@ -5281,7 +5281,7 @@ script/text/ev24000.txt	273	*152	136	232		Please give it to me
 script/text/ev24000.txt	274	*152	120	232		where we met before...
 script/text/ev24000.txt	277	*153	74	232		I'm counting on you~
 script/text/ev24000.txt	285	*160	120	232		Ohh! You brought it!
-script/text/ev24000.txt	289	*10005	36	232		Hand it over
+script/text/ev24000.txt	289	*10005	36	232		Give
 script/text/ev24000.txt	290	*10005	59	232		Don't
 script/text/ev24000.txt	295	*170	49	232		Huh?
 script/text/ev24000.txt	298	*171	94	232		What's wrong?
@@ -5339,7 +5339,7 @@ script/text/ev24001.txt	91	*152	136	232		Please give it to me
 script/text/ev24001.txt	92	*152	120	232		where we met before...
 script/text/ev24001.txt	95	*153	74	232		I'm counting on you~
 script/text/ev24001.txt	103	*160	120	232		Ohh! You brought it!
-script/text/ev24001.txt	107	*10005	36	232		Hand it over
+script/text/ev24001.txt	107	*10005	36	232		Give
 script/text/ev24001.txt	108	*10005	59	232		Don't
 script/text/ev24001.txt	113	*170	49	232		Huh?
 script/text/ev24001.txt	116	*171	94	232		What's wrong?
@@ -5414,7 +5414,7 @@ script/text/ev24002.txt	133	*152	136	232		Please give it to me
 script/text/ev24002.txt	134	*152	120	232		where we met before...
 script/text/ev24002.txt	137	*153	74	232		I'm counting on you~
 script/text/ev24002.txt	145	*160	120	232		Ohh! You brought it!
-script/text/ev24002.txt	149	*10005	36	232		Hand it over
+script/text/ev24002.txt	149	*10005	36	232		Give
 script/text/ev24002.txt	150	*10005	59	232		Don't
 script/text/ev24002.txt	156	*170	49	232		Huh?
 script/text/ev24002.txt	159	*171	94	232		What's wrong?
@@ -5486,7 +5486,7 @@ script/text/ev24003.txt	132	*152	136	232		Please give it to me
 script/text/ev24003.txt	133	*152	120	232		where we met before...
 script/text/ev24003.txt	136	*153	74	232		I'm counting on you~
 script/text/ev24003.txt	144	*160	120	232		Ohh! You brought it!
-script/text/ev24003.txt	148	*10005	36	232		Hand it over
+script/text/ev24003.txt	148	*10005	36	232		Give
 script/text/ev24003.txt	149	*10005	59	232		Don't
 script/text/ev24003.txt	155	*170	49	232		Huh?
 script/text/ev24003.txt	158	*171	94	232		What's wrong?
@@ -5520,8 +5520,8 @@ script/text/ev24004.txt	22	*6	192	232		I should be able to make a good amount, b
 script/text/ev24004.txt	25	*7	60	232		how many people
 script/text/ev24004.txt	26	*7	98	232		are you planning
 script/text/ev24004.txt	27	*7	146	232		to use it on, >pn>~?
-script/text/ev24004.txt	31	*10000	33	232		One person
-script/text/ev24004.txt	32	*10000	44	232		Many people
+script/text/ev24004.txt	31	*10000	33	232		Just one
+script/text/ev24004.txt	32	*10000	44	232		Many
 script/text/ev24004.txt	37	*10	81	232		Just one...?
 script/text/ev24004.txt	40	*11	45	232		You're
 script/text/ev24004.txt	41	*11	164	232		pretty modest, huh.
@@ -5575,7 +5575,7 @@ script/text/ev24004.txt	157	*152	136	232		Please give it to me
 script/text/ev24004.txt	158	*152	120	232		where we met before...
 script/text/ev24004.txt	161	*153	74	232		I'm counting on you~
 script/text/ev24004.txt	169	*160	120	232		Ohh! You brought it!
-script/text/ev24004.txt	173	*10005	36	232		Hand it over
+script/text/ev24004.txt	173	*10005	36	232		Give
 script/text/ev24004.txt	174	*10005	59	232		Don't
 script/text/ev24004.txt	180	*170	49	232		Huh?
 script/text/ev24004.txt	183	*171	94	232		What's wrong?
@@ -5637,7 +5637,7 @@ script/text/ev24005.txt	95	*152	136	232		Please give it to me
 script/text/ev24005.txt	96	*152	120	232		where we met before...
 script/text/ev24005.txt	99	*153	74	232		I'm counting on you~
 script/text/ev24005.txt	107	*160	120	232		Ohh! You brought it!
-script/text/ev24005.txt	111	*10005	36	232		Hand it over
+script/text/ev24005.txt	111	*10005	36	232		Give
 script/text/ev24005.txt	112	*10005	59	232		Don't
 script/text/ev24005.txt	118	*170	49	232		Huh?
 script/text/ev24005.txt	121	*171	94	232		What's wrong?
@@ -5712,7 +5712,7 @@ script/text/ev24006.txt	121	*152	136	232		Please give it to me
 script/text/ev24006.txt	122	*152	120	232		where we met before...
 script/text/ev24006.txt	125	*153	74	232		I'm counting on you~
 script/text/ev24006.txt	133	*160	120	232		Ohh! You brought it!
-script/text/ev24006.txt	137	*10005	36	232		Hand it over
+script/text/ev24006.txt	137	*10005	36	232		Give
 script/text/ev24006.txt	138	*10005	59	232		Don't
 script/text/ev24006.txt	144	*170	49	232		Huh?
 script/text/ev24006.txt	147	*171	94	232		What's wrong?
@@ -5784,7 +5784,7 @@ script/text/ev24007.txt	113	*32	83	232		Please, hit me...!
 script/text/ev24007.txt	116	*33	154	232		Hit me
 script/text/ev24007.txt	117	*33	72	232		until you feel better!
 script/text/ev24007.txt	121	*10000	34	232		Hit him
-script/text/ev24007.txt	122	*10000	58	232		Don't hit him
+script/text/ev24007.txt	122	*10000	58	232		Don't
 script/text/ev24007.txt	126	*10001	34	232		Hit him
 script/text/ev24007.txt	127	*10001	58	232		Stop now
 script/text/ev24007.txt	131	*40	39	232		Ngah!!
@@ -5797,8 +5797,8 @@ script/text/ev24007.txt	151	*61	82	232		.................
 script/text/ev24007.txt	155	*70	58	232		>pn>...
 script/text/ev24007.txt	158	*71	127	232		Could you
 script/text/ev24007.txt	159	*71	113	232		please forgive me...?
-script/text/ev24007.txt	163	*10002	35	232		Forgive him
-script/text/ev24007.txt	164	*10002	58	232		Don't forgive him
+script/text/ev24007.txt	163	*10002	35	232		Forgive
+script/text/ev24007.txt	164	*10002	58	232		Don't
 script/text/ev24007.txt	173	*80	72	232		Thank you...
 script/text/ev24007.txt	176	*81	120	232		Thank you, >pn>...
 script/text/ev24007.txt	179	*82	82	232		.................
@@ -5839,7 +5839,7 @@ script/text/ev24007.txt	283	*152	160	232		I'm sorry, but please
 script/text/ev24007.txt	284	*152	96	232		give it to me back at that earlier spot...
 script/text/ev24007.txt	287	*153	127	232		I'm truly sorry...
 script/text/ev24007.txt	294	*160	97	232		You found it!?
-script/text/ev24007.txt	298	*10005	36	232		Hand it over
+script/text/ev24007.txt	298	*10005	36	232		Give
 script/text/ev24007.txt	299	*10005	59	232		Don't
 script/text/ev24007.txt	305	*170	94	232		What's wrong!?
 script/text/ev24007.txt	308	*171	154	232		Please, hurry and hand it over!
@@ -5992,7 +5992,7 @@ script/text/ev25000.txt	175	*122	136	232		Please give it to me
 script/text/ev25000.txt	176	*122	96	232		back at the earlier spot instead...
 script/text/ev25000.txt	182	*130	40	232		Oh!!
 script/text/ev25000.txt	185	*131	140	232		You brought it, didn't you!?
-script/text/ev25000.txt	189	*10004	36	232		Hand it over
+script/text/ev25000.txt	189	*10004	36	232		Give
 script/text/ev25000.txt	190	*10004	59	232		Don't
 script/text/ev25000.txt	195	*140	53	232		I beg you...!
 script/text/ev25000.txt	198	*141	123	232		Please, hand it over, quickly...!
@@ -6086,7 +6086,7 @@ script/text/ev25001.txt	125	*122	136	232		Please give it to me
 script/text/ev25001.txt	126	*122	96	232		back at the earlier spot instead...
 script/text/ev25001.txt	132	*130	40	232		Oh!!
 script/text/ev25001.txt	135	*131	140	232		You brought it, didn't you!?
-script/text/ev25001.txt	139	*10004	36	232		Hand it over
+script/text/ev25001.txt	139	*10004	36	232		Give
 script/text/ev25001.txt	140	*10004	59	232		Don't
 script/text/ev25001.txt	145	*140	53	232		I beg you...!
 script/text/ev25001.txt	148	*141	123	232		Please, hand it over, quickly...!
@@ -6209,7 +6209,7 @@ script/text/ev25002.txt	190	*122	136	232		Please give it to me
 script/text/ev25002.txt	191	*122	96	232		back at the earlier spot instead...
 script/text/ev25002.txt	197	*130	40	232		Oh!!
 script/text/ev25002.txt	200	*131	140	232		You brought it, didn't you!?
-script/text/ev25002.txt	204	*10004	36	232		Hand it over
+script/text/ev25002.txt	204	*10004	36	232		Give
 script/text/ev25002.txt	205	*10004	59	232		Don't
 script/text/ev25002.txt	210	*140	53	232		I beg you...!
 script/text/ev25002.txt	213	*141	123	232		Please, hand it over, quickly...!
@@ -6318,7 +6318,7 @@ script/text/ev25003.txt	155	*122	136	232		Please give it to me
 script/text/ev25003.txt	156	*122	96	232		back at the earlier spot instead...
 script/text/ev25003.txt	162	*130	38	232		Oh...
 script/text/ev25003.txt	165	*131	151	232		You brought it, didn't you...?
-script/text/ev25003.txt	169	*10004	36	232		Hand it over
+script/text/ev25003.txt	169	*10004	36	232		Give
 script/text/ev25003.txt	170	*10004	59	232		Don't
 script/text/ev25003.txt	175	*140	53	232		I beg you...!
 script/text/ev25003.txt	178	*141	123	232		Please, hand it over, quickly...!
@@ -6467,7 +6467,7 @@ script/text/ev25004.txt	237	*122	136	232		Please give it to me
 script/text/ev25004.txt	238	*122	96	232		back at the earlier spot instead...
 script/text/ev25004.txt	244	*130	40	232		Oh!!
 script/text/ev25004.txt	247	*131	140	232		You brought it, didn't you!?
-script/text/ev25004.txt	251	*10004	36	232		Hand it over
+script/text/ev25004.txt	251	*10004	36	232		Give
 script/text/ev25004.txt	252	*10004	59	232		Don't
 script/text/ev25004.txt	257	*140	53	232		I beg you...!
 script/text/ev25004.txt	260	*141	123	232		Please, hand it over, quickly...!
@@ -6614,7 +6614,7 @@ script/text/ev25005.txt	247	*122	136	232		Please give it to me
 script/text/ev25005.txt	248	*122	96	232		back at the earlier spot instead...
 script/text/ev25005.txt	254	*130	40	232		Oh!!
 script/text/ev25005.txt	257	*131	140	232		You brought it, didn't you!?
-script/text/ev25005.txt	261	*10004	36	232		Hand it over
+script/text/ev25005.txt	261	*10004	36	232		Give
 script/text/ev25005.txt	262	*10004	59	232		Don't
 script/text/ev25005.txt	267	*140	53	232		I beg you...!
 script/text/ev25005.txt	270	*141	123	232		Please, hand it over, quickly...!
@@ -6742,7 +6742,7 @@ script/text/ev25006.txt	173	*122	136	232		Please give it to me
 script/text/ev25006.txt	174	*122	96	232		back at the earlier spot instead...
 script/text/ev25006.txt	180	*130	40	232		Oh!!
 script/text/ev25006.txt	183	*131	140	232		You brought it, didn't you!?
-script/text/ev25006.txt	187	*10004	36	232		Hand it over
+script/text/ev25006.txt	187	*10004	36	232		Give
 script/text/ev25006.txt	188	*10004	59	232		Don't
 script/text/ev25006.txt	193	*140	53	232		I beg you...!
 script/text/ev25006.txt	196	*141	123	232		Please, hand it over, quickly...!
@@ -6876,7 +6876,7 @@ script/text/ev25007.txt	221	*122	136	232		Please give it to me
 script/text/ev25007.txt	222	*122	96	232		back at the earlier spot instead...
 script/text/ev25007.txt	228	*130	49	232		Oh!!
 script/text/ev25007.txt	231	*131	106	232		Could that possibly be...!!
-script/text/ev25007.txt	235	*10004	36	232		Hand it over
+script/text/ev25007.txt	235	*10004	36	232		Give
 script/text/ev25007.txt	236	*10004	59	232		Don't
 script/text/ev25007.txt	241	*140	53	232		I beg you...!
 script/text/ev25007.txt	244	*141	123	232		Please, hand it over, quickly...!
@@ -7030,8 +7030,8 @@ script/text/ev25008.txt	242	*100	103	232		<c2<Reflect Gem</c<<c4<!</c<<c4<!</c<
 script/text/ev25008.txt	243	*100	65	232		<blank>
 script/text/ev25008.txt	247	*80	71	232		.............
 script/text/ev25008.txt	250	*81	197	232		(There is no reply from Yakutanon...)
-script/text/ev25008.txt	255	*10001	59	232		See you again
-script/text/ev25008.txt	256	*10001	44	232		............
+script/text/ev25008.txt	255	*10001	59	232		See you
+script/text/ev25008.txt	256	*10001	44	232		......
 script/text/ev25100.txt	1	*1	64	232		Zzzzzz...
 script/text/ev25100.txt	4	*2	161	232		(Yakutanon is asleep...)
 script/text/ev26000.txt	1	*1	50	232		Hey, >pn>.
@@ -7083,7 +7083,7 @@ script/text/ev26000.txt	78	*70	45	232		...Sorry.
 script/text/ev26000.txt	81	*71	130	232		I can't ask you
 script/text/ev26000.txt	82	*71	151	232		to do something dangerous
 script/text/ev26000.txt	83	*71	117	232		in your current state... Please understand...
-script/text/ev26000.txt	86	*10001	48	232		Leave it to me
+script/text/ev26000.txt	86	*10001	48	232		I'm on it
 script/text/ev26000.txt	87	*10001	44	232		I'll pass
 script/text/ev26001.txt	1	*1	50	232		Hey, >pn>.
 script/text/ev26001.txt	4	*2	66	232		Once again, but
@@ -7132,7 +7132,7 @@ script/text/ev26001.txt	76	*70	45	232		...Sorry.
 script/text/ev26001.txt	79	*71	130	232		I can't ask you
 script/text/ev26001.txt	80	*71	151	232		to do something dangerous
 script/text/ev26001.txt	81	*71	117	232		in your current state... Please understand...
-script/text/ev26001.txt	84	*10001	48	232		Leave it to me
+script/text/ev26001.txt	84	*10001	48	232		I'm on it
 script/text/ev26001.txt	85	*10001	44	232		I'll pass
 script/text/ev26002.txt	1	*1	50	232		Hey, >pn>.
 script/text/ev26002.txt	4	*2	66	232		Once again, but
@@ -7181,7 +7181,7 @@ script/text/ev26002.txt	76	*70	45	232		...Sorry.
 script/text/ev26002.txt	79	*71	130	232		I can't ask you
 script/text/ev26002.txt	80	*71	151	232		to do something dangerous
 script/text/ev26002.txt	81	*71	117	232		in your current state... Please understand...
-script/text/ev26002.txt	84	*10001	48	232		Leave it to me
+script/text/ev26002.txt	84	*10001	48	232		I'm on it
 script/text/ev26002.txt	85	*10001	44	232		I'll pass
 script/text/ev26003.txt	1	*1	50	232		Hey, >pn>.
 script/text/ev26003.txt	4	*2	66	232		Once again, but
@@ -7230,7 +7230,7 @@ script/text/ev26003.txt	76	*70	45	232		...Sorry.
 script/text/ev26003.txt	79	*71	130	232		I can't ask you
 script/text/ev26003.txt	80	*71	151	232		to do something dangerous
 script/text/ev26003.txt	81	*71	117	232		in your current state... Please understand...
-script/text/ev26003.txt	84	*10001	48	232		Leave it to me
+script/text/ev26003.txt	84	*10001	48	232		I'm on it
 script/text/ev26003.txt	85	*10001	44	232		I'll pass
 script/text/ev26004.txt	1	*1	50	232		Hey, >pn>.
 script/text/ev26004.txt	4	*2	66	232		Once again, but
@@ -7279,7 +7279,7 @@ script/text/ev26004.txt	76	*70	45	232		...Sorry.
 script/text/ev26004.txt	79	*71	130	232		I can't ask you
 script/text/ev26004.txt	80	*71	151	232		to do something dangerous
 script/text/ev26004.txt	81	*71	117	232		in your current state... Please understand...
-script/text/ev26004.txt	84	*10001	48	232		Leave it to me
+script/text/ev26004.txt	84	*10001	48	232		I'm on it
 script/text/ev26004.txt	85	*10001	44	232		I'll pass
 script/text/ev26005.txt	1	*1	50	232		Hey, >pn>.
 script/text/ev26005.txt	4	*2	66	232		Once again, but
@@ -7328,7 +7328,7 @@ script/text/ev26005.txt	76	*70	45	232		...Sorry.
 script/text/ev26005.txt	79	*71	130	232		I can't ask you
 script/text/ev26005.txt	80	*71	151	232		to do something dangerous
 script/text/ev26005.txt	81	*71	117	232		in your current state... Please understand...
-script/text/ev26005.txt	84	*10001	48	232		Leave it to me
+script/text/ev26005.txt	84	*10001	48	232		I'm on it
 script/text/ev26005.txt	85	*10001	44	232		I'll pass
 script/text/ev26006.txt	1	*1	29	232		>pn>!
 script/text/ev26006.txt	2	*1	92	232		I've missed you...
@@ -7375,7 +7375,7 @@ script/text/ev26006.txt	74	*70	70	232		I'm sorry, but...
 script/text/ev26006.txt	77	*71	130	232		I can't have you
 script/text/ev26006.txt	78	*71	145	232		do something dangerous
 script/text/ev26006.txt	79	*71	45	232		in your current state... I'm sorry.
-script/text/ev26006.txt	82	*10001	48	232		Leave it to me
+script/text/ev26006.txt	82	*10001	48	232		I'm on it
 script/text/ev26006.txt	83	*10001	44	232		I'll pass
 script/text/ev26007.txt	1	*1	29	232		>pn>!
 script/text/ev26007.txt	2	*1	92	232		I've missed you...
@@ -7422,7 +7422,7 @@ script/text/ev26007.txt	74	*70	70	232		I'm sorry, but...
 script/text/ev26007.txt	77	*71	130	232		I can't have you
 script/text/ev26007.txt	78	*71	145	232		do something dangerous
 script/text/ev26007.txt	79	*71	45	232		in your current state... I'm sorry.
-script/text/ev26007.txt	82	*10001	48	232		Leave it to me
+script/text/ev26007.txt	82	*10001	48	232		I'm on it
 script/text/ev26007.txt	83	*10001	44	232		I'll pass
 script/text/ev26008.txt	1	*1	37	232		>pn>...
 script/text/ev26008.txt	2	*1	133	232		If I hadn't met you,
@@ -12247,17 +12247,17 @@ script/text/ev40048.txt	72	*51	189	232		Go seek out the next dojo.
 script/text/ev40048.txt	80	*60	130	232		Oh! I give thanks to god
 script/text/ev40048.txt	81	*60	113	232		for meeting you,
 script/text/ev40048.txt	82	*60	149	232		a <c3<Priest</c<.
-script/text/ev40048.txt	85	*61	112	232		Then I shall grant you
-script/text/ev40048.txt	88	*62	55	232		my
-script/text/ev40048.txt	89	*62	115	232		art of <c2<Healas</c<,
-script/text/ev40048.txt	90	*62	82	232		I shall grant.
+script/text/ev40048.txt	85	*61	112	232		In that case...
+script/text/ev40048.txt	88	*62	55	232		I shall bestow upon you
+script/text/ev40048.txt	89	*62	115	232		my art of <c2<Healas</c<.
+script/text/ev40048.txt	90	*62	82	232		<blank>
 script/text/ev40048.txt	97	*70	125	232		Oh! You have
 script/text/ev40048.txt	98	*70	61	232		already learned
 script/text/ev40048.txt	99	*70	133	232		<c2<Healas</c<!
-script/text/ev40048.txt	102	*71	112	232		Then I shall grant you
-script/text/ev40048.txt	105	*72	154	232		an even more powerful
-script/text/ev40048.txt	106	*72	115	232		art of my
-script/text/ev40048.txt	107	*72	82	232		<c2<Healas</c<.
+script/text/ev40048.txt	102	*71	112	232		In that case...
+script/text/ev40048.txt	105	*72	154	232		I shall bestow upon you
+script/text/ev40048.txt	106	*72	115	232		my even greater art
+script/text/ev40048.txt	107	*72	82	232		of <c2<Healas</c<.
 script/text/ev40048.txt	116	*80	152	232		Please bring
 script/text/ev40048.txt	117	*80	35	232		the shape your love takes,
 script/text/ev40048.txt	118	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -12332,17 +12332,17 @@ script/text/ev40049.txt	73	*51	189	232		Go seek out the next dojo.
 script/text/ev40049.txt	81	*60	130	232		Oh! I give thanks to god
 script/text/ev40049.txt	82	*60	113	232		for meeting you,
 script/text/ev40049.txt	83	*60	149	232		a <c3<Priest</c<.
-script/text/ev40049.txt	86	*61	112	232		Then I shall grant you
-script/text/ev40049.txt	89	*62	55	232		my
-script/text/ev40049.txt	90	*62	130	232		art of <c2<Curas</c<,
-script/text/ev40049.txt	91	*62	82	232		I shall grant.
+script/text/ev40049.txt	86	*61	112	232		In that case...
+script/text/ev40049.txt	89	*62	55	232		I shall bestow upon you
+script/text/ev40049.txt	90	*62	130	232		my art of <c2<Curas</c<.
+script/text/ev40049.txt	91	*62	82	232		<blank>
 script/text/ev40049.txt	98	*70	125	232		Oh! You have
 script/text/ev40049.txt	99	*70	76	232		already learned
 script/text/ev40049.txt	100	*70	133	232		<c2<Curas</c<!
-script/text/ev40049.txt	103	*71	112	232		Then I shall grant you
-script/text/ev40049.txt	106	*72	154	232		an even more powerful
-script/text/ev40049.txt	107	*72	130	232		art of my
-script/text/ev40049.txt	108	*72	82	232		<c2<Curas</c<.
+script/text/ev40049.txt	103	*71	112	232		In that case...
+script/text/ev40049.txt	106	*72	154	232		I shall bestow upon you
+script/text/ev40049.txt	107	*72	130	232		my even greater art
+script/text/ev40049.txt	108	*72	82	232		of <c2<Curas</c<.
 script/text/ev40049.txt	117	*80	152	232		Please bring
 script/text/ev40049.txt	118	*80	35	232		the shape your love takes,
 script/text/ev40049.txt	119	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -12417,17 +12417,17 @@ script/text/ev40050.txt	72	*51	189	232		Go seek out the next dojo.
 script/text/ev40050.txt	80	*60	130	232		Oh! I give thanks to god
 script/text/ev40050.txt	81	*60	113	232		for meeting you,
 script/text/ev40050.txt	82	*60	149	232		a <c3<Priest</c<.
-script/text/ev40050.txt	85	*61	112	232		Then I shall grant you
-script/text/ev40050.txt	88	*62	55	232		my
-script/text/ev40050.txt	89	*62	129	232		art of <c2<Knock Away</c<,
-script/text/ev40050.txt	90	*62	82	232		I shall grant.
+script/text/ev40050.txt	85	*61	112	232		In that case...
+script/text/ev40050.txt	88	*62	55	232		I shall bestow upon you
+script/text/ev40050.txt	89	*62	129	232		my art of <c2<Knock Away</c<.
+script/text/ev40050.txt	90	*62	82	232		<blank>
 script/text/ev40050.txt	97	*70	125	232		Oh! You have
 script/text/ev40050.txt	98	*70	75	232		already learned
 script/text/ev40050.txt	99	*70	133	232		<c2<Knock Away</c<!
-script/text/ev40050.txt	102	*71	112	232		Then I shall grant you
-script/text/ev40050.txt	105	*72	154	232		an even more powerful
-script/text/ev40050.txt	106	*72	129	232		art of my
-script/text/ev40050.txt	107	*72	82	232		<c2<Knock Away</c<.
+script/text/ev40050.txt	102	*71	112	232		In that case...
+script/text/ev40050.txt	105	*72	154	232		I shall bestow upon you
+script/text/ev40050.txt	106	*72	129	232		my even greater art
+script/text/ev40050.txt	107	*72	82	232		of <c2<Knock Away</c<.
 script/text/ev40050.txt	116	*80	152	232		Please bring
 script/text/ev40050.txt	117	*80	35	232		the shape your love takes,
 script/text/ev40050.txt	118	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -12502,17 +12502,17 @@ script/text/ev40051.txt	72	*51	189	232		Go seek out the next dojo.
 script/text/ev40051.txt	80	*60	130	232		Oh! I give thanks to god
 script/text/ev40051.txt	81	*60	113	232		for meeting you,
 script/text/ev40051.txt	82	*60	149	232		a <c3<Priest</c<.
-script/text/ev40051.txt	85	*61	112	232		Then I shall grant you
-script/text/ev40051.txt	88	*62	55	232		my
-script/text/ev40051.txt	89	*62	132	232		art of <c2<Wide Swing</c<,
-script/text/ev40051.txt	90	*62	82	232		I shall grant.
+script/text/ev40051.txt	85	*61	112	232		In that case...
+script/text/ev40051.txt	88	*62	55	232		I shall bestow upon you
+script/text/ev40051.txt	89	*62	132	232		my art of <c2<Wide Swing</c<.
+script/text/ev40051.txt	90	*62	82	232		<blank>
 script/text/ev40051.txt	97	*70	125	232		Oh! You have
 script/text/ev40051.txt	98	*70	78	232		already learned
 script/text/ev40051.txt	99	*70	133	232		<c2<Wide Swing</c<!
-script/text/ev40051.txt	102	*71	112	232		Then I shall grant you
-script/text/ev40051.txt	105	*72	154	232		an even more powerful
-script/text/ev40051.txt	106	*72	132	232		art of my
-script/text/ev40051.txt	107	*72	82	232		<c2<Wide Swing</c<.
+script/text/ev40051.txt	102	*71	112	232		In that case...
+script/text/ev40051.txt	105	*72	154	232		I shall bestow upon you
+script/text/ev40051.txt	106	*72	132	232		my even greater art
+script/text/ev40051.txt	107	*72	82	232		of <c2<Wide Swing</c<.
 script/text/ev40051.txt	116	*80	152	232		Please bring
 script/text/ev40051.txt	117	*80	35	232		the shape your love takes,
 script/text/ev40051.txt	118	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -12587,17 +12587,17 @@ script/text/ev40052.txt	72	*51	189	232		Go seek out the next dojo.
 script/text/ev40052.txt	80	*60	130	232		Oh! I give thanks to god
 script/text/ev40052.txt	81	*60	113	232		for meeting you,
 script/text/ev40052.txt	82	*60	149	232		a <c3<Priest</c<.
-script/text/ev40052.txt	85	*61	112	232		Then I shall grant you
-script/text/ev40052.txt	88	*62	55	232		my
-script/text/ev40052.txt	89	*62	127	232		art of <c2<Lightning</c<,
-script/text/ev40052.txt	90	*62	82	232		I shall grant.
+script/text/ev40052.txt	85	*61	112	232		In that case...
+script/text/ev40052.txt	88	*62	55	232		I shall bestow upon you
+script/text/ev40052.txt	89	*62	127	232		my art of <c2<Lightning</c<.
+script/text/ev40052.txt	90	*62	82	232		<blank>
 script/text/ev40052.txt	97	*70	125	232		Oh! You have
 script/text/ev40052.txt	98	*70	73	232		already learned
 script/text/ev40052.txt	99	*70	133	232		<c2<Lightning</c<!
-script/text/ev40052.txt	102	*71	112	232		Then I shall grant you
-script/text/ev40052.txt	105	*72	154	232		an even more powerful
-script/text/ev40052.txt	106	*72	127	232		art of my
-script/text/ev40052.txt	107	*72	82	232		<c2<Lightning</c<.
+script/text/ev40052.txt	102	*71	112	232		In that case...
+script/text/ev40052.txt	105	*72	154	232		I shall bestow upon you
+script/text/ev40052.txt	106	*72	127	232		my even greater art
+script/text/ev40052.txt	107	*72	82	232		of <c2<Lightning</c<.
 script/text/ev40052.txt	116	*80	152	232		Please bring
 script/text/ev40052.txt	117	*80	35	232		the shape your love takes,
 script/text/ev40052.txt	118	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -12672,17 +12672,17 @@ script/text/ev40053.txt	73	*51	189	232		Go seek out the next dojo.
 script/text/ev40053.txt	81	*60	130	232		Oh! I give thanks to god
 script/text/ev40053.txt	82	*60	113	232		for meeting you,
 script/text/ev40053.txt	83	*60	149	232		a <c3<Priest</c<.
-script/text/ev40053.txt	86	*61	112	232		Then I shall grant you
-script/text/ev40053.txt	89	*62	55	232		my
-script/text/ev40053.txt	90	*62	140	232		art of <c2<Thunderclap</c<,
-script/text/ev40053.txt	91	*62	82	232		I shall grant.
+script/text/ev40053.txt	86	*61	112	232		In that case...
+script/text/ev40053.txt	89	*62	55	232		I shall bestow upon you
+script/text/ev40053.txt	90	*62	140	232		my art of <c2<Thunderclap</c<.
+script/text/ev40053.txt	91	*62	82	232		<blank>
 script/text/ev40053.txt	98	*70	125	232		Oh! You have
 script/text/ev40053.txt	99	*70	86	232		already learned
 script/text/ev40053.txt	100	*70	133	232		<c2<Thunderclap</c<!
-script/text/ev40053.txt	103	*71	112	232		Then I shall grant you
-script/text/ev40053.txt	106	*72	154	232		an even more powerful
-script/text/ev40053.txt	107	*72	140	232		art of my
-script/text/ev40053.txt	108	*72	82	232		<c2<Thunderclap</c<.
+script/text/ev40053.txt	103	*71	112	232		In that case...
+script/text/ev40053.txt	106	*72	154	232		I shall bestow upon you
+script/text/ev40053.txt	107	*72	140	232		my even greater art
+script/text/ev40053.txt	108	*72	82	232		of <c2<Thunderclap</c<.
 script/text/ev40053.txt	117	*80	152	232		Please bring
 script/text/ev40053.txt	118	*80	35	232		the shape your love takes,
 script/text/ev40053.txt	119	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -12757,17 +12757,17 @@ script/text/ev40054.txt	73	*51	189	232		Go seek out the next dojo.
 script/text/ev40054.txt	81	*60	130	232		Oh! I give thanks to god
 script/text/ev40054.txt	82	*60	113	232		for meeting you,
 script/text/ev40054.txt	83	*60	149	232		a <c3<Priest</c<.
-script/text/ev40054.txt	86	*61	112	232		Then I shall grant you
-script/text/ev40054.txt	89	*62	55	232		my
-script/text/ev40054.txt	90	*62	108	232		art of <c2<Love Pulse</c<,
-script/text/ev40054.txt	91	*62	82	232		I shall grant.
+script/text/ev40054.txt	86	*61	112	232		In that case...
+script/text/ev40054.txt	89	*62	55	232		I shall bestow upon you
+script/text/ev40054.txt	90	*62	108	232		my art of <c2<Love Pulse</c<.
+script/text/ev40054.txt	91	*62	82	232		<blank>
 script/text/ev40054.txt	98	*70	125	232		Oh! You have
 script/text/ev40054.txt	99	*70	54	232		already learned
 script/text/ev40054.txt	100	*70	133	232		<c2<Love Pulse</c<!
-script/text/ev40054.txt	103	*71	112	232		Then I shall grant you
-script/text/ev40054.txt	107	*72	154	232		an even more powerful
-script/text/ev40054.txt	108	*72	108	232		art of my
-script/text/ev40054.txt	109	*72	82	232		<c2<Love Pulse</c<.
+script/text/ev40054.txt	103	*71	112	232		In that case...
+script/text/ev40054.txt	107	*72	154	232		I shall bestow upon you
+script/text/ev40054.txt	108	*72	108	232		my even greater art
+script/text/ev40054.txt	109	*72	82	232		of <c2<Love Pulse</c<.
 script/text/ev40054.txt	118	*80	152	232		Please bring
 script/text/ev40054.txt	119	*80	35	232		the shape your love takes,
 script/text/ev40054.txt	120	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -12842,17 +12842,17 @@ script/text/ev40055.txt	72	*51	189	232		Go seek out the next dojo.
 script/text/ev40055.txt	80	*60	130	232		Oh! I give thanks to god
 script/text/ev40055.txt	81	*60	113	232		for meeting you,
 script/text/ev40055.txt	82	*60	149	232		a <c3<Priest</c<.
-script/text/ev40055.txt	85	*61	112	232		Then I shall grant you
-script/text/ev40055.txt	88	*62	55	232		my
-script/text/ev40055.txt	89	*62	139	232		art of <c2<Love Beam</c<,
-script/text/ev40055.txt	90	*62	82	232		I shall grant.
+script/text/ev40055.txt	85	*61	112	232		In that case...
+script/text/ev40055.txt	88	*62	55	232		I shall bestow upon you
+script/text/ev40055.txt	89	*62	139	232		my art of <c2<Love Beam</c<.
+script/text/ev40055.txt	90	*62	82	232		<blank>
 script/text/ev40055.txt	97	*70	125	232		Oh! You have
 script/text/ev40055.txt	98	*70	85	232		already learned
 script/text/ev40055.txt	99	*70	133	232		<c2<Love Beam</c<!
-script/text/ev40055.txt	102	*71	112	232		Then I shall grant you
-script/text/ev40055.txt	106	*72	154	232		an even more powerful
-script/text/ev40055.txt	107	*72	139	232		art of my
-script/text/ev40055.txt	108	*72	82	232		<c2<Love Beam</c<.
+script/text/ev40055.txt	102	*71	112	232		In that case...
+script/text/ev40055.txt	106	*72	154	232		I shall bestow upon you
+script/text/ev40055.txt	107	*72	139	232		my even greater art
+script/text/ev40055.txt	108	*72	82	232		of <c2<Love Beam</c<.
 script/text/ev40055.txt	117	*80	152	232		Please bring
 script/text/ev40055.txt	118	*80	35	232		the shape your love takes,
 script/text/ev40055.txt	119	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -12927,17 +12927,17 @@ script/text/ev40056.txt	72	*51	189	232		Go seek out the next dojo.
 script/text/ev40056.txt	80	*60	130	232		Oh! I give thanks to god
 script/text/ev40056.txt	81	*60	113	232		for meeting you,
 script/text/ev40056.txt	82	*60	149	232		a <c3<Priest</c<.
-script/text/ev40056.txt	85	*61	112	232		Then I shall grant you
-script/text/ev40056.txt	88	*62	55	232		my
-script/text/ev40056.txt	89	*62	149	232		art of <c2<Hammer Arts</c<,
-script/text/ev40056.txt	90	*62	82	232		I shall grant.
+script/text/ev40056.txt	85	*61	112	232		In that case...
+script/text/ev40056.txt	88	*62	55	232		I shall bestow upon you
+script/text/ev40056.txt	89	*62	149	232		my art of <c2<Hammer Arts</c<.
+script/text/ev40056.txt	90	*62	82	232		<blank>
 script/text/ev40056.txt	97	*70	125	232		Oh! You have
 script/text/ev40056.txt	98	*70	95	232		already learned
 script/text/ev40056.txt	99	*70	133	232		<c2<Hammer Arts</c<!
-script/text/ev40056.txt	102	*71	112	232		Then I shall grant you
-script/text/ev40056.txt	106	*72	129	232		an even more powerful
-script/text/ev40056.txt	107	*72	149	232		art of my
-script/text/ev40056.txt	108	*72	82	232		<c2<Hammer Arts</c<.
+script/text/ev40056.txt	102	*71	112	232		In that case...
+script/text/ev40056.txt	106	*72	129	232		I shall bestow upon you
+script/text/ev40056.txt	107	*72	149	232		my even greater art
+script/text/ev40056.txt	108	*72	82	232		of <c2<Hammer Arts</c<.
 script/text/ev40056.txt	117	*80	152	232		Please bring
 script/text/ev40056.txt	118	*80	35	232		the shape your love takes,
 script/text/ev40056.txt	119	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -13012,17 +13012,17 @@ script/text/ev40057.txt	73	*51	189	232		Go seek out the next dojo.
 script/text/ev40057.txt	81	*60	130	232		Oh! I give thanks to god
 script/text/ev40057.txt	82	*60	113	232		for meeting you,
 script/text/ev40057.txt	83	*60	149	232		a <c3<Priest</c<.
-script/text/ev40057.txt	86	*61	112	232		Then I shall grant you
-script/text/ev40057.txt	90	*62	55	232		my
-script/text/ev40057.txt	91	*62	148	232		art of <c2<Defense Arts</c<,
-script/text/ev40057.txt	92	*62	82	232		I shall grant.
+script/text/ev40057.txt	86	*61	112	232		In that case...
+script/text/ev40057.txt	90	*62	55	232		I shall bestow upon you
+script/text/ev40057.txt	91	*62	148	232		my art of <c2<Defense Arts</c<.
+script/text/ev40057.txt	92	*62	82	232		<blank>
 script/text/ev40057.txt	99	*70	125	232		Oh! You have
 script/text/ev40057.txt	100	*70	94	232		already learned
 script/text/ev40057.txt	101	*70	133	232		<c2<Defense Arts</c<!
-script/text/ev40057.txt	104	*71	112	232		Then I shall grant you
-script/text/ev40057.txt	108	*72	129	232		an even more powerful
-script/text/ev40057.txt	109	*72	148	232		art of my
-script/text/ev40057.txt	110	*72	82	232		<c2<Defense Arts</c<.
+script/text/ev40057.txt	104	*71	112	232		In that case...
+script/text/ev40057.txt	108	*72	129	232		I shall bestow upon you
+script/text/ev40057.txt	109	*72	148	232		my even greater art
+script/text/ev40057.txt	110	*72	82	232		of <c2<Defense Arts</c<.
 script/text/ev40057.txt	119	*80	152	232		Please bring
 script/text/ev40057.txt	120	*80	35	232		the shape your love takes,
 script/text/ev40057.txt	121	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -13097,17 +13097,17 @@ script/text/ev40058.txt	72	*51	189	232		Go seek out the next dojo.
 script/text/ev40058.txt	80	*60	130	232		Oh! I give thanks to god
 script/text/ev40058.txt	81	*60	113	232		for meeting you,
 script/text/ev40058.txt	82	*60	149	232		a <c3<Priest</c<.
-script/text/ev40058.txt	85	*61	112	232		Then I shall grant you
-script/text/ev40058.txt	89	*62	55	232		my
-script/text/ev40058.txt	90	*62	160	232		art of <c2<Stamp Speed</c<,
-script/text/ev40058.txt	91	*62	82	232		I shall grant.
+script/text/ev40058.txt	85	*61	112	232		In that case...
+script/text/ev40058.txt	89	*62	55	232		I shall bestow upon you
+script/text/ev40058.txt	90	*62	160	232		my art of <c2<Stamp Speed</c<.
+script/text/ev40058.txt	91	*62	82	232		<blank>
 script/text/ev40058.txt	98	*70	125	232		Oh! You have
 script/text/ev40058.txt	99	*70	106	232		already learned
 script/text/ev40058.txt	100	*70	133	232		<c2<Stamp Speed</c<!
-script/text/ev40058.txt	103	*71	112	232		Then I shall grant you
-script/text/ev40058.txt	107	*72	154	232		an even more powerful
-script/text/ev40058.txt	108	*72	160	232		art of my
-script/text/ev40058.txt	109	*72	82	232		<c2<Stamp Speed</c<.
+script/text/ev40058.txt	103	*71	112	232		In that case...
+script/text/ev40058.txt	107	*72	154	232		I shall bestow upon you
+script/text/ev40058.txt	108	*72	160	232		my even greater art
+script/text/ev40058.txt	109	*72	82	232		of <c2<Stamp Speed</c<.
 script/text/ev40058.txt	118	*80	152	232		Please bring
 script/text/ev40058.txt	119	*80	35	232		the shape your love takes,
 script/text/ev40058.txt	120	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -13182,17 +13182,17 @@ script/text/ev40059.txt	72	*51	189	232		Go seek out the next dojo.
 script/text/ev40059.txt	80	*60	130	232		Oh! I give thanks to god
 script/text/ev40059.txt	81	*60	113	232		for meeting you,
 script/text/ev40059.txt	82	*60	149	232		a <c3<Priest</c<.
-script/text/ev40059.txt	85	*61	112	232		Then I shall grant you
-script/text/ev40059.txt	89	*62	55	232		my
-script/text/ev40059.txt	90	*62	151	232		art of <c2<Stamp Power</c<,
-script/text/ev40059.txt	91	*62	82	232		I shall grant.
+script/text/ev40059.txt	85	*61	112	232		In that case...
+script/text/ev40059.txt	89	*62	55	232		I shall bestow upon you
+script/text/ev40059.txt	90	*62	151	232		my art of <c2<Stamp Power</c<.
+script/text/ev40059.txt	91	*62	82	232		<blank>
 script/text/ev40059.txt	98	*70	125	232		Oh! You have
 script/text/ev40059.txt	99	*70	97	232		already learned
 script/text/ev40059.txt	100	*70	133	232		<c2<Stamp Power</c<!
-script/text/ev40059.txt	103	*71	112	232		Then I shall grant you
-script/text/ev40059.txt	107	*72	129	232		an even more powerful
-script/text/ev40059.txt	108	*72	151	232		art of my
-script/text/ev40059.txt	109	*72	82	232		<c2<Stamp Power</c<.
+script/text/ev40059.txt	103	*71	112	232		In that case...
+script/text/ev40059.txt	107	*72	129	232		I shall bestow upon you
+script/text/ev40059.txt	108	*72	151	232		my even greater art
+script/text/ev40059.txt	109	*72	82	232		of <c2<Stamp Power</c<.
 script/text/ev40059.txt	118	*80	152	232		Please bring
 script/text/ev40059.txt	119	*80	35	232		the shape your love takes,
 script/text/ev40059.txt	120	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -13267,17 +13267,17 @@ script/text/ev40060.txt	72	*51	189	232		Go seek out the next dojo.
 script/text/ev40060.txt	80	*60	130	232		Oh! I give thanks to god
 script/text/ev40060.txt	81	*60	113	232		for meeting you,
 script/text/ev40060.txt	82	*60	149	232		a <c3<Priest</c<.
-script/text/ev40060.txt	85	*61	112	232		Then I shall grant you
-script/text/ev40060.txt	89	*62	55	232		my
-script/text/ev40060.txt	90	*62	152	232		art of <c2<Angel's Guard</c<,
-script/text/ev40060.txt	91	*62	82	232		I shall grant.
+script/text/ev40060.txt	85	*61	112	232		In that case...
+script/text/ev40060.txt	89	*62	55	232		I shall bestow upon you
+script/text/ev40060.txt	90	*62	152	232		my art of <c2<Angel's Guard</c<.
+script/text/ev40060.txt	91	*62	82	232		<blank>
 script/text/ev40060.txt	98	*70	125	232		Oh! You have
 script/text/ev40060.txt	99	*70	98	232		already learned
 script/text/ev40060.txt	100	*70	133	232		<c2<Angel's Guard</c<!
-script/text/ev40060.txt	103	*71	112	232		Then I shall grant you
-script/text/ev40060.txt	107	*72	129	232		an even more powerful
-script/text/ev40060.txt	108	*72	152	232		art of my
-script/text/ev40060.txt	109	*72	82	232		<c2<Angel's Guard</c<.
+script/text/ev40060.txt	103	*71	112	232		In that case...
+script/text/ev40060.txt	107	*72	129	232		I shall bestow upon you
+script/text/ev40060.txt	108	*72	152	232		my even greater art
+script/text/ev40060.txt	109	*72	82	232		of <c2<Angel's Guard</c<.
 script/text/ev40060.txt	118	*80	152	232		Please bring
 script/text/ev40060.txt	119	*80	35	232		the shape your love takes,
 script/text/ev40060.txt	120	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -13352,17 +13352,17 @@ script/text/ev40061.txt	73	*51	189	232		Go seek out the next dojo.
 script/text/ev40061.txt	81	*60	130	232		Oh! I give thanks to god
 script/text/ev40061.txt	82	*60	113	232		for meeting you,
 script/text/ev40061.txt	83	*60	149	232		a <c3<Priest</c<.
-script/text/ev40061.txt	86	*61	112	232		Then I shall grant you
-script/text/ev40061.txt	90	*62	55	232		my
-script/text/ev40061.txt	91	*62	119	232		art of <c2<Serenity</c<,
-script/text/ev40061.txt	92	*62	82	232		I shall grant.
+script/text/ev40061.txt	86	*61	112	232		In that case...
+script/text/ev40061.txt	90	*62	55	232		I shall bestow upon you
+script/text/ev40061.txt	91	*62	119	232		my art of <c2<Serenity</c<.
+script/text/ev40061.txt	92	*62	82	232		<blank>
 script/text/ev40061.txt	99	*70	125	232		Oh! You have
 script/text/ev40061.txt	100	*70	65	232		already learned
 script/text/ev40061.txt	101	*70	133	232		<c2<Serenity</c<!
-script/text/ev40061.txt	104	*71	112	232		Then I shall grant you
-script/text/ev40061.txt	108	*72	129	232		an even more powerful
-script/text/ev40061.txt	109	*72	119	232		art of my
-script/text/ev40061.txt	110	*72	82	232		<c2<Serenity</c<.
+script/text/ev40061.txt	104	*71	112	232		In that case...
+script/text/ev40061.txt	108	*72	129	232		I shall bestow upon you
+script/text/ev40061.txt	109	*72	119	232		my even greater art
+script/text/ev40061.txt	110	*72	82	232		of <c2<Serenity</c<.
 script/text/ev40061.txt	119	*80	152	232		Please bring
 script/text/ev40061.txt	120	*80	35	232		the shape your love takes,
 script/text/ev40061.txt	121	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -13437,17 +13437,17 @@ script/text/ev40062.txt	72	*51	189	232		Go seek out the next dojo.
 script/text/ev40062.txt	80	*60	130	232		Oh! I give thanks to god
 script/text/ev40062.txt	81	*60	113	232		for meeting you,
 script/text/ev40062.txt	82	*60	149	232		a <c3<Priest</c<.
-script/text/ev40062.txt	85	*61	112	232		Then I shall grant you
-script/text/ev40062.txt	89	*62	55	232		my
-script/text/ev40062.txt	90	*62	139	232		art of <c2<Life Up</c<,
-script/text/ev40062.txt	91	*62	82	232		I shall grant.
+script/text/ev40062.txt	85	*61	112	232		In that case...
+script/text/ev40062.txt	89	*62	55	232		I shall bestow upon you
+script/text/ev40062.txt	90	*62	139	232		my art of <c2<Life Up</c<.
+script/text/ev40062.txt	91	*62	82	232		<blank>
 script/text/ev40062.txt	98	*70	125	232		Oh! You have
 script/text/ev40062.txt	99	*70	85	232		already learned
 script/text/ev40062.txt	100	*70	133	232		<c2<Life Up</c<!
-script/text/ev40062.txt	103	*71	112	232		Then I shall grant you
-script/text/ev40062.txt	107	*72	129	232		an even more powerful
-script/text/ev40062.txt	108	*72	139	232		art of my
-script/text/ev40062.txt	109	*72	82	232		<c2<Life Up</c<.
+script/text/ev40062.txt	103	*71	112	232		In that case...
+script/text/ev40062.txt	107	*72	129	232		I shall bestow upon you
+script/text/ev40062.txt	108	*72	139	232		my even greater art
+script/text/ev40062.txt	109	*72	82	232		of <c2<Life Up</c<.
 script/text/ev40062.txt	118	*80	152	232		Please bring
 script/text/ev40062.txt	119	*80	35	232		the shape your love takes,
 script/text/ev40062.txt	120	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -13522,17 +13522,17 @@ script/text/ev40063.txt	72	*51	189	232		Go seek out the next dojo.
 script/text/ev40063.txt	80	*60	130	232		Oh! I give thanks to god
 script/text/ev40063.txt	81	*60	113	232		for meeting you,
 script/text/ev40063.txt	82	*60	149	232		a <c3<Priest</c<.
-script/text/ev40063.txt	85	*61	112	232		Then I shall grant you
-script/text/ev40063.txt	89	*62	55	232		my
-script/text/ev40063.txt	90	*62	137	232		art of <c2<Life Link</c<,
-script/text/ev40063.txt	91	*62	82	232		I shall grant.
+script/text/ev40063.txt	85	*61	112	232		In that case...
+script/text/ev40063.txt	89	*62	55	232		I shall bestow upon you
+script/text/ev40063.txt	90	*62	137	232		my art of <c2<Life Link</c<.
+script/text/ev40063.txt	91	*62	82	232		<blank>
 script/text/ev40063.txt	98	*70	125	232		Oh! You have
 script/text/ev40063.txt	99	*70	83	232		already learned
 script/text/ev40063.txt	100	*70	133	232		<c2<Life Link</c<!
-script/text/ev40063.txt	103	*71	112	232		Then I shall grant you
-script/text/ev40063.txt	107	*72	129	232		an even more powerful
-script/text/ev40063.txt	108	*72	137	232		art of my
-script/text/ev40063.txt	109	*72	82	232		<c2<Life Link</c<.
+script/text/ev40063.txt	103	*71	112	232		In that case...
+script/text/ev40063.txt	107	*72	129	232		I shall bestow upon you
+script/text/ev40063.txt	108	*72	137	232		my even greater art
+script/text/ev40063.txt	109	*72	82	232		of <c2<Life Link</c<.
 script/text/ev40063.txt	118	*80	152	232		Please bring
 script/text/ev40063.txt	119	*80	35	232		the shape your love takes,
 script/text/ev40063.txt	120	*80	107	232		<c2<#insitem#</c< x#insnumber#.
@@ -20828,7 +20828,7 @@ script/text/ev50013.txt	27	*6	108	232		Then this conversation
 script/text/ev50013.txt	28	*6	103	232		ends right here!
 script/text/ev50013.txt	31	*7	101	232		Once you become a <c8<Thief</c<,
 script/text/ev50013.txt	32	*7	77	232		let's talk again!
-script/text/ev50013.txt	37	*10	83	232		Ufufu, so you're
+script/text/ev50013.txt	37	*10	83	232		Teehee, so you're
 script/text/ev50013.txt	38	*10	133	232		a <c4<Trickster</c< too!
 script/text/ev50013.txt	41	*11	101	232		Being a <c4<Trickster</c<
 script/text/ev50013.txt	42	*11	140	232		is the best, isn't it!
@@ -20962,7 +20962,7 @@ script/text/ev50014.txt	24	*7	84	232		Unfortunately,
 script/text/ev50014.txt	25	*7	159	232		please come back another time...
 script/text/ev50014.txt	31	*10	40	232		Oh my?
 script/text/ev50014.txt	32	*10	143	232		So you're a <c4<Scout</c< too.
-script/text/ev50014.txt	36	*11	42	232		Ufufu,
+script/text/ev50014.txt	36	*11	42	232		Hmhm,
 script/text/ev50014.txt	37	*11	99	232		it's nice
 script/text/ev50014.txt	38	*11	138	232		to meet a fellow <c4<Scout</c<.
 script/text/ev50014.txt	44	*20	102	232		As you are now,
@@ -21739,8 +21739,8 @@ script/text/ev70001.txt	29	*31	129	232		To think you'd chase me
 script/text/ev70001.txt	30	*31	117	232		this far -- quite the human.
 script/text/ev70001.txt	33	*32	137	232		I find myself wanting
 script/text/ev70001.txt	34	*32	92	232		to know your name.
-script/text/ev70001.txt	37	*33	102	232		Would you mind
-script/text/ev70001.txt	38	*33	133	232		telling me your name?
+script/text/ev70001.txt	37	*33	102	232		Will you
+script/text/ev70001.txt	38	*33	133	232		tell me your name?
 script/text/ev70001.txt	41	*40	168	232		Quite cautious, aren't you...
 script/text/ev70001.txt	44	*41	116	232		A wise attitude to have.
 script/text/ev70001.txt	47	*42	160	232		But against me, it's no use.
@@ -21758,7 +21758,7 @@ script/text/ev70001.txt	76	*61	116	232		I've gone ahead and
 script/text/ev70001.txt	77	*61	162	232		placed a little curse on you.
 script/text/ev70001.txt	81	*62	85	232		One that'll make things
 script/text/ev70001.txt	82	*62	170	232		a lot more fun from here on.
-script/text/ev70001.txt	85	*63	59	232		Fu fu fu fu.
+script/text/ev70001.txt	85	*63	59	232		Heh heh heh heh.
 script/text/ev70001.txt	88	*64	148	232		Now, shall we begin, >host>!
 script/text/ev70001.txt	91	*70	59	232		So it's >host>...
 script/text/ev70001.txt	94	*71	57	232		You humans really
@@ -22096,7 +22096,7 @@ script/text/ev70009.txt	33	*14	71	232		.........
 script/text/ev70009.txt	36	*15	164	232		Well then, shall we begin?
 script/text/ev70009.txt	39	*16	99	232		Our final battle,
 script/text/ev70009.txt	40	*16	113	232		yours and mine!
-script/text/ev70009.txt	43	*20	48	232		Fu fu fu.
+script/text/ev70009.txt	43	*20	48	232		Heh heh heh.
 script/text/ev70009.txt	46	*21	74	232		I thought as much.
 script/text/ev70009.txt	49	*22	146	232		There's nowhere left
 script/text/ev70009.txt	50	*22	112	232		for me to run anymore.
@@ -22114,7 +22114,7 @@ script/text/ev70010.txt	4	*2	52	232		Nnngh......
 script/text/ev70010.txt	7	*3	21	232		Ngh...
 script/text/ev70010.txt	10	*4	64	232		Uramirudo...
 script/text/ev70010.txt	13	*5	75	232		Re...force...
-script/text/ev70010.txt	16	*10	61	232		Fu fu fu!!
+script/text/ev70010.txt	16	*10	61	232		Heh heh heh!!
 script/text/ev70010.txt	19	*11	120	232		Now it's perfect!
 script/text/ev70010.txt	22	*12	65	232		Thank you!
 script/text/ev70010.txt	23	*12	40	232		>host>!
@@ -22135,7 +22135,7 @@ script/text/ev70010.txt	49	*41	70	232		would build up
 script/text/ev70010.txt	50	*41	142	232		inside of me.
 script/text/ev70010.txt	53	*42	100	232		And now,
 script/text/ev70010.txt	54	*42	120	232		I've unleashed it all at once.
-script/text/ev70010.txt	57	*43	52	232		Fu fu fu!
+script/text/ev70010.txt	57	*43	52	232		Heh heh heh!
 script/text/ev70010.txt	60	*44	153	232		With this much magic power,
 script/text/ev70010.txt	61	*44	85	232		I don't even need
 script/text/ev70010.txt	62	*44	79	232		Sasha anymore!
@@ -22591,8 +22591,8 @@ script/text/ev70017.txt	156	*91	105	232		It's over, isn't it...
 script/text/ev70017.txt	159	*92	74	232		Come, let's
 script/text/ev70017.txt	160	*92	76	232		return to the castle.
 script/text/ev70017.txt	183	*10001	35	232		I know
-script/text/ev70017.txt	184	*10001	45	232		I don't know
-script/text/ev70017.txt	189	*10002	46	232		I understand
+script/text/ev70017.txt	184	*10001	45	232		No idea
+script/text/ev70017.txt	189	*10002	46	232		Got it
 script/text/ev70017.txt	190	*10002	34	232		Sorry
 script/text/ev71000.txt	1	*100	22	232		Ngh...
 script/text/ev71000.txt	4	*101	98	232		So this is still
@@ -22653,7 +22653,7 @@ script/text/ev71009.txt	4	*2	52	232		Nnngh......
 script/text/ev71009.txt	7	*3	21	232		Ngh...
 script/text/ev71009.txt	10	*4	64	232		<c2<Uramirudo...</c<
 script/text/ev71009.txt	13	*5	75	232		<c2<Re...force...</c<
-script/text/ev71009.txt	16	*10	55	232		Fu fu fu! Ha!
+script/text/ev71009.txt	16	*10	55	232		Heh heh heh! Ha!
 script/text/ev71009.txt	19	*11	117	232		Now it's perfect!
 script/text/ev71009.txt	22	*12	105	232		Thank you! >host>!
 script/text/ev71009.txt	25	*13	186	232		It's all thanks to your cooperation!
@@ -22670,7 +22670,7 @@ script/text/ev71009.txt	45	*41	76	232		would build up
 script/text/ev71009.txt	46	*41	153	232		inside of me.
 script/text/ev71009.txt	49	*42	106	232		And now,
 script/text/ev71009.txt	50	*42	126	232		I've unleashed it all at once!
-script/text/ev71009.txt	53	*43	49	232		Fu fu fu!
+script/text/ev71009.txt	53	*43	49	232		Heh heh heh!
 script/text/ev71009.txt	56	*44	159	232		With this much magic power,
 script/text/ev71009.txt	57	*44	173	232		I don't even need <c2<Sasha</c< anymore!
 script/text/ev71009.txt	60	*45	74	232		I can cast
@@ -22697,7 +22697,7 @@ script/text/ev72005.txt	1	*1	67	232
 script/text/ev72006.txt	1	*1	67	232		
 script/text/ev72007.txt	1	*1	67	232		
 script/text/ev72008.txt	1	*1	67	232		No text
-script/text/ev72008.txt	4	*10	55	232		Fu fu fu! Ha!
+script/text/ev72008.txt	4	*10	55	232		Heh heh heh! Ha!
 script/text/ev72008.txt	7	*11	117	232		Now it's perfect!
 script/text/ev72008.txt	10	*12	105	232		Thank you! >host>!
 script/text/ev72008.txt	13	*13	186	232		It's all thanks to your cooperation!
@@ -22714,7 +22714,7 @@ script/text/ev72008.txt	33	*41	76	232		would build up
 script/text/ev72008.txt	34	*41	153	232		inside of me.
 script/text/ev72008.txt	37	*42	106	232		And now,
 script/text/ev72008.txt	38	*42	126	232		I've unleashed it all at once!
-script/text/ev72008.txt	41	*43	49	232		Fu fu fu!
+script/text/ev72008.txt	41	*43	49	232		Heh heh heh!
 script/text/ev72008.txt	44	*44	159	232		With this much magic power,
 script/text/ev72008.txt	45	*44	173	232		I don't even need <c2<Sasha</c< anymore!
 script/text/ev72008.txt	48	*45	74	232		I can cast
@@ -23442,8 +23442,8 @@ script/text/ev80002.txt	334	*310	41	232		<c4<>pn></c<
 script/text/ev80002.txt	335	*310	162	232		<c4<became the new princess!</c<
 script/text/ev80002.txt	338	*320	41	232		<c4<>pn></c<
 script/text/ev80002.txt	339	*320	158	232		<c4<became the world's hero!</c<
-script/text/ev80002.txt	351	*10001	44	232		I'll take it
-script/text/ev80002.txt	352	*10001	58	232		Something else
+script/text/ev80002.txt	351	*10001	44	232		Please!
+script/text/ev80002.txt	352	*10001	58	232		Other
 script/text/ev80002.txt	356	*10002	24	232		Yes
 script/text/ev80002.txt	357	*10002	36	232		No
 script/text/ev81000.txt	1	*1	59	232		>pn>!!

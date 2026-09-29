@@ -6,7 +6,7 @@ Hard limit is 16 bytes per name, which is 16 ASCII characters.
 
 Naming conventions
     Invented creature families are transliterated so their relationships stay
-    visible: Punion, Mooton, Booton, Rex, Tauros, Moena, Rockn.
+    visible: Punion, Mooton, Oinkton, Rex, Tauros, Moena, Rockn.
     デカ / チビ / ミニ  ->  Big / Little / Mini
     Ｓ suffix on a boss marks the stronger rematch; rendered as a " S" suffix.
 """
@@ -28,7 +28,7 @@ MONSTERS = {
     "ゆきやまさん": "Mt. Snowy",
     # -- A ---------------------------------------------------------------
     "アソザーン": "Asozan", "アックスバード": "Axe Bird",
-    "アリスラビット": "Alice Rabbit", "イナズマブートン": "Bolt Booton",
+    "アリスラビット": "Alice Rabbit", "イナズマブートン": "Bolt Oinkton",
     "イビルソーサラー": "Evil Sorcerer", "イビルボール": "Evil Ball",
     "イベリコぶたさん": "Iberico Pig", "エイリアン": "Alien",
     "エイリアンベビー": "Alien Baby", "エイリアンマザー": "Alien Mother",
@@ -59,7 +59,7 @@ MONSTERS = {
     "サメッポ": "Sharkie", "サメッポグレート": "Great Sharkie",
     "サメッポベビー": "Baby Sharkie", "サンダーウッシー": "Thunder Cow",
     "サンダーカツオ": "Thunder Bonito", "サンダーバグ": "Thunder Bug",
-    "サンダーブートン": "Thunder Booton", "サンダーホエール": "Thunder Whale",
+    "サンダーブートン": "Thunder Oinkton", "サンダーホエール": "Thunder Whale",
     "サンダーマグロ": "Thunder Tuna", "サンダーリュウ": "Thunder Dragon",
     "サンドサーモン": "Sand Salmon", "シェイプパケット": "Shape Packet",
     "シソバード": "Archaeobird", "シルバープニオン": "Silver Punion",
@@ -84,7 +84,7 @@ MONSTERS = {
     "チールタウロス": "Chill Tauros", "テラモエーナ": "Tera Moena",
     "デカしいたけ": "Big Shiitake", "デカオニ": "Big Ogre",
     "デカキノコーン": "Big Mushcorn", "デカデカボーン": "Huge Bone",
-    "デカトマトン": "Big Tomaton", "デカブートン": "Big Booton",
+    "デカトマトン": "Big Tomaton", "デカブートン": "Big Oinkton",
     "デカプニオン": "Big Punion", "デカムシャ": "Big Samurai",
     "デコーダー": "Decoder", "デスエンジェル": "Death Angel",
     "デスホワイト": "Death White", "デビルボーイ": "Devil Boy",
@@ -116,7 +116,7 @@ MONSTERS = {
     "ブックカッター": "Book Cutter", "ブックガーダー": "Book Guarder",
     "ブックリーダー": "Book Reader", "ブラッドエビル": "Blood Evil",
     "ブラッドドラゴン": "Blood Dragon", "ブラッドワン": "Blood One",
-    "ブレードバード": "Blade Bird", "ブートン": "Booton",
+    "ブレードバード": "Blade Bird", "ブートン": "Oinkton",
     "プチウッシー": "Petit Cow", "プチファング": "Petit Fang",
     "プチモエーナ": "Petit Moena", "プチロックン": "Petit Rockn",
     "プニオン": "Punion", "プニオンエリート": "Punion Elite",
@@ -135,11 +135,11 @@ MONSTERS = {
     "マウントエベ": "Mt. Everest", "マウントチョモ": "Mt. Chomo",
     "マグマレックス": "Magma Rex", "マジカルウィング": "Magical Wing",
     "マジカルスカイ": "Magical Sky", "マジカルフェザー": "Magical Feather",
-    "マジカルブートン": "Magical Booton", "マッハギュオーン": "Mach Mooton",
+    "マジカルブートン": "Magical Oinkton", "マッハギュオーン": "Mach Mooton",
     "マドウジンキ": "Magic Golem", "マドウヘイキ": "Magic Weapon",
-    "ミニックス": "Minix", "ミニブートン": "Mini Booton",
+    "ミニックス": "Minix", "ミニブートン": "Mini Oinkton",
     "ミニマムグレイ": "Minimum Grey", "ミニムシャ": "Mini Samurai",
-    "ミュータレックス": "Mutant Rex", "ミラクルブートン": "Miracle Booton",
+    "ミュータレックス": "Mutant Rex", "ミラクルブートン": "Miracle Oinkton",
     "ミラクルマタンゴ": "Miracle Matango", "メカコック": "Mecha Cook",
     "メガレックス": "Mega Rex", "メギドフレイム": "Megido Flame",
     "メタルプニオン": "Metal Punion", "メッキング": "Gold-Plated King",
@@ -147,7 +147,7 @@ MONSTERS = {
     # -- Y/R -------------------------------------------------------------
     "ヤバイやつ": "Nasty One", "ユニバスシャーク": "Universe Shark",
     "ライジンウッシー": "Raijin Cow", "ライトニングバグ": "Lightning Bug",
-    "ライトブートン": "Light Booton", "ラジカルブートン": "Radical Booton",
+    "ライトブートン": "Light Oinkton", "ラジカルブートン": "Radical Oinkton",
     "ラブゴン": "Lovegon", "リトルグレイ": "Little Grey",
     "レアなやつ": "Rare One", "レアバグ": "Rare Bug",
     "レックス": "Rex", "レックスベビー": "Rex Baby",
