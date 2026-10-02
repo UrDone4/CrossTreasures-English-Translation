@@ -609,7 +609,8 @@ class BgLayer:
         return best
 
     def text_width(self, font, text, scale):
-        return sum(font.advance(ord(c)) for c in text) * scale
+        # "\b" in a label pulls the pen back one pixel (hand kerning)
+        return sum(-1 if c == "\b" else font.advance(ord(c)) for c in text) * scale
 
     def draw_text(self, font, text, box, ink, scale=1, align="center",
                   allow_shared=False):
@@ -624,6 +625,9 @@ class BgLayer:
             pen = x0 + (x1 - x0 - width) // 2
         top = y0 + (y1 - y0 - font.cell_h * scale) // 2
         for ch in text:
+            if ch == "\b":
+                pen -= scale
+                continue
             gi = font.cmap.get(ord(ch))
             if gi is None:
                 pen += font.advance(ord(" ")) * scale
@@ -683,6 +687,9 @@ class BgLayer:
                else self._pen(width, x0, x1))
         top = y0 + (y1 - y0 - font.cell_h * scale) // 2
         for ch in text:
+            if ch == "\b":
+                pen -= scale
+                continue
             gi = font.cmap.get(ord(ch))
             if gi is None:
                 pen += font.advance(ord(" ")) * scale

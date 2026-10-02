@@ -4940,3 +4940,35 @@ data_treasure/quest_data.dat	44	title	63	20		Secret of the Battle Suit
 data_treasure/quest_data.dat	45	title	63	26		Revive the Yakutanon Beam
 data_treasure/quest_data.dat	46	title	63	22		Rescue Eriyu
 data_treasure/quest_data.dat	47	title	63	16		The Final Battle
+data_treasure/ramen_onsen.dat	0	name	19	4		Miso Ramen
+data_treasure/ramen_onsen.dat	1	name	19	4		Shio Ramen
+data_treasure/ramen_onsen.dat	2	name	19	8		Shoyu Ramen
+data_treasure/ramen_onsen.dat	3	name	19	8		Tonkotsu Ramen
+data_treasure/ramen_onsen.dat	4	name	19	4		Miso Ramen
+data_treasure/ramen_onsen.dat	5	name	19	4		Shio Ramen
+data_treasure/ramen_onsen.dat	6	name	19	8		Shoyu Ramen
+data_treasure/ramen_onsen.dat	7	name	19	8		Tonkotsu Ramen
+data_treasure/ramen_onsen.dat	8	name	19	10		Healing Spring
+data_treasure/ramen_onsen.dat	9	name	19	10		Spring of the Heart
+data_treasure/ramen_onsen.dat	10	name	19	10		Golden Spring
+data_treasure/ramen_onsen.dat	11	name	19	10		Young Leaf Spring
+data_treasure/ramen_onsen.dat	12	name	19	10		Healing Spring
+data_treasure/ramen_onsen.dat	13	name	19	10		Spring of the Heart
+data_treasure/ramen_onsen.dat	14	name	19	10		Golden Spring
+data_treasure/ramen_onsen.dat	15	name	19	10		Young Leaf Spring
+data_treasure/ramen_onsen.dat	0	desc	79	42		Attack power increases\nby #insnumber#%!
+data_treasure/ramen_onsen.dat	1	desc	79	42		Defense power increases\nby #insnumber#%!
+data_treasure/ramen_onsen.dat	2	desc	79	68		All learned Action Skills\nrise by #insnumber# Lv!
+data_treasure/ramen_onsen.dat	3	desc	79	66		All learned Passive Skills\nrise by #insnumber# Lv!
+data_treasure/ramen_onsen.dat	4	desc	79	42		Attack power increases\nby #insnumber#%!
+data_treasure/ramen_onsen.dat	5	desc	79	42		Defense power increases\nby #insnumber#%!
+data_treasure/ramen_onsen.dat	6	desc	79	68		All learned Action Skills\nrise by #insnumber# Lv!
+data_treasure/ramen_onsen.dat	7	desc	79	66		All learned Passive Skills\nrise by #insnumber# Lv!
+data_treasure/ramen_onsen.dat	8	desc	79	64		Lost HP recovers #insnumber#%\nevery 3 seconds!
+data_treasure/ramen_onsen.dat	9	desc	79	64		Lost MP recovers #insnumber#%\nevery 3 seconds!
+data_treasure/ramen_onsen.dat	10	desc	79	62		Gold dropped by monsters\nincreases by #insnumber#%!
+data_treasure/ramen_onsen.dat	11	desc	79	60		Growth speed on level-up\nincreases by #insnumber#%!
+data_treasure/ramen_onsen.dat	12	desc	79	64		Lost HP recovers #insnumber#%\nevery 3 seconds!
+data_treasure/ramen_onsen.dat	13	desc	79	64		Lost MP recovers #insnumber#%\nevery 3 seconds!
+data_treasure/ramen_onsen.dat	14	desc	79	62		Gold dropped by monsters\nincreases by #insnumber#%!
+data_treasure/ramen_onsen.dat	15	desc	79	60		Growth speed on level-up\nincreases by #insnumber#%!

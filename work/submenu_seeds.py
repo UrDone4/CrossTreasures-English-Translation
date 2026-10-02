@@ -33,10 +33,13 @@ _GIFT_INFO = [
 _TAB = {"grow": "left"}
 _TIMER_BAR = [
     # boxes by hand: the measured ones overlap, and the later label's clear would
-    # erase the tail of the earlier word
-    ((112, 150, 126, 156), "Left", "center", {"box": (107, 147, 130, 159)}),
-    ((138, 150, 160, 156), "hr", "center", {"box": (131, 147, 172, 159)}),
-    ((182, 150, 218, 156), "min", "center", {"box": (173, 147, 223, 159)}),
+    # erase the tail of the earlier word. The game draws the digits itself, in
+    # the gaps of the Japanese (hour ~x128-134, minutes ~x162-175), so each word
+    # is left-aligned to start just after its digits: "\b" kerns "Left" into the
+    # 19px the Japanese あと allowed
+    ((112, 150, 126, 156), "L\be\bf\bt", "left", {"box": (107, 147, 130, 159)}),
+    ((138, 150, 160, 156), "hr", "left", {"box": (131, 147, 172, 159), "indent": 6}),
+    ((182, 150, 218, 156), "min", "left", {"box": (173, 147, 223, 159), "indent": 5}),
 ]
 
 _NAME = ((174, 43, 202, 49), "Name")

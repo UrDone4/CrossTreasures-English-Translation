@@ -93,16 +93,18 @@ def origin(bank, ci):
     return min(e["x"] for e in ents), min(e["y"] for e in ents)
 
 
-def owner(bank, ci, entries, ax, ay):
+def owner(bank, ci, entries, ax, ay, claim=False):
     """Sheet position of the entry that is *visible* at (ax, ay), if allowed.
 
     Topmost = lowest index among entries with an opaque pixel there. If that
-    entry is not one this label may edit, the pixel is left alone.
+    entry is not one this label may edit, the pixel is left alone. `claim`
+    lets a label take over a transparent pixel of its own entries (to cover
+    something that shows through from a layer behind).
     """
     for k, e in enumerate(bank.cells[ci]):
         if e["x"] <= ax < e["x"] + e["w"] and e["y"] <= ay < e["y"] + e["h"]:
             pos = sheet_pos(bank, e, ax - e["x"], ay - e["y"])
-            if bank.flat[pos] == 0:
+            if bank.flat[pos] == 0 and not (claim and k in entries):
                 continue                      # transparent: the next one shows
             return pos if k in entries else None
     return None
@@ -134,7 +136,7 @@ def paint_label(bank, font, spec):
     cover = {}
     for y in range(y0, y1):
         for x in range(x0, x1):
-            pos = owner(bank, ci, entries, x + ox, y + oy)
+            pos = owner(bank, ci, entries, x + ox, y + oy, spec.get("claim", False))
             if pos is not None:
                 cover[(x, y)] = pos
     if not cover:

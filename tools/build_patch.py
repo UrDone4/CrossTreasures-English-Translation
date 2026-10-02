@@ -212,6 +212,26 @@ def main(argv):
         import fake_friends_rom
         arm9 += fake_friends_rom.apply(builder.data)
         print("built-in friends: on")
+    # the Map screen's dungeon-name tab (tools/map_floor_name.py): its code
+    # draws madu_map.narc's cell 34, which only bg_labels.py apply adds
+    import map_floor_name
+    import map_obj
+    from narc import Narc
+    map_rel = os.path.join("info", "subgraphics", "madu_map.narc")
+    tab_ok = False
+    if map_rel in pending:
+        import tempfile
+        from ngfx import ncer_raw
+        with tempfile.NamedTemporaryFile(delete=False, suffix=".narc") as fh:
+            fh.write(pending[map_rel])
+        tab_ok = len(ncer_raw(Narc(fh.name).file(map_obj.MAP_MEMBERS[2]))) > map_obj.TAB_CELL
+        os.unlink(fh.name)
+    if tab_ok:
+        arm9 += map_floor_name.apply(builder.data)
+        print("map dungeon-name tab: on")
+    else:
+        print("  !! map dungeon-name tab: OFF -- madu_map.narc has no tab cell "
+              "(run bg_labels.py apply first)")
     patch_banner(builder.data)
     size = builder.save(dst)
     print("UI %d | script %d | tables %d | narc-text %d | sprites %d | bg %d"

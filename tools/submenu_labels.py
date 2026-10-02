@@ -215,7 +215,7 @@ def labels_for(layer, font, seeds, report=True):
             # reach the Japanese's first antialiased pixel, but the English
             # should keep the original's gap after the button icon
             tight = (tight[0] + over["indent"],) + tuple(tight[1:])
-        width = sum(font.advance(ord(c)) for c in english)
+        width = sum(-1 if c == "\b" else font.advance(ord(c)) for c in english)
         if over.get("grow") == "left" and pill:
             # the tab pill is sized for the Japanese: widen it leftwards (over
             # whatever is there) to the full height of the pill, with a margin

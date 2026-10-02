@@ -873,13 +873,13 @@ script/text/ev100007.txt	91	*510	148	232		<c3<Island Parts</c<<c4<!</c<
 script/text/ev100007.txt	94	*520	136	232		<c2<Pink Root</c< <c4<gave you</c<
 script/text/ev100007.txt	95	*520	105	232		<c2<Cherry Tree</c< <c4<for your</c<
 script/text/ev100007.txt	96	*520	170	232		<c3<Island Parts</c<<c4<!</c<
-script/text/ev100007.txt	99	*530	135	232		<c2<Japan Roots</c< <c4<gave you</c<
+script/text/ev100007.txt	99	*530	135	232		<c2<Japan Root</c< <c4<gave you</c<
 script/text/ev100007.txt	100	*530	105	232		<c2<Pine Tree</c< <c4<for your</c<
 script/text/ev100007.txt	101	*530	149	232		<c3<Island Parts</c<<c4<!</c<
 script/text/ev100007.txt	107	*540	133	232		<c2<Sunflower Seed</c< <c4<gave you</c<
 script/text/ev100007.txt	108	*540	105	232		<c2<Sunflower</c< <c4<for your</c<
 script/text/ev100007.txt	109	*540	147	232		<c3<Island Parts</c<<c4<!</c<
-script/text/ev100007.txt	112	*550	137	232		<c2<Dangerous Spore</c< <c4<gave you</c<
+script/text/ev100007.txt	112	*550	137	232		<c2<Toxic Spore</c< <c4<gave you</c<
 script/text/ev100007.txt	113	*550	105	232		<c2<Hyper Mushroom</c< <c4<for your</c<
 script/text/ev100007.txt	114	*550	179	232		<c3<Island Parts</c<<c4<!</c<
 script/text/ev100007.txt	117	*560	135	232		<c2<Chomp Seed</c< <c4<gave you</c<
@@ -891,16 +891,16 @@ script/text/ev100007.txt	127	*570	193	232		<c3<Island Parts</c<<c4<!</c<
 script/text/ev100007.txt	130	*580	139	232		<c2<Ancient Mural</c< <c4<gave you</c<
 script/text/ev100007.txt	131	*580	105	232		<c2<Totem Pole</c< <c4<for your</c<
 script/text/ev100007.txt	132	*580	178	232		<c3<Island Parts</c<<c4<!</c<
-script/text/ev100007.txt	135	*590	150	232		<c2<Confidential Scroll</c< <c4<gave you</c<
+script/text/ev100007.txt	135	*590	150	232		<c2<Sealed Scroll</c< <c4<gave you</c<
 script/text/ev100007.txt	136	*590	105	232		<c2<Birdhouse</c< <c4<for your</c<
 script/text/ev100007.txt	137	*590	181	232		<c3<Island Parts</c<<c4<!</c<
-script/text/ev100007.txt	143	*600	144	232		<c2<Hungry Stone</c< <c4<gave you</c<
+script/text/ev100007.txt	143	*600	144	232		<c2<Hunger Stone</c< <c4<gave you</c<
 script/text/ev100007.txt	144	*600	105	232		<c2<Stone Deck</c< <c4<for your</c<
 script/text/ev100007.txt	145	*600	177	232		<c3<Island Parts</c<<c4<!</c<
-script/text/ev100007.txt	148	*610	123	232		<c2<Jama-i Can</c< <c4<gave you</c<
+script/text/ev100007.txt	148	*610	123	232		<c2<Jamaica Can</c< <c4<gave you</c<
 script/text/ev100007.txt	149	*610	105	232		<c2<Colorful Deck</c< <c4<for your</c<
 script/text/ev100007.txt	150	*610	180	232		<c3<Island Parts</c<<c4<!</c<
-script/text/ev100007.txt	153	*620	148	232		<c2<Hyper Bamboo Shoot</c< <c4<gave you</c<
+script/text/ev100007.txt	153	*620	148	232		<c2<Hyper Bamboo</c< <c4<gave you</c<
 script/text/ev100007.txt	154	*620	105	232		<c2<Bamboo Deck</c< <c4<for your</c<
 script/text/ev100007.txt	155	*620	180	232		<c3<Island Parts</c<<c4<!</c<
 script/text/ev100007.txt	162	*630	125	232		<c2<Red Brick</c< <c4<gave you</c<
@@ -912,7 +912,7 @@ script/text/ev100007.txt	169	*640	161	232		<c3<Island Parts</c<<c4<!</c<
 script/text/ev100007.txt	172	*650	146	232		<c2<Harbor Photo</c< <c4<gave you</c<
 script/text/ev100007.txt	173	*650	105	232		<c2<White Port</c< <c4<for your</c<
 script/text/ev100007.txt	174	*650	175	232		<c3<Island Parts</c<<c4<!</c<
-script/text/ev100007.txt	181	*660	125	232		<c2<Windy Mast</c< <c4<gave you</c<
+script/text/ev100007.txt	181	*660	125	232		<c2<Wind Mast</c< <c4<gave you</c<
 script/text/ev100007.txt	182	*660	105	232		<c2<Breezy Ship</c< <c4<for your</c<
 script/text/ev100007.txt	183	*660	182	232		<c3<Island Parts</c<<c4<!</c<
 script/text/ev100007.txt	186	*670	143	232		<c2<Yakutanon Cape</c< <c4<gave you</c<
@@ -954,13 +954,13 @@ script/text/ev100007.txt	248	*780	167	232		<c6<Monster Pets</c<<c4<!</c<
 script/text/ev100007.txt	254	*790	133	232		<c2<Rockn Gem</c< <c4<gave you</c<
 script/text/ev100007.txt	255	*790	71	232		<c2<Rockn</c< <c4<for your</c<
 script/text/ev100007.txt	256	*790	144	232		<c6<Monster Pets</c<<c4<!</c<
-script/text/ev100007.txt	259	*800	148	232		<c2<Contract Oath</c< <c4<gave you</c<
+script/text/ev100007.txt	259	*800	148	232		<c2<Contract Vow</c< <c4<gave you</c<
 script/text/ev100007.txt	260	*800	71	232		<c2<Hell Devil</c< <c4<for your</c<
 script/text/ev100007.txt	261	*800	160	232		<c6<Monster Pets</c<<c4<!</c<
 script/text/ev100007.txt	264	*810	133	232		<c2<Dragon Egg</c< <c4<gave you</c<
 script/text/ev100007.txt	265	*810	71	232		<c2<Red Dragon</c< <c4<for your</c<
 script/text/ev100007.txt	266	*810	173	232		<c6<Monster Pets</c<<c4<!</c<
-script/text/ev100007.txt	269	*820	134	232		<c2<Summoning Stone</c< <c4<gave you</c<
+script/text/ev100007.txt	269	*820	134	232		<c2<Summon Stone</c< <c4<gave you</c<
 script/text/ev100007.txt	270	*820	71	232		<c2<Dark Dragon</c< <c4<for your</c<
 script/text/ev100007.txt	271	*820	177	232		<c6<Monster Pets</c<<c4<!</c<
 script/text/ev100007.txt	274	*830	132	232		<c2<Cozy Egg</c< <c4<gave you</c<
@@ -3354,12 +3354,12 @@ script/text/ev21005.txt	64	*100	127	232		<c4<quest!</c<
 script/text/ev21005.txt	67	*101	114	232		I'm so happy!
 script/text/ev21005.txt	71	*102	95	232		Next, what I'd like
 script/text/ev21005.txt	72	*102	115	232		you to bring me, >pn>,
-script/text/ev21005.txt	73	*102	114	232		is <c2<the Beginning of Time</c<.
-script/text/ev21005.txt	76	*103	97	232		<c2<The Beginning of Time</c<
+script/text/ev21005.txt	73	*102	114	232		is <c2<Time's Origin</c<.
+script/text/ev21005.txt	76	*103	97	232		<c2<Time's Origin</c<
 script/text/ev21005.txt	77	*103	173	232		<c4<should drop in the Cosmo World,</c<
 script/text/ev21005.txt	78	*103	204	232		from a Big Bang</c<, I believe.
 script/text/ev21005.txt	81	*104	147	232		I'm counting on you!
-script/text/ev21005.txt	89	*110	97	232		<c2<The Beginning of Time</c<
+script/text/ev21005.txt	89	*110	97	232		<c2<Time's Origin</c<
 script/text/ev21005.txt	90	*110	173	232		<c4<should drop in the Cosmo World,</c<
 script/text/ev21005.txt	91	*110	204	232		from a Big Bang</c<, I believe.
 script/text/ev21005.txt	95	*111	147	232		I'm counting on you!
@@ -3406,7 +3406,7 @@ script/text/ev21006.txt	20	*5	57	232		No matter what I try,
 script/text/ev21006.txt	21	*5	146	232		I just can't get
 script/text/ev21006.txt	22	*5	132	232		the target control to work right...
 script/text/ev21006.txt	25	*6	118	232		If I had
-script/text/ev21006.txt	26	*6	145	232		the Black Hole's <c2<Secret of the Universe</c<,
+script/text/ev21006.txt	26	*6	145	232		the Black Hole's <c2<Cosmic Secret</c<,
 script/text/ev21006.txt	29	*7	89	232		I think I could
 script/text/ev21006.txt	30	*7	172	232		solve this problem, but...
 script/text/ev21006.txt	33	*8	96	232		Could you
@@ -3426,11 +3426,11 @@ script/text/ev21006.txt	73	*100	32	232		<c4<>pn> accepted</c<
 script/text/ev21006.txt	74	*100	120	232		<c4<the</c< <c8<Not Enough Data...</c<
 script/text/ev21006.txt	75	*100	127	232		<c4<quest!</c<
 script/text/ev21006.txt	78	*101	114	232		I'm so happy!
-script/text/ev21006.txt	82	*102	109	232		<c2<The Secret of the Universe</c<
+script/text/ev21006.txt	82	*102	109	232		<c2<Cosmic Secret</c<
 script/text/ev21006.txt	83	*102	176	232		<c4<should drop in the Black Hole,</c<
 script/text/ev21006.txt	84	*102	218	232		from a Minimum Grey</c<, I believe.
 script/text/ev21006.txt	87	*103	147	232		I'm counting on you!
-script/text/ev21006.txt	95	*110	109	232		<c2<The Secret of the Universe</c<
+script/text/ev21006.txt	95	*110	109	232		<c2<Cosmic Secret</c<
 script/text/ev21006.txt	96	*110	176	232		<c4<should drop in the Black Hole,</c<
 script/text/ev21006.txt	97	*110	218	232		from a Minimum Grey</c<, I believe.
 script/text/ev21006.txt	101	*111	147	232		I'm counting on you!
@@ -3785,7 +3785,7 @@ script/text/ev22001.txt	13	*4	107	232		Mint is
 script/text/ev22001.txt	14	*4	160	232		in quite a bit of trouble right now.
 script/text/ev22001.txt	17	*5	77	232		Mint
 script/text/ev22001.txt	18	*5	86	232		absolutely has to have
-script/text/ev22001.txt	19	*5	169	232		a <c2<Bug Egg</c< right now.
+script/text/ev22001.txt	19	*5	169	232		a <c2<Insect Egg</c< right now.
 script/text/ev22001.txt	22	*6	172	232		That coquettish black egg
 script/text/ev22001.txt	23	*6	176	232		that occasionally wriggles about --
 script/text/ev22001.txt	26	*7	161	232		Mint wants to gaze at it
@@ -3815,7 +3815,7 @@ script/text/ev22001.txt	83	*100	127	232		<c4<quest!</c<
 script/text/ev22001.txt	86	*101	125	232		Zing! Right in the heart!
 script/text/ev22001.txt	89	*102	32	232		>pn>
 script/text/ev22001.txt	90	*102	136	232		is such a good person!
-script/text/ev22001.txt	93	*103	88	232		<c2<Bug Eggs</c<
+script/text/ev22001.txt	93	*103	88	232		<c2<Insect Eggs</c<
 script/text/ev22001.txt	94	*103	169	232		<c4<can be found in the Royal Graves,</c<
 script/text/ev22001.txt	95	*103	153	232		in the <c2<undergrowth</c<.
 script/text/ev22001.txt	98	*104	148	232		Just one alone would be
@@ -3863,7 +3863,7 @@ script/text/ev22002.txt	14	*4	160	232		in quite a bit of trouble right now.
 script/text/ev22002.txt	17	*5	88	232		There's something
 script/text/ev22002.txt	18	*5	86	232		Mint absolutely
 script/text/ev22002.txt	19	*5	141	232		has to have right now!
-script/text/ev22002.txt	22	*6	183	232		It's a <c2<Mysterious Tentacle</c<!
+script/text/ev22002.txt	22	*6	183	232		It's a <c2<Mystery Tentacle</c<!
 script/text/ev22002.txt	25	*7	105	232		That pretty tentacle
 script/text/ev22002.txt	26	*7	172	232		that squirms and wriggles about --
 script/text/ev22002.txt	29	*8	159	232		Mint wants to pet it
@@ -3893,7 +3893,7 @@ script/text/ev22002.txt	86	*100	127	232		<c4<quest!</c<
 script/text/ev22002.txt	89	*101	125	232		Zing! Right in the heart!
 script/text/ev22002.txt	92	*102	32	232		>pn>
 script/text/ev22002.txt	93	*102	136	232		is such a good person!
-script/text/ev22002.txt	96	*103	102	232		<c2<Mysterious Tentacle</c<
+script/text/ev22002.txt	96	*103	102	232		<c2<Mystery Tentacle</c<
 script/text/ev22002.txt	97	*103	164	232		<c4<comes from the Dark Nest,</c<
 script/text/ev22002.txt	98	*103	186	232		off a <c8<Nest Queen</c<.
 script/text/ev22002.txt	101	*104	112	232		Do your very best
@@ -4188,11 +4188,11 @@ script/text/ev22006.txt	35	*9	175	232		A miracle item
 script/text/ev22006.txt	36	*9	179	232		that can instantly fix
 script/text/ev22006.txt	37	*9	98	232		anything no matter how worn out!
 script/text/ev22006.txt	40	*10	96	232		She discovered that
-script/text/ev22006.txt	41	*10	97	232		the <c2<Blow-Blow Breath</c<
+script/text/ev22006.txt	41	*10	97	232		the <c2<Puff Breath</c<
 script/text/ev22006.txt	42	*10	164	232		can be found in the <c4<Dot Field</c<!
 script/text/ev22006.txt	45	*11	73	232		So Mint wants
 script/text/ev22006.txt	46	*11	146	232		you, >pn>, to bring back
-script/text/ev22006.txt	47	*11	140	232		3 <c2<Blow-Blow Breaths</c<!
+script/text/ev22006.txt	47	*11	140	232		3 <c2<Puff Breaths</c<!
 script/text/ev22006.txt	50	*10002	58	232		Accept
 script/text/ev22006.txt	51	*10002	45	232		Decline
 script/text/ev22006.txt	57	*70	28	232		Nyu?
@@ -4215,7 +4215,7 @@ script/text/ev22006.txt	97	*100	127	232		<c4<quest!</c<
 script/text/ev22006.txt	100	*101	125	232		Zing! Right in the heart!
 script/text/ev22006.txt	103	*102	82	232		I knew it -- >pn>
 script/text/ev22006.txt	104	*102	154	232		is such a good person!
-script/text/ev22006.txt	107	*103	96	232		<c2<Blow-Blow Breath</c<
+script/text/ev22006.txt	107	*103	96	232		<c2<Puff Breath</c<
 script/text/ev22006.txt	108	*103	178	232		<c4<can be found in the Dot Field,</c<
 script/text/ev22006.txt	109	*103	145	232		at a <c2<fishing spot</c<!
 script/text/ev22006.txt	112	*104	126	232		Mint believes
@@ -4363,7 +4363,7 @@ script/text/ev22008.txt	45	*54	94	232		<c2<a Mirror Gem!?</c< <c4<from</c<
 script/text/ev22008.txt	46	*54	65	232		<c4<Mint!!</c<
 script/text/ev22008.txt	49	*55	60	232		Nyu nyu...?
 script/text/ev22008.txt	52	*56	140	232		Um, the thing sitting next to it,
-script/text/ev22008.txt	53	*56	147	232		the <c2<Mysterious Tentacle</c<...
+script/text/ev22008.txt	53	*56	147	232		the <c2<Mystery Tentacle</c<...
 script/text/ev22008.txt	56	*57	83	232		seems to have
 script/text/ev22008.txt	57	*57	152	232		gotten tangled around the <c2<Mirror Gem</c<
 script/text/ev22008.txt	58	*57	129	232		and won't come off...
@@ -4373,7 +4373,7 @@ script/text/ev22008.txt	67	*60	141	232		Mint is so sorry...
 script/text/ev22008.txt	70	*61	110	232		She offers you
 script/text/ev22008.txt	71	*61	145	232		her sincerest apologies...
 script/text/ev22008.txt	77	*80	98	232		That little
-script/text/ev22008.txt	78	*80	136	232		<c2<Mysterious Tentacle</c< that was sitting next to it
+script/text/ev22008.txt	78	*80	136	232		<c2<Mystery Tentacle</c< that was sitting next to it
 script/text/ev22008.txt	81	*81	83	232		has gotten tangled
 script/text/ev22008.txt	82	*81	152	232		around the <c2<Mirror Gem</c<
 script/text/ev22008.txt	83	*81	129	232		and won't come off...
@@ -7845,7 +7845,7 @@ script/text/ev32003.txt	7	*3	95	232		This hot spring
 script/text/ev32003.txt	8	*3	129	232		<c3<speeds up growth</c<
 script/text/ev32003.txt	9	*3	57	232		for anyone who bathes in it,
 script/text/ev32003.txt	13	*4	124	232		and the bathing fee
-script/text/ev32003.txt	14	*4	105	232		is 5 <c2<Night Leaves</c<,
+script/text/ev32003.txt	14	*4	105	232		is 5 <c2<Knight Leaves</c<,
 script/text/ev32003.txt	15	*4	97	232		if you'd like to come in.
 script/text/ev32003.txt	18	*5	134	232		Would you like to go in?
 script/text/ev32003.txt	21	*10	111	232		Well then, I'll be
@@ -7854,7 +7854,7 @@ script/text/ev32003.txt	25	*20	24	232		Oh my,
 script/text/ev32003.txt	26	*20	81	232		it seems you're short
 script/text/ev32003.txt	27	*20	131	232		on <c2<Knight Leaf</c<...
 script/text/ev32003.txt	30	*21	106	232		Once you've gathered
-script/text/ev32003.txt	31	*21	69	232		5 <c2<Night Leaves</c<,
+script/text/ev32003.txt	31	*21	69	232		5 <c2<Knight Leaves</c<,
 script/text/ev32003.txt	32	*21	92	232		please come again.
 script/text/ev32003.txt	35	*30	100	232		Oh my, it seems your
 script/text/ev32003.txt	36	*30	148	232		friends are waiting outside.
@@ -23577,7 +23577,7 @@ script/text/ev81002.txt	5	*2	114	232		any luck getting the <c2<Mirror Gem</c<?
 script/text/ev81002.txt	8	*3	66	232		Huh! This is
 script/text/ev81002.txt	9	*3	122	232		the <c2<Mirror Gem</c<!?
 script/text/ev81002.txt	12	*4	142	232		I see, so it ended up
-script/text/ev81002.txt	13	*4	149	232		getting close to a <c2<Mysterious Tentacle</c<...
+script/text/ev81002.txt	13	*4	149	232		getting close to a <c2<Mystery Tentacle</c<...
 script/text/ev81002.txt	16	*5	106	232		Once that happens,
 script/text/ev81002.txt	17	*5	136	232		the tentacle
 script/text/ev81002.txt	18	*5	170	232		won't come off the gem anymore...

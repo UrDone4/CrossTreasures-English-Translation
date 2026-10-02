@@ -84,6 +84,12 @@ SCHEMA = [
     # step, EXP, wanted item / count, reward item / count, then the title).
     # The title is the record's last field, so its capacity runs to the end.
     ("data_treasure/quest_data.dat",        "title",   28, 64),
+    # Status > Ramen / Spa: 16 x 120-byte records (8 distinct entries, each
+    # stored twice): u32 id, name at +4 (20 bytes only: +24..+39 hold the
+    # effect type / value / duration, which a longer name field would zero and
+    # freeze the page whenever a status is active), effect text at +40 to the end
+    ("data_treasure/ramen_onsen.dat",       "name",    4, 20),
+    ("data_treasure/ramen_onsen.dat",       "desc",   40, 80),
 ]
 
 

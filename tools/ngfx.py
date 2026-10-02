@@ -405,20 +405,26 @@ def oam_words(template, x, y, w, h, tile):
     return (a0, a1, a2)
 
 
-def rebuild_ncer(data, cells_raw):
-    """A copy of NCER `data` with its OAM lists replaced by `cells_raw`
-    (same cell count). The cell table, OAM data, KBEC size and file size are
-    rewritten; the header fields and the LBAL / TXEU blocks are kept."""
+def rebuild_ncer(data, cells_raw, new_attrs=()):
+    """A copy of NCER `data` with its OAM lists replaced by `cells_raw`.
+    The cell table, OAM data, KBEC size and file size are rewritten; the
+    header fields and the LBAL / TXEU blocks are kept. Cells past the
+    original count are new: `new_attrs` gives each one's attribute word
+    (bank type 0 only -- its 8-byte record has no bounding box)."""
     data = bytes(data)
     blocks = sections(data)
     off, ksize = blocks[b"KBEC"]
     n_cells, bank_type = struct.unpack_from("<HH", data, off + 8)
-    assert n_cells == len(cells_raw)
+    assert len(cells_raw) == n_cells + len(new_attrs)
+    assert not new_attrs or bank_type == 0
     base = off + 8 + struct.unpack_from("<I", data, off + 12)[0]
     step = 16 if bank_type == 1 else 8
     table, oam = bytearray(), bytearray()
     for i, entries in enumerate(cells_raw):
-        rec = bytearray(data[base + i * step:base + (i + 1) * step])
+        if i >= n_cells:
+            rec = bytearray(struct.pack("<HHI", 0, new_attrs[i - n_cells], 0))
+        else:
+            rec = bytearray(data[base + i * step:base + (i + 1) * step])
         struct.pack_into("<HHI", rec, 0, len(entries), struct.unpack_from("<H", rec, 2)[0],
                          len(oam))
         table += rec
@@ -428,6 +434,7 @@ def rebuild_ncer(data, cells_raw):
     while len(kbec) % 4:
         kbec += b"\0"
     struct.pack_into("<I", kbec, 4, len(kbec))
+    struct.pack_into("<H", kbec, 8, len(cells_raw))
     rest = data[off + ksize:]
     out = bytearray(data[:off]) + kbec + rest
     struct.pack_into("<I", out, 8, len(out))

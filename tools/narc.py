@@ -36,7 +36,10 @@ def sections(d):
 class Narc:
     def __init__(self, path):
         self.path = path
-        self.data = bytearray(open(path, "rb").read())
+        self._parse(bytearray(open(path, "rb").read()))
+
+    def _parse(self, data):
+        self.data = data
         assert self.data[:4] == b"NARC", "not a NARC archive"
         blocks = sections(self.data)
         self.fat_off, _ = blocks[b"BTAF"]
@@ -98,6 +101,13 @@ class Narc:
                 fh.write(self.data)
         return bytes(self.data)
 
+
+    def regrow(self, index, blob):
+        """Replace one member, allowing it to grow: the archive is rebuilt
+        (see `rebuild`) and this object re-reads it, so later `file` /
+        `replace` calls see the new layout."""
+        self._parse(bytearray(self.rebuild({index: blob})))
+        return bytes(self.data)
 
     def rebuild(self, overrides):
         """Rebuild the archive with some members replaced, allowing growth.
